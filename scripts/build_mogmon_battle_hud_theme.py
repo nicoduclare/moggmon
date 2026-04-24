@@ -900,18 +900,57 @@ def style_capture_tray_icons() -> None:
 
 def style_item_icons() -> None:
   atlas_json = ROOT / "assets" / "images" / "items.json"
+  item_root = ROOT / "assets" / "images" / "items"
   atlas_meta = json.loads(atlas_json.read_text())
   texture = atlas_meta["textures"][0]
-  size = texture["size"]
-  dst = Image.new("RGBA", (size["w"], size["h"]), (0, 0, 0, 0))
+  sheet_width = texture["size"]["w"]
+  padding = 1
+  x = 0
+  y = 0
+  row_height = 0
+  packed_frames: list[tuple[dict, Image.Image, tuple[int, int]]] = []
 
   for frame in texture["frames"]:
     name = frame["filename"]
-    rect = frame["frame"]
-    icon = render_item_frame(name, rect["w"], rect["h"])
-    dst.alpha_composite(icon, (rect["x"], rect["y"]))
+    source_path = item_root / f"{name}.png"
+    if source_path.exists():
+      icon = Image.open(source_path).convert("RGBA")
+    else:
+      rect = frame["frame"]
+      icon = render_item_frame(name, rect["w"], rect["h"])
 
+    bbox = icon.getbbox()
+    if bbox is None:
+      bbox = (0, 0, 1, 1)
+
+    cropped = icon.crop(bbox)
+    width, height = cropped.size
+    if x and x + width > sheet_width:
+      x = 0
+      y += row_height + padding
+      row_height = 0
+
+    new_frame = {
+      **frame,
+      "rotated": False,
+      "trimmed": True,
+      "sourceSize": {"w": icon.width, "h": icon.height},
+      "spriteSourceSize": {"x": bbox[0], "y": bbox[1], "w": width, "h": height},
+      "frame": {"x": x, "y": y, "w": width, "h": height},
+    }
+    packed_frames.append((new_frame, cropped, (x, y)))
+    x += width + padding
+    row_height = max(row_height, height)
+
+  sheet_height = y + row_height
+  dst = Image.new("RGBA", (sheet_width, sheet_height), (0, 0, 0, 0))
+  for _frame, cropped, pos in packed_frames:
+    dst.alpha_composite(cropped, pos)
+
+  texture["size"] = {"w": sheet_width, "h": sheet_height}
+  texture["frames"] = [frame for frame, _cropped, _pos in packed_frames]
   dst.save(ROOT / "assets" / "images" / "items.png")
+  atlas_json.write_text(json.dumps(atlas_meta, indent="\t") + "\n")
 
 
 def main() -> None:

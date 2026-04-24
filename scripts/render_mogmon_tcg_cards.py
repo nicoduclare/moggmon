@@ -21,6 +21,17 @@ ROOT = Path(__file__).resolve().parents[1]
 TCG_ROOT = ROOT / "tcg"
 
 
+def has_numeric_source_dirs(path: Path) -> bool:
+    return path.exists() and any(child.is_dir() and child.name.isdigit() for child in path.iterdir())
+
+
+def default_source_dir() -> Path:
+    tcg_raw = Path("tcg/raw")
+    if has_numeric_source_dirs(ROOT / tcg_raw):
+        return tcg_raw
+    return Path("output/private-generation-prompts/mogger-mon-tcg")
+
+
 def first_existing_path(*paths: Path) -> Path:
     for path in paths:
         if path.exists():
@@ -195,9 +206,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--source-dir",
         type=Path,
-        default=Path("tcg/raw")
-        if (TCG_ROOT / "raw").exists()
-        else Path("output/private-generation-prompts/mogger-mon-tcg"),
+        default=default_source_dir(),
         help="Directory containing per-dex TCG art folders.",
     )
     parser.add_argument(

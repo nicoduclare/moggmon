@@ -23,7 +23,7 @@ card	sourceDex	name	evolvesFromCard	stageLabel	note
 022	22	Voli Camelo Plus	021	final	
 023	23	Ombra Boo		base	
 024	24	Ombra Boo Prime	023	final	
-025	25	Zapuccino	172	mid	
+025	25	Zapuccino		base	trimmed 151: starts local two-stage chain
 026	26	Grandzapuccino	025	final	
 027	27	Pipi Bau		base	
 028	28	Pipi Bau Max	027	final	
@@ -33,11 +33,11 @@ card	sourceDex	name	evolvesFromCard	stageLabel	note
 032	32	Assa Skull		base	
 033	33	Assa Skull Prime	032	mid	
 034	34	Assa Skull Omega	033	final	
-035	35	Cosmi Taco Max	173	mid	
+035	35	Cosmi Taco Max		base	trimmed 151: starts local two-stage chain
 036	36	Cosmi Taco Boss	035	final	
 037	37	Bau Bomba		base	
 038	38	Bau Bomba Prime	037	final	
-039	39	Tralala Pepper Plus	174	mid	
+039	39	Tralala Pepper Plus		base	trimmed 151: starts local two-stage chain
 040	40	Tralala Pepper Ultra	039	final	
 041	41	Boo Ombra		base	
 042	42	Boo Ombra Plus	041	mid	
@@ -104,13 +104,13 @@ card	sourceDex	name	evolvesFromCard	stageLabel	note
 103	103	Corni Telemo Telepi	102	final	
 104	104	Panda Goat		base	
 105	105	Panda Goat Bear	104	final	
-106	106	Bombombini Gusini	163	branch-final	
+106	106	Bombombini Gusini		solo	trimmed 151: standalone launch card
 107	107	Band Bici Boss		solo	
 108	108	Tung Tralala		solo	
 109	109	Boo Ombra Luna		base	
 110	110	Boo Ombra Skull	109	final	
 111	111	Panda Drago		base	
-112	112	Panda Drago Plus		final	
+112	112	Panda Drago Plus	111	final	linked launch dragon chain
 113	113	Tung Pipi Prime		solo	
 114	114	Avoca Cacto		solo	
 115	115	Tralala Camelo		solo	
@@ -139,69 +139,14 @@ card	sourceDex	name	evolvesFromCard	stageLabel	note
 138	138	Sahur Aquana		base	
 139	139	Sahur Aquana Max	138	final	
 140	140	Octo Drago		base	
-141	141	Octo Drago Prime		final	
+141	141	Octo Drago Prime	140	final	linked launch dragon chain
 142	142	Croco Techi		solo	
 143	143	Snorrelaxo		solo	
 144	144	Frigo Cosmi		solo	
 145	145	Brr Pegasi		solo	
 146	146	Rizz Bomba		solo	
 147	147	Sahur Drago		base	
-148	148	Sahur Drago Plus		mid	
-149	149	Sahur Drago Boss		final	
+148	148	Sahur Drago Plus	147	mid	linked launch dragon chain
+149	149	Sahur Drago Boss	148	final	linked launch dragon chain
 150	150	Mewtwissimo		solo	
 151	151	Mozzarellmew		solo	
-152	152	Chicoritooni		base	
-153	153	Arachnid Family	152	mid	
-154	154	Arcadopus	153	final	
-155	155	Cyndaqwilli		base	
-156	156	Astrolero Cervalero	155	mid	
-157	157	Avocadini Antilopini	156	final	
-158	158	Totodilli		base	
-159	159	Avocadorilla	158	mid	
-160	160	Bambu Bambu Sahur	159	final	
-161	161	Bandito Axolito		base	
-162	162	Bandito Bobritto	161	final	
-163	163	Bombardino Piccolino		base	
-164	164	Bombardiro Crocodilo	163	branch-final	
-165	165	Brr es Teh Patipum		base	
-166	166	Brri Brri Bicus Dicus Bombicus	165	final	
-167	167	Buho de Fuego		base	
-168	168	Buho de Noelo	167	final	
-169	169	Bunny Tralala	042	final	
-170	170	Capi Taco		solo	
-171	171	Cappuccino Assassino	177	mid	
-172	172	Cappuccino Clownino		base	
-173	173	Chicleteira Bicicleteira		base	
-174	174	Chicleteirina Bicicleteirina		base	
-175	175	Chimpanzini Spiderini		base	
-176	176	Chocco Bunny	175	final	
-177	177	Cocoa Assassino		base	
-178	178	Coffin Tung Tung Tung Sahur		solo	
-179	179	Dolphini Jetskini		base	
-180	180	Dragon Cannelloni		mid	
-181	181	Dragon Gingerini		final	
-182	182	Fishboard	044	branch-final	
-183	183	Fishino Clownino		base	
-184	184	Granchiello Spiritell	183	final	
-185	185	Ice Dragon		final	
-186	186	La Taco Combinasion	061	branch-final	
-187	187	Lavadorito Spinito		base	
-188	188	Mastodontico Telepiedone	187	mid	
-189	189	Meowl	188	final	
-190	190	Pipi Kiwi		base	
-191	191	Quesadilla Crocodila		base	
-192	192	Svinina Bombardino	191	final	
-193	193	Te Te Sahur		base	
-194	194	Ti Ti Ti Sahur		base	
-195	195	Tralalita Tralala	194	final	
-196	196	Urubini Flamenguini		solo	
-197	197	Gangster Footera	133	branch-final	
-198	237	Bombardino Hippopito	163	branch-final	
-199	424	Pipi Kiwi Maximo	190	final	
-200	438	Gelato Pebblino		base	
-201	469	Te Te Te Sahur	193	final	
-202	470	Grass Footera	133	branch-final	
-203	475	Ballerino Lololo		solo	
-204	478	Frappocino Assassino	171	branch-final	
-205	512	Matchaino Assassino	171	branch-final	
-206	571	Espressona Signora		solo	

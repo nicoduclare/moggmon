@@ -25,6 +25,17 @@ def repo_path(path: Path) -> Path:
     return path if path.is_absolute() else ROOT / path
 
 
+def has_numeric_source_dirs(path: Path) -> bool:
+    return path.exists() and any(child.is_dir() and child.name.isdigit() for child in path.iterdir())
+
+
+def default_raw_dir() -> Path:
+    tcg_raw = Path("tcg/raw")
+    if has_numeric_source_dirs(ROOT / tcg_raw):
+        return tcg_raw
+    return Path("output/private-generation-prompts/mogger-mon-tcg")
+
+
 def parse_dex_values(raw_values: list[str]) -> set[str]:
     dexes: set[str] = set()
     for raw_value in raw_values:
@@ -96,7 +107,16 @@ def find_raw_holo_mask(raw_dir: Path, dex: str) -> Path | None:
 
 def find_raw_holo_mask_for_card(raw_dir: Path, card: str, card_to_source: dict[str, str]) -> Path | None:
     source_dex = card_to_source.get(card, card)
-    return find_raw_holo_mask(raw_dir, source_dex)
+    candidates = [source_dex]
+    if source_dex.isdigit():
+        padded = f"{int(source_dex):03d}"
+        if padded not in candidates:
+            candidates.append(padded)
+    for candidate in candidates:
+        mask = find_raw_holo_mask(raw_dir, candidate)
+        if mask is not None:
+            return mask
+    return None
 
 
 def render_card_space_mask(raw_mask_path: Path, border_card_mask: Image.Image) -> Image.Image:
@@ -185,8 +205,8 @@ def main() -> None:
     parser.add_argument(
         "--raw-dir",
         type=Path,
-        default=Path("tcg/raw"),
-        help="Raw per-dex TCG source directory used for rebuilding card-space masks. Default: tcg/raw",
+        default=default_raw_dir(),
+        help="Raw per-dex TCG source directory used for rebuilding card-space masks.",
     )
     parser.add_argument(
         "--border-dir",

@@ -42,11 +42,11 @@ Useful commands:
 - `locales`: vendored localization files
 - `docs`: launch notes, manifests, and planning docs
 
-## Open Source Status
+## Open Source Notes
 
-The codebase is much closer to Mogger Mon branding now, but it is not yet a clean public OSS drop.
+The public tree is sanitized for local paths and high-confidence secret patterns. Asset provenance and inherited credits are still active review areas because this started as a fork.
 
-Before publishing, review:
+Useful review references:
 
 - [open-source-readiness.md](./docs/open-source-readiness.md)
 - [mogger-mon-item-taxonomy.md](./docs/mogger-mon-item-taxonomy.md)

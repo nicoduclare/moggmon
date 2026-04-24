@@ -5,9 +5,7 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 -->
 
 <p align="center">
-  <video src="./docs/media/mogger-mon-preview.mp4" controls muted playsinline width="100%">
-    <a href="./docs/media/mogger-mon-preview.mp4">Watch the gameplay preview</a>
-  </video>
+  <img src="./docs/media/mogger-mon-preview.jpg" alt="Mogger Mon gameplay preview" width="100%">
   <br>
   <a href="https://moggmon.vercel.app">Play Mogger Mon on Vercel</a>
 </p>

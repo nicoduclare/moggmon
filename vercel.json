@@ -3,5 +3,13 @@
   "framework": "vite",
   "buildCommand": "pnpm build:app",
   "installCommand": "pnpm install --config.engine-strict=false",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.moggmon.xyz" }],
+      "destination": "https://moggmon.xyz/:path*",
+      "permanent": true
+    }
+  ]
 }

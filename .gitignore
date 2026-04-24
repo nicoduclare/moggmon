@@ -46,6 +46,7 @@ coverage
 /dependency-graph.svg
 
 # Script outputs
+scripts/
 *.csv
 .vercel
 __pycache__/

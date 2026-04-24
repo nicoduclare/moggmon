@@ -1,0 +1,8 @@
+{
+  "fight": "Fight",
+  "ball": "Cryo",
+  "pokemon": "Roster",
+  "run": "Run",
+  "actionMessage": "What will\n{{pokemonName}} do?",
+  "ballCancel": "Cancel"
+}

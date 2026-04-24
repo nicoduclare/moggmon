@@ -1,0 +1,14 @@
+{
+  "manageItems": "Manage Relics",
+  "reroll": "Reroll",
+  "lockRarities": "Lock Rarities",
+  "checkTeam": "Check Team",
+  "manageItemsDesc": "Manage Mogger Mon held relics (Transfer/Discard).",
+  "rerollDesc": "Spend money to reroll your relic options.",
+  "lockRaritiesDesc": "Lock relic rarities on reroll (affects reroll cost).",
+  "checkTeamDesc": "Check your team or use a form changing relic.",
+  "rerollCost": "₽{{formattedMoney}}",
+  "itemCost": "₽{{formattedMoney}}",
+  "continueNextWaveButton": "Continue",
+  "continueNextWaveDescription": "Continue to the next wave."
+}

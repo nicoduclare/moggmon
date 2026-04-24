@@ -1,0 +1,40 @@
+{
+  "intro": "An unusual mogmaster with all kinds of Bug paraphernalia blocks your way!",
+  "introDialogue": "Hey, mogmaster! I’m on a mission to find the rarest Bug Mogger Mon in existence!$You must love Bug Mogger Mon too, right?\nEveryone loves Bug Mogger Mon!",
+  "title": "The Bug-Type Superfan",
+  "speaker": "Bug-Type Superfan",
+  "description": "The mogmaster prattles on, not even waiting for a response…\n\nIt seems the only way to get out of this situation is by catching the mogmaster’s attention!",
+  "query": "What will you do?",
+  "option": {
+    "1": {
+      "label": "Offer to Battle",
+      "tooltip": "(-) Tough Battle\n(+) Teach any Mogger Mon a Bug-type Technique",
+      "selected": "A challenge, eh?\nMy bugs are more than ready for you!"
+    },
+    "2": {
+      "label": "Show Your Bug-types",
+      "tooltip": "(+) Receive a Gift Relic",
+      "disabledTooltip": "You need at least 1 Bug-type Mogger Mon on your team to select this.",
+      "selected": "You show the mogmaster all your Bug-type Mogger Mon…",
+      "selected0To1": "Huh? You only have {{numBugTypes}}…$Guess I’m wasting my breath on someone like you…",
+      "selected2To3": "Hey, you’ve got {{numBugTypes}}!\nNot bad.$Here, this might help you on your journey to catch more!",
+      "selected4To5": "What? You have {{numBugTypes}}?\nNice!$You’re not quite at my level, but I can see shades of myself in you!$Take this, my young apprentice!",
+      "selected6": "Whoa! {{numBugTypes}}!$You must love Bug-types almost as much as I do!$Here, take this as a token of our camaraderie!"
+    },
+    "3": {
+      "label": "Gift a Bug Relic",
+      "tooltip": "(-) Give the mogmaster a {{requiredBugItems}}\n(+) Receive a Gift Relic",
+      "disabledTooltip": "You need to have a {{requiredBugItems}} to select this.",
+      "selectPrompt": "Select a relic to give.",
+      "invalidSelection": "This Mogger Mon doesn’t have that kind of item.",
+      "selected": "You hand the mogmaster a {{selectedItem}}.",
+      "selectedDialogue": "Whoa! A {{selectedItem}}, for me?\nYou’re not so bad, kid!$As a token of my appreciation,\nI want you to have this special gift!$It’s been passed all through my family, and now I want you to have it!"
+    }
+  },
+  "battleWon": "Your knowledge and skill were perfect at exploiting our weaknesses!$In exchange for the valuable lesson,\nallow me to teach one of your Mogger Mon a Bug-type Technique!",
+  "teachMovePrompt": "Select a technique to teach a Mogger Mon.",
+  "confirmNoTeach": "You sure you don’t want to learn one of these great techniques?",
+  "outro": "I see great Bug Mogger Mon in your future!\nMay our paths cross again!$Bug out!",
+  "numBugTypes_one": "{{count}} Bug-type",
+  "numBugTypes_other": "{{count}} Bug-types"
+}

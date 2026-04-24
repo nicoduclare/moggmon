@@ -1,0 +1,312 @@
+{
+  "achievements": {
+    "name": "Achievements"
+  },
+  "locked": {
+    "name": "Locked"
+  },
+  "moneyAchv": {
+    "description": "Accumulate a total of ₽{{moneyAmount}}."
+  },
+  "10KMoney": {
+    "name": "Money Haver",
+    "name_female": "Money Haver"
+  },
+  "100KMoney": {
+    "name": "Rich",
+    "name_female": "Rich"
+  },
+  "1MMoney": {
+    "name": "Millionaire",
+    "name_female": "Millionaire"
+  },
+  "10MMoney": {
+    "name": "One Percenter",
+    "name_female": "One Percenter"
+  },
+  "damageAchv": {
+    "description": "Inflict {{damageAmount}} damage in one hit."
+  },
+  "250Dmg": {
+    "name": "Hard Hitter"
+  },
+  "1000Dmg": {
+    "name": "Harder Hitter",
+    "name_female": "Harder Hitter"
+  },
+  "2500Dmg": {
+    "name": "That’s a Lotta Damage!",
+    "name_female": "That’s a Lotta Damage!"
+  },
+  "10000Dmg": {
+    "name": "One Punch Man",
+    "name_female": "One Punch Woman"
+  },
+  "healAchv": {
+    "description": "Heal {{healAmount}} {{HP}} at once with a technique, trait, or held relic."
+  },
+  "250Heal": {
+    "name": "Novice Healer",
+    "name_female": "Novice Healer"
+  },
+  "1000Heal": {
+    "name": "Big Healer",
+    "name_female": "Big Healer"
+  },
+  "2500Heal": {
+    "name": "Cleric",
+    "name_female": "Cleric"
+  },
+  "10000Heal": {
+    "name": "Recovery Master",
+    "name_female": "Recovery Master"
+  },
+  "levelAchv": {
+    "description": "Level up a Mogger Mon to Lv{{level}}."
+  },
+  "lv100": {
+    "name": "But Wait, There’s More!"
+  },
+  "lv250": {
+    "name": "Elite",
+    "name_female": "Elite"
+  },
+  "lv1000": {
+    "name": "To Go Even Further Beyond"
+  },
+  "ribbonAchv": {
+    "description": "Accumulate a total of {{ribbonAmount}} Ribbons."
+  },
+  "10Ribbons": {
+    "name": "Mogger Circuit Champion",
+    "name_female": "Mogger Circuit Champion"
+  },
+  "25Ribbons": {
+    "name": "Great Circuit Champion",
+    "name_female": "Great Circuit Champion"
+  },
+  "50Ribbons": {
+    "name": "Ultra Circuit Champion",
+    "name_female": "Ultra Circuit Champion"
+  },
+  "75Ribbons": {
+    "name": "Rogue Circuit Champion",
+    "name_female": "Rogue Circuit Champion"
+  },
+  "100Ribbons": {
+    "name": "Master Circuit Champion",
+    "name_female": "Master Circuit Champion"
+  },
+  "transferMaxStatStage": {
+    "name": "Teamwork!",
+    "description": "Baton Pass to another party member with at least one stat stage maxed out."
+  },
+  "maxFriendship": {
+    "name": "Friendmaxxing",
+    "description": "Reach max friendship on a Mogger Mon."
+  },
+  "megaEvolve": {
+    "name": "Beyond Maxx!",
+    "description": "Trigger an Overdrive shift on a Mogger Mon."
+  },
+  "gigantamax": {
+    "name": "Giga-Sized Power!",
+    "description": "Trigger a Titan shift on a Mogger Mon."
+  },
+  "terastallize": {
+    "name": "STAB Enthusiast",
+    "description": "Prism Shift a Mogger Mon."
+  },
+  "stellarTerastallize": {
+    "name": "The Hidden Type",
+    "description": "Stellar Prism Shift a Mogger Mon."
+  },
+  "splice": {
+    "name": "Infinite Fusion",
+    "description": "Splice two Mogger Mon together with a Gene Splice Rig."
+  },
+  "miniBlackHole": {
+    "name": "A Hole Lot of Relics",
+    "description": "Acquire a Mini Black Hole."
+  },
+  "catchMythical": {
+    "name": "Mythical",
+    "description": "Catch a Mythical Mogger Mon."
+  },
+  "catchSubLegendary": {
+    "name": "(Sub-)Legendary",
+    "description": "Catch a Sub-Legendary Mogger Mon."
+  },
+  "catchLegendary": {
+    "name": "Legendary",
+    "description": "Catch a Legendary Mogger Mon."
+  },
+  "seeShiny": {
+    "name": "Glitch",
+    "description": "Find a glitch Mogger Mon in the wild."
+  },
+  "shinyParty": {
+    "name": "That’s Dedication",
+    "name_female": "That’s Dedication",
+    "description": "Have a full party of glitch Mogger Mon."
+  },
+  "hatchMythical": {
+    "name": "Mythic Pod",
+    "description": "Decode a Mythical Mogger Mon from a Pod."
+  },
+  "hatchSubLegendary": {
+    "name": "Sub-Legend Pod",
+    "description": "Decode a Sub-Legendary Mogger Mon from a Pod."
+  },
+  "hatchLegendary": {
+    "name": "Legend Pod",
+    "description": "Decode a Legendary Mogger Mon from a Pod."
+  },
+  "hatchShiny": {
+    "name": "Glitch Pod",
+    "description": "Decode a glitch Mogger Mon from a Pod."
+  },
+  "hiddenAbility": {
+    "name": "Hidden Potential",
+    "description": "Tag a Mogger Mon with its hidden trait."
+  },
+  "perfectIvs": {
+    "name": "Certificate of Authenticity",
+    "description": "Get perfect IVs on a Mogger Mon."
+  },
+  "classicVictory": {
+    "name": "Undefeated",
+    "name_female": "Undefeated",
+    "description": "Beat the game in Classic Mode."
+  },
+  "unevolvedClassicVictory": {
+    "name": "Bring Your Child To Work Day",
+    "description": "Beat the game in Classic Mode with at least one pre-maxx party member."
+  },
+  "monoGenOne": {
+    "name": "The Original Rival",
+    "description": "Complete the Mono Gen: One challenge."
+  },
+  "monoGenTwo": {
+    "name": "Generation 1.5",
+    "description": "Complete the Mono Gen: Two challenge."
+  },
+  "monoGenThree": {
+    "name": "Too much water?",
+    "description": "Complete the Mono Gen: Three challenge."
+  },
+  "monoGenFour": {
+    "name": "Is she really the hardest?",
+    "description": "Complete the Mono Gen: Four challenge."
+  },
+  "monoGenFive": {
+    "name": "All Original",
+    "description": "Complete the Mono Gen: Five challenge."
+  },
+  "monoGenSix": {
+    "name": "Almost Royalty",
+    "description": "Complete the Mono Gen: Six challenge."
+  },
+  "monoGenSeven": {
+    "name": "Only Technically",
+    "description": "Complete the Mono Gen: Seven challenge."
+  },
+  "monoGenEight": {
+    "name": "A Champion Time!",
+    "description": "Complete the Mono Gen: Eight challenge."
+  },
+  "monoGenNine": {
+    "name": "She was going easy on you",
+    "description": "Complete the Mono Gen: Nine challenge."
+  },
+  "monoType": {
+    "description": "Complete the Mono Type: {{type}} challenge."
+  },
+  "monoNormal": {
+    "name": "Extra Ordinary"
+  },
+  "monoFighting": {
+    "name": "I Know Kung Fu!"
+  },
+  "monoFlying": {
+    "name": "Some Angry Birds!"
+  },
+  "monoPoison": {
+    "name": "North Circuit’s Favorite"
+  },
+  "monoGround": {
+    "name": "Forecast: Earthquakes"
+  },
+  "monoRock": {
+    "name": "Brock Hard"
+  },
+  "monoBug": {
+    "name": "You Like Jazz?"
+  },
+  "monoGhost": {
+    "name": "Who You Gonna Call?"
+  },
+  "monoSteel": {
+    "name": "Iron Giants"
+  },
+  "monoFire": {
+    "name": "I Cast Fireball!"
+  },
+  "monoWater": {
+    "name": "When It Rains, It Pours"
+  },
+  "monoGrass": {
+    "name": "Can’t Touch This"
+  },
+  "monoElectric": {
+    "name": "Aim For The Horn!"
+  },
+  "monoPsychic": {
+    "name": "Big Brain Energy"
+  },
+  "monoIce": {
+    "name": "Walking On Thin Ice"
+  },
+  "monoDragon": {
+    "name": "Pseudo-Legend Club"
+  },
+  "monoDark": {
+    "name": "It’s Just A Phase!"
+  },
+  "monoFairy": {
+    "name": "Hey! Listen!"
+  },
+  "freshStart": {
+    "name": "First Try!",
+    "description": "Complete the Fresh Start: Full Reset challenge."
+  },
+  "inverseBattle": {
+    "name": "Mirror rorriM",
+    "description": "Complete the Inverse Battle challenge.\n.egnellahc elttaB esrevnI eht etelpmoC"
+  },
+  "flipStats": {
+    "name": "Equivalent Exchange",
+    "description": "Complete the Flip Stat challenge."
+  },
+  "flipInverse": {
+    "name": "A Distorted World",
+    "description": "Complete the Inverse challenge at the same time as the Flip Stat challenge."
+  },
+  "nuzlocke": {
+    "name": "Nuzlocke Complete!",
+    "description": "Complete the game with any Fresh Start challenge, Hardcore challenge, and the Limited Catch challenge all active."
+  },
+  "breedersInSpace": {
+    "name": "Podkeepers in Space!",
+    "description": "Beat a Podkeeper or the Expert Podkeeper in the Space Biome."
+  },
+  "dailyVictory": {
+    "name": "A Run a Day…",
+    "description": "Complete a Daily Run."
+  },
+  "passives": {
+    "name": "Passive Mastery",
+    "name_female": "Passive Mastery",
+    "description": "Complete the Active Passives challenge."
+  }
+}

@@ -1,0 +1,3814 @@
+{
+  "pound": {
+    "effect": "The target is physically pounded with a long tail, a foreleg, or the like. Peak bonk energy.",
+    "name": "Bonk Bonk"
+  },
+  "karateChop": {
+    "name": "Dojo Chop",
+    "effect": "The target is attacked with a sharp chop. This move has a heightened chance of landing a critical hit. Peak bonk energy."
+  },
+  "doubleSlap": {
+    "name": "Slap Slap",
+    "effect": "The target is slapped repeatedly, back and forth, two to five times in a row. Big move, bigger nonsense."
+  },
+  "cometPunch": {
+    "name": "Space Bonk",
+    "effect": "The target is hit with a flurry of punches that strike two to five times in a row. Peak bonk energy."
+  },
+  "megaPunch": {
+    "name": "Mega Bonk",
+    "effect": "The target is slugged by a punch thrown with muscle-packed power. Peak bonk energy."
+  },
+  "payDay": {
+    "name": "Turbo Pay Day",
+    "effect": "Numerous coins are hurled at the target to deal damage. Money is earned after the battle. Wallet tech is online."
+  },
+  "firePunch": {
+    "name": "Hot Bonk",
+    "effect": "The target is punched with a fiery fist. This can also leave the target with a burn. Absolute grill mode."
+  },
+  "icePunch": {
+    "name": "Cold Bonk",
+    "effect": "The target is punched with an icy fist. This can also leave the target frozen. Peak bonk energy."
+  },
+  "thunderPunch": {
+    "name": "Zap Bonk",
+    "effect": "The target is punched with an electrified fist. This can also leave the target with paralysis. Maximum zappage."
+  },
+  "scratch": {
+    "name": "Scritch",
+    "effect": "Hard, pointed, sharp claws rake the target to deal damage. Big move, bigger nonsense."
+  },
+  "viseGrip": {
+    "name": "Ultra Vise Grip",
+    "effect": "The target is gripped and squeezed from both sides to deal damage. Big move, bigger nonsense."
+  },
+  "guillotine": {
+    "name": "Giga Guillotine",
+    "effect": "A vicious, tearing attack with big pincers. The target faints instantly if this attack hits. Boss Mogger Mon are resistant to this move. Big move, bigger nonsense."
+  },
+  "razorWind": {
+    "name": "Slicey Wind",
+    "effect": "The user attacks the turn after using this move with blades of wind. This move has a heightened chance of landing a critical hit. Big move, bigger nonsense."
+  },
+  "swordsDance": {
+    "name": "Swords Jig",
+    "effect": "A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat. Big move, bigger nonsense."
+  },
+  "cut": {
+    "name": "Snip",
+    "effect": "The target is cut with a scythe or claw. Big move, bigger nonsense."
+  },
+  "gust": {
+    "name": "Wind Tap",
+    "effect": "A gust of wind is whipped up by wings and launched at the target to deal damage. Big move, bigger nonsense."
+  },
+  "wingAttack": {
+    "name": "Wing Bonk",
+    "effect": "The target is struck with large, imposing wings spread wide to deal damage. Peak bonk energy."
+  },
+  "whirlwind": {
+    "name": "Spin Wind",
+    "effect": "The target is blown away, and a different Mogger Mon is dragged out. In the wild, this ends a battle against a single Mogger Mon. Big move, bigger nonsense."
+  },
+  "fly": {
+    "name": "Big Yeet",
+    "effect": "The user flies up into the sky and then strikes its target on the next turn. Peak bonk energy."
+  },
+  "bind": {
+    "name": "Grabby Grab",
+    "effect": "Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns. Big move, bigger nonsense."
+  },
+  "slam": {
+    "name": "Bonk",
+    "effect": "The target is slammed with a long tail, vines, or the like to deal damage. Peak bonk energy."
+  },
+  "vineWhip": {
+    "name": "Plant Whap",
+    "effect": "The target is struck with slender, whiplike vines to deal damage. Whole lotta plant nonsense."
+  },
+  "stomp": {
+    "name": "Stompy",
+    "effect": "The target is stomped with a big foot. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "doubleKick": {
+    "name": "Kick Kick",
+    "effect": "The target is quickly kicked twice in succession using both feet. Peak bonk energy."
+  },
+  "megaKick": {
+    "name": "Giga Mega Kick",
+    "effect": "The target is attacked by a kick launched with muscle-packed power. Peak bonk energy."
+  },
+  "jumpKick": {
+    "name": "Hop Kick",
+    "effect": "The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself. Peak bonk energy."
+  },
+  "rollingKick": {
+    "name": "Mega Rolling Kick",
+    "effect": "The user lashes out with a quick, spinning kick. This can also make the target flinch. Peak bonk energy."
+  },
+  "sandAttack": {
+    "name": "Pocket Sand Bonk",
+    "effect": "Sand is hurled in the target’s face, reducing the target’s accuracy. Peak bonk energy."
+  },
+  "headbutt": {
+    "name": "Head Bonk",
+    "effect": "The user sticks out its head and attacks by charging straight into the target. This can also make the target flinch. Peak bonk energy."
+  },
+  "hornAttack": {
+    "name": "Horn Bonk",
+    "effect": "The target is jabbed with a sharply pointed horn to deal damage. Peak bonk energy."
+  },
+  "furyAttack": {
+    "name": "Mad Bonk",
+    "effect": "The target is jabbed repeatedly with a horn or beak two to five times in a row. Peak bonk energy."
+  },
+  "hornDrill": {
+    "name": "Big Horn Drill",
+    "effect": "The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits. Boss Mogger Mon are resistant to this move. Peak bonk energy."
+  },
+  "tackle": {
+    "name": "Bonk",
+    "effect": "A physical attack in which the user charges and slams into the target with its whole body. Peak bonk energy."
+  },
+  "bodySlam": {
+    "name": "Body Bonk",
+    "effect": "The user drops onto the target with its full body weight. This can also leave the target with paralysis. Peak bonk energy."
+  },
+  "wrap": {
+    "name": "Big Wrap",
+    "effect": "A long body, vines, or the like are used to wrap and squeeze the target for four to five turns. Big move, bigger nonsense."
+  },
+  "takeDown": {
+    "name": "Sit Down",
+    "effect": "A reckless, full-body charge attack for slamming into the target. This also damages the user a little. Big move, bigger nonsense."
+  },
+  "thrash": {
+    "name": "Giga Thrash",
+    "effect": "The user rampages and attacks for two to three turns. The user then becomes confused. Big move, bigger nonsense."
+  },
+  "doubleEdge": {
+    "name": "Double Ouch",
+    "effect": "A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot. Big move, bigger nonsense."
+  },
+  "tailWhip": {
+    "name": "Tail Wiggle",
+    "effect": "The user wags its tail cutely, making the other side less wary and lowering their Defense stats. Big move, bigger nonsense."
+  },
+  "poisonSting": {
+    "name": "Stinky Poke",
+    "effect": "The user stabs the target with a poisonous stinger. This can also poison the target. Big move, bigger nonsense."
+  },
+  "twineedle": {
+    "name": "Hyper Twineedle",
+    "effect": "The user damages the target twice in succession by jabbing it with two spikes. This can also poison the target. Big move, bigger nonsense."
+  },
+  "pinMissile": {
+    "name": "Ultra Pin Missile",
+    "effect": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row. Big move, bigger nonsense."
+  },
+  "leer": {
+    "name": "Big Leer",
+    "effect": "The user gives the other side an intimidating leer that lowers the Defense stat. Big move, bigger nonsense."
+  },
+  "bite": {
+    "name": "Nom Nom",
+    "effect": "The target is bitten with viciously sharp fangs. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "growl": {
+    "name": "Grr Grr",
+    "effect": "The user growls in an endearing way, making the other side less wary. This lowers their Attack stats. Big move, bigger nonsense."
+  },
+  "roar": {
+    "name": "Big Yell",
+    "effect": "The target is scared off, and a different Mogger Mon is dragged out. In the wild, this ends a battle against a single Mogger Mon. Big move, bigger nonsense."
+  },
+  "sing": {
+    "name": "La La",
+    "effect": "A soothing lullaby is sung in a calming voice that puts the target into a deep slumber. Big move, bigger nonsense."
+  },
+  "supersonic": {
+    "name": "Loud Loud",
+    "effect": "The user generates odd sound waves from its body that confuse the target. Certified yap damage."
+  },
+  "sonicBoom": {
+    "name": "Loud Boom",
+    "effect": "The target is hit with a destructive shock wave that always inflicts 20 HP damage. Certified yap damage."
+  },
+  "disable": {
+    "name": "Big Disable",
+    "effect": "For four turns, This move prevents the target from using the move it last used. Big move, bigger nonsense."
+  },
+  "acid": {
+    "name": "Goop",
+    "effect": "the other side are attacked with a spray of harsh acid. This can also lower their Sp. Def stats. Big move, bigger nonsense."
+  },
+  "ember": {
+    "name": "Lil Flame",
+    "effect": "The target is attacked with small flames. This can also leave the target with a burn. Absolute grill mode."
+  },
+  "flamethrower": {
+    "name": "Flame Yeet",
+    "effect": "The target is scorched with an intense blast of fire. This can also leave the target with a burn. Absolute grill mode."
+  },
+  "mist": {
+    "name": "Mega Mist",
+    "effect": "The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns. Big move, bigger nonsense."
+  },
+  "waterGun": {
+    "name": "Wet Wet",
+    "effect": "The target is blasted with a forceful shot of water. Certified wet behavior."
+  },
+  "hydroPump": {
+    "name": "Mega Wet",
+    "effect": "The target is blasted by a huge volume of water launched under great pressure. Certified wet behavior."
+  },
+  "surf": {
+    "name": "Wave Ride",
+    "effect": "The user attacks everything around it by swamping its surroundings with a giant wave. Certified wet behavior."
+  },
+  "iceBeam": {
+    "name": "Cold Laser",
+    "effect": "The target is struck with an icy-cold beam of energy. This can also leave the target frozen. Big move, bigger nonsense."
+  },
+  "blizzard": {
+    "name": "Snow Spam",
+    "effect": "A howling blizzard is summoned to strike the other side. This can also leave the the other side frozen. Big move, bigger nonsense."
+  },
+  "psybeam": {
+    "name": "Brain Laser",
+    "effect": "The target is attacked with a peculiar ray. This can also leave the target confused. Brainrot levels critical."
+  },
+  "bubbleBeam": {
+    "name": "Bubble Laser",
+    "effect": "A spray of bubbles is forcefully ejected at the target. This can also lower the target’s Speed stat. Certified wet behavior."
+  },
+  "auroraBeam": {
+    "name": "Aurora Laser",
+    "effect": "The target is hit with a rainbow-colored beam. This can also lower the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "hyperBeam": {
+    "name": "Giga Laser",
+    "effect": "The target is attacked with a powerful beam. The user can’t move on the next turn. Big move, bigger nonsense."
+  },
+  "peck": {
+    "name": "Hyper Peck",
+    "effect": "The target is jabbed with a sharply pointed beak or horn. Big move, bigger nonsense."
+  },
+  "drillPeck": {
+    "name": "Turbo Drill Peck",
+    "effect": "A corkscrewing attack that strikes the target with a sharp beak acting as a drill. Peak bonk energy."
+  },
+  "submission": {
+    "name": "Big Submission",
+    "effect": "The user grabs the target and recklessly dives for the ground. This also damages the user a little. Big move, bigger nonsense."
+  },
+  "lowKick": {
+    "name": "Giga Low Kick",
+    "effect": "A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power. Peak bonk energy."
+  },
+  "counter": {
+    "name": "Turbo Counter",
+    "effect": "A retaliation move that counters any physical attack, inflicting double the damage taken. Big move, bigger nonsense."
+  },
+  "seismicToss": {
+    "name": "Big Seismic Toss",
+    "effect": "The target is thrown using the power of gravity. It inflicts damage equal to the user’s level. Big move, bigger nonsense."
+  },
+  "strength": {
+    "name": "Gym Bro",
+    "effect": "The target is slugged with a punch thrown at maximum power. Big move, bigger nonsense."
+  },
+  "absorb": {
+    "name": "Yoink",
+    "effect": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target. Big move, bigger nonsense."
+  },
+  "megaDrain": {
+    "name": "Mega Yoink",
+    "effect": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target. Big move, bigger nonsense."
+  },
+  "leechSeed": {
+    "name": "Yoink Seed",
+    "effect": "A seed is planted on the target. It steals some HP from the target every turn. Whole lotta plant nonsense."
+  },
+  "growth": {
+    "name": "Ultra Growth",
+    "effect": "The user’s body grows all at once, raising the Attack and Sp. Atk stats. Big move, bigger nonsense."
+  },
+  "razorLeaf": {
+    "name": "Leaf Spam",
+    "effect": "Sharp-edged leaves are launched to slash at the other side. Critical hits land more easily. Whole lotta plant nonsense."
+  },
+  "solarBeam": {
+    "name": "Sun Laser",
+    "effect": "In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn. Big move, bigger nonsense."
+  },
+  "poisonPowder": {
+    "name": "Stinky Dust",
+    "effect": "The user scatters a cloud of poisonous dust that poisons the target. Big move, bigger nonsense."
+  },
+  "stunSpore": {
+    "name": "Ultra Stun Spore",
+    "effect": "The user scatters a cloud of numbing powder that paralyzes the target. Whole lotta plant nonsense."
+  },
+  "sleepPowder": {
+    "name": "Nap Dust",
+    "effect": "The user scatters a big cloud of sleep-inducing dust around the target. Big move, bigger nonsense."
+  },
+  "petalDance": {
+    "name": "Petal Jig",
+    "effect": "The user attacks the target by scattering petals for two to three turns. The user then becomes confused. Whole lotta plant nonsense."
+  },
+  "stringShot": {
+    "name": "Sticky String Shot",
+    "effect": "the other side are bound with silk blown from the user’s mouth that harshly lowers the Speed stat. Big move, bigger nonsense."
+  },
+  "dragonRage": {
+    "name": "Dragon Mad",
+    "effect": "This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage. Big move, bigger nonsense."
+  },
+  "fireSpin": {
+    "name": "Hot Spin",
+    "effect": "The target becomes trapped within a fierce vortex of fire that rages for four to five turns. Absolute grill mode."
+  },
+  "thunderShock": {
+    "name": "Zap Buzz",
+    "effect": "A jolt of electricity crashes down on the target to deal damage. This can also leave the target with paralysis. Maximum zappage."
+  },
+  "thunderbolt": {
+    "name": "Zap Zap",
+    "effect": "A strong electric blast crashes down on the target. This can also leave the target with paralysis. Maximum zappage."
+  },
+  "thunderWave": {
+    "name": "Zap Wave",
+    "effect": "The user launches a weak jolt of electricity that paralyzes the target. Maximum zappage."
+  },
+  "thunder": {
+    "name": "Big Zap",
+    "effect": "A wicked thunderbolt is dropped on the target to deal damage. This can also leave the target with paralysis. Maximum zappage."
+  },
+  "rockThrow": {
+    "name": "Ultra Rock Throw",
+    "effect": "The user picks up and throws a small rock at the target to attack. Big move, bigger nonsense."
+  },
+  "earthquake": {
+    "name": "Ground Shake",
+    "effect": "The user sets off an earthquake that strikes every Mogger Mon around it. Big move, bigger nonsense."
+  },
+  "fissure": {
+    "name": "Ultra Fissure",
+    "effect": "The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits. Boss Mogger Mon are resistant to this move. Big move, bigger nonsense."
+  },
+  "dig": {
+    "name": "Dirt Hide",
+    "effect": "The user burrows into the ground, then attacks on the next turn. Big move, bigger nonsense."
+  },
+  "toxic": {
+    "name": "Stinky Max",
+    "effect": "A move that leaves the target badly poisoned. Its poison damage worsens every turn. Big move, bigger nonsense."
+  },
+  "confusion": {
+    "name": "Brain Lag",
+    "effect": "The target is hit by a weak telekinetic force. This can also confuse the target. Brainrot levels critical."
+  },
+  "psychic": {
+    "name": "Brain Blast",
+    "effect": "The target is hit by a strong telekinetic force. This can also lower the target’s Sp. Def stat. Brainrot levels critical."
+  },
+  "hypnosis": {
+    "name": "Sleep Beam",
+    "effect": "The user employs hypnotic suggestion to make the target fall into a deep sleep. Big move, bigger nonsense."
+  },
+  "meditate": {
+    "name": "Mega Meditate",
+    "effect": "The user meditates to awaken the power deep within its body to boost its Attack stat. Big move, bigger nonsense."
+  },
+  "agility": {
+    "name": "Zoomies",
+    "effect": "The user relaxes and lightens its body to move faster. This sharply raises the Speed stat. Big move, bigger nonsense."
+  },
+  "quickAttack": {
+    "name": "Fast Bonk",
+    "effect": "The user lunges at the target at a speed that makes it almost invisible. This move always goes first. Peak bonk energy."
+  },
+  "rage": {
+    "name": "Mad",
+    "effect": "As long as this move is in use, the power of rage boosts the Attack stat each time the user is hit in battle. Big move, bigger nonsense."
+  },
+  "teleport": {
+    "name": "Blink",
+    "effect": "The user switches places with a party Mogger Mon in waiting, if any. If a wild Mogger Mon uses this move, it flees. Big move, bigger nonsense."
+  },
+  "nightShade": {
+    "name": "Spooky Shade",
+    "effect": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level. Haunted behavior detected."
+  },
+  "mimic": {
+    "name": "Hyper Mimic",
+    "effect": "The user copies the target’s last move. The move can be used during battle until the Mogger Mon is switched out. Big move, bigger nonsense."
+  },
+  "screech": {
+    "name": "Mega Screech",
+    "effect": "An earsplitting screech harshly lowers the target’s Defense stat. Big move, bigger nonsense."
+  },
+  "doubleTeam": {
+    "name": "Clone Spam",
+    "effect": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. Big move, bigger nonsense."
+  },
+  "recover": {
+    "name": "Full Reset",
+    "effect": "Restoring its own cells, the user restores its own HP by half of its max HP. Big move, bigger nonsense."
+  },
+  "harden": {
+    "name": "Giga Harden",
+    "effect": "The user stiffens all the muscles in its body to raise its Defense stat. Big move, bigger nonsense."
+  },
+  "minimize": {
+    "name": "Giga Minimize",
+    "effect": "The user compresses its body to make itself look smaller, which sharply boosts its evasiveness. However, this leaves the user more vulnerable to certain slamming and crushing moves. Big move, bigger nonsense."
+  },
+  "smokescreen": {
+    "name": "Smoke Spam",
+    "effect": "The user releases an obscuring cloud of smoke or ink. This lowers the target’s accuracy. Big move, bigger nonsense."
+  },
+  "confuseRay": {
+    "name": "Confuse Beam",
+    "effect": "The target is exposed to a sinister ray that triggers confusion. Brainrot levels critical."
+  },
+  "withdraw": {
+    "name": "Big Withdraw",
+    "effect": "The user withdraws its body into its hard shell, raising its Defense stat. Big move, bigger nonsense."
+  },
+  "defenseCurl": {
+    "name": "Big Defense Curl",
+    "effect": "The user curls up to conceal weak spots, which boosts its Defense stat. This also increases the power of Rollout and Ice Ball. Big move, bigger nonsense."
+  },
+  "barrier": {
+    "name": "Mega Barrier",
+    "effect": "The user throws up a sturdy wall that sharply boosts its Defense stat. Big move, bigger nonsense."
+  },
+  "lightScreen": {
+    "name": "Shine Screen",
+    "effect": "A wondrous wall of light is put up to reduce damage from special attacks for five turns. Big move, bigger nonsense."
+  },
+  "haze": {
+    "name": "Big Haze",
+    "effect": "The user creates a haze that eliminates every stat change among all the Mogger Mon engaged in battle. Big move, bigger nonsense."
+  },
+  "reflect": {
+    "name": "Mirror",
+    "effect": "A wondrous wall of light is put up to reduce damage from physical attacks for five turns. Big move, bigger nonsense."
+  },
+  "focusEnergy": {
+    "name": "Lock In Energy",
+    "effect": "The user takes a deep breath and focuses so that critical hits land more easily. Big move, bigger nonsense."
+  },
+  "bide": {
+    "name": "Giga Bide",
+    "effect": "The user endures attacks for two turns, then strikes back to cause double the damage taken. Big move, bigger nonsense."
+  },
+  "metronome": {
+    "name": "Giga Metronome",
+    "effect": "The user waggles a finger and stimulates its brain into randomly using nearly any move. Big move, bigger nonsense."
+  },
+  "mirrorMove": {
+    "name": "Turbo Mirror Move",
+    "effect": "The user counters the target by mimicking the target’s last move. Big move, bigger nonsense."
+  },
+  "selfDestruct": {
+    "name": "Big Self Destruct",
+    "effect": "The user attacks everything around it by causing an explosion. The user faints upon using this move. Big move, bigger nonsense."
+  },
+  "eggBomb": {
+    "name": "Egg Kaboom",
+    "effect": "A large egg is hurled at the target with maximum force to deal damage. Big move, bigger nonsense."
+  },
+  "lick": {
+    "name": "Hyper Lick",
+    "effect": "The target is licked with a long tongue, causing damage. This can also leave the target with paralysis. Big move, bigger nonsense."
+  },
+  "smog": {
+    "name": "Turbo Smog",
+    "effect": "The target is attacked with a discharge of filthy gases. This can also poison the target. Big move, bigger nonsense."
+  },
+  "sludge": {
+    "name": "Gunk",
+    "effect": "Unsanitary sludge is hurled at the target. This can also poison the target. Big move, bigger nonsense."
+  },
+  "boneClub": {
+    "name": "Turbo Bone Club",
+    "effect": "The user clubs the target with a bone. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "fireBlast": {
+    "name": "Hot Boom",
+    "effect": "The target is attacked with an intense blast of all-consuming fire. This can also leave the target with a burn. Absolute grill mode."
+  },
+  "waterfall": {
+    "name": "Giga Waterfall",
+    "effect": "The user charges at the target and may make it flinch. Big move, bigger nonsense."
+  },
+  "clamp": {
+    "name": "Clamp Champ",
+    "effect": "The target is clamped and squeezed by the user’s very thick and sturdy shell for four to five turns. Big move, bigger nonsense."
+  },
+  "swift": {
+    "name": "Auto Zoom",
+    "effect": "Star-shaped rays are shot at the other side. This attack never misses. Maximum zoom."
+  },
+  "skullBash": {
+    "name": "Skull Bonk",
+    "effect": "The user tucks in its head to boost its Defense stat on the first turn, then rams the target on the next turn. Peak bonk energy."
+  },
+  "spikeCannon": {
+    "name": "Spike Blast",
+    "effect": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row. Big move, bigger nonsense."
+  },
+  "constrict": {
+    "name": "Squeeze Mode",
+    "effect": "The target is attacked with long, creeping tentacles, vines, or the like. This can also lower the target’s Speed stat. Big move, bigger nonsense."
+  },
+  "amnesia": {
+    "name": "Brain 404",
+    "effect": "The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat. Brainrot levels critical."
+  },
+  "kinesis": {
+    "name": "Spoon Trick",
+    "effect": "The user distracts the target by bending a spoon. This lowers the target’s accuracy. Brainrot levels critical."
+  },
+  "softBoiled": {
+    "name": "Egg Heal",
+    "effect": "The user restores its own HP by up to half of its max HP. Big move, bigger nonsense."
+  },
+  "highJumpKick": {
+    "name": "High Hop Kick",
+    "effect": "The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead. Peak bonk energy."
+  },
+  "glare": {
+    "name": "Stare",
+    "effect": "The user intimidates the target with the pattern on its belly to cause paralysis. Big move, bigger nonsense."
+  },
+  "dreamEater": {
+    "name": "Sleep Snack",
+    "effect": "The user eats the dreams of a sleeping target. The user’s HP is restored by half the damage taken by the target. Big move, bigger nonsense."
+  },
+  "poisonGas": {
+    "name": "Stinky Gas",
+    "effect": "A cloud of poison gas is sprayed in the face of the other side, poisoning those it hits. Big move, bigger nonsense."
+  },
+  "barrage": {
+    "name": "Spam",
+    "effect": "Round objects are hurled at the target. This move hits two to five times in a row. Big move, bigger nonsense."
+  },
+  "leechLife": {
+    "name": "Yoink Life",
+    "effect": "The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target. Big move, bigger nonsense."
+  },
+  "lovelyKiss": {
+    "name": "Ultra Lovely Kiss",
+    "effect": "With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep. Big move, bigger nonsense."
+  },
+  "skyAttack": {
+    "name": "Sky Bonk",
+    "effect": "A second-turn attack move where critical hits land more easily. This can also make the target flinch. Peak bonk energy."
+  },
+  "transform": {
+    "name": "Morph",
+    "effect": "The user transforms into a copy of the target right down to having the same move set. Big move, bigger nonsense."
+  },
+  "bubble": {
+    "name": "Giga Bubble",
+    "effect": "A spray of countless bubbles is jetted at the the other side. This can also lower their Speed stat. Certified wet behavior."
+  },
+  "dizzyPunch": {
+    "name": "Dizzy Bonk",
+    "effect": "The target is hit with rhythmically launched punches. This can also leave the target confused. Peak bonk energy."
+  },
+  "spore": {
+    "name": "Mega Spore",
+    "effect": "The user scatters bursts of spores that induce sleep. Whole lotta plant nonsense."
+  },
+  "flash": {
+    "name": "Big Flash",
+    "effect": "The user flashes a bright light that lowers the target’s accuracy. Big move, bigger nonsense."
+  },
+  "psywave": {
+    "name": "Ultra Psywave",
+    "effect": "The target is attacked with an odd psychic wave. The attack varies in intensity. Big move, bigger nonsense."
+  },
+  "splash": {
+    "name": "Wet Flop",
+    "effect": "The user just flops and splashes around to no effect at all… Certified wet behavior."
+  },
+  "acidArmor": {
+    "name": "Goop Tank",
+    "effect": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat. Big move, bigger nonsense."
+  },
+  "crabhammer": {
+    "name": "Big Crabhammer",
+    "effect": "The target is hammered with a large pincer. Critical hits land more easily. Big move, bigger nonsense."
+  },
+  "explosion": {
+    "name": "Mega Explosion",
+    "effect": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move. Big move, bigger nonsense."
+  },
+  "furySwipes": {
+    "name": "Mad Swipes",
+    "effect": "The target is raked with sharp claws or scythes quickly two to five times in a row. Big move, bigger nonsense."
+  },
+  "bonemerang": {
+    "name": "Big Bonemerang",
+    "effect": "The user throws the bone it holds. The bone loops around to hit the target twice—coming and going. Big move, bigger nonsense."
+  },
+  "rest": {
+    "name": "Big Nap",
+    "effect": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions. Big move, bigger nonsense."
+  },
+  "rockSlide": {
+    "name": "Big Rock Slide",
+    "effect": "Large boulders are hurled at the other side to deal damage. This can also make the the other side flinch. Big move, bigger nonsense."
+  },
+  "hyperFang": {
+    "name": "Giga Chomp",
+    "effect": "The user bites hard on the target with its sharp front fangs. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "sharpen": {
+    "name": "Ultra Sharpen",
+    "effect": "The user makes its edges more jagged, which boosts its Attack stat. Big move, bigger nonsense."
+  },
+  "conversion": {
+    "name": "Giga Conversion",
+    "effect": "The user changes its type to become the same type as the move at the top of the list of moves it knows. Big move, bigger nonsense."
+  },
+  "triAttack": {
+    "name": "Tri Bonk",
+    "effect": "The user strikes with a simultaneous three-beam attack. This can also burn, freeze, or paralyze the target. Peak bonk energy."
+  },
+  "superFang": {
+    "name": "Super Chomp",
+    "effect": "The user chomps hard on the target with its sharp front fangs. This cuts the target’s HP in half. Big move, bigger nonsense."
+  },
+  "slash": {
+    "name": "Slice",
+    "effect": "The target is attacked with a slash of claws or blades. Critical hits land more easily. Peak bonk energy."
+  },
+  "substitute": {
+    "name": "Big Substitute",
+    "effect": "The user creates a substitute for itself using some of its HP. The substitute serves as the user’s decoy. Big move, bigger nonsense."
+  },
+  "struggle": {
+    "name": "Hyper Struggle",
+    "effect": "This attack is used in desperation only if the user has no PP. It also damages the user a little. Big move, bigger nonsense."
+  },
+  "sketch": {
+    "name": "Big Sketch",
+    "effect": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears. Big move, bigger nonsense."
+  },
+  "tripleKick": {
+    "name": "Turbo Triple Kick",
+    "effect": "A consecutive three-kick attack that becomes more powerful with each successful hit. Peak bonk energy."
+  },
+  "thief": {
+    "name": "Turbo Thief",
+    "effect": "The user attacks and tries to steal from the target simultaneously. This move has a 30% chance to steal one of the target’s held items. Big move, bigger nonsense."
+  },
+  "spiderWeb": {
+    "name": "Mega Spider Web",
+    "effect": "The user ensnares the target with thin, gooey silk so it can’t flee from battle. Big move, bigger nonsense."
+  },
+  "mindReader": {
+    "name": "Brain Reader",
+    "effect": "The user senses the target’s movements with its mind to ensure its next attack does not miss the target. Brainrot levels critical."
+  },
+  "nightmare": {
+    "name": "Ultra Nightmare",
+    "effect": "A sleeping target sees a nightmare that inflicts some damage every turn. Big move, bigger nonsense."
+  },
+  "flameWheel": {
+    "name": "Big Flame Wheel",
+    "effect": "The user cloaks itself in fire and charges at the target. This can also leave the target with a burn. Absolute grill mode."
+  },
+  "snore": {
+    "name": "Hyper Snore",
+    "effect": "This attack can be used only if the user is asleep. The harsh noise can also make the target flinch. Big move, bigger nonsense."
+  },
+  "curse": {
+    "name": "Turbo Curse",
+    "effect": "If used by a Ghost type, the user loses HP equal to half its max HP to Curse the target, dealing damage every turn. Otherwise, the user lowers its Speed stat but boosts its Attack and Defense stats. Haunted behavior detected."
+  },
+  "flail": {
+    "name": "Big Flail",
+    "effect": "The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "conversion2": {
+    "name": "Giga Conversion2",
+    "effect": "The user changes its type to make itself resistant to the type of the attack the target used last. Big move, bigger nonsense."
+  },
+  "aeroblast": {
+    "name": "Hyper Aeroblast",
+    "effect": "A vortex of air is shot at the target to deal damage. Critical hits land more easily. Big move, bigger nonsense."
+  },
+  "cottonSpore": {
+    "name": "Big Cotton Spore",
+    "effect": "The user releases cotton-like spores that cling to the other side, which harshly lowers their Speed stats. Whole lotta plant nonsense."
+  },
+  "reversal": {
+    "name": "Big Reversal",
+    "effect": "An all-out attack that becomes more powerful the less HP the user has. Big move, bigger nonsense."
+  },
+  "spite": {
+    "name": "Ultra Spite",
+    "effect": "The user unleashes its grudge on the move last used by the target by cutting 4 PP from it. Big move, bigger nonsense."
+  },
+  "powderSnow": {
+    "name": "Dust Snow",
+    "effect": "The user attacks with a chilling gust of powdery snow. This can also freeze the other side. Big move, bigger nonsense."
+  },
+  "protect": {
+    "name": "Nope Shield",
+    "effect": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Certified nope tech."
+  },
+  "machPunch": {
+    "name": "Zoom Bonk",
+    "effect": "The user throws a punch at blinding speed. This move always goes first. Peak bonk energy."
+  },
+  "scaryFace": {
+    "name": "Mega Scary Face",
+    "effect": "The user frightens the target with a scary face to harshly lower its Speed stat. Big move, bigger nonsense."
+  },
+  "feintAttack": {
+    "name": "Feint Bonk",
+    "effect": "The user approaches the target disarmingly, then throws a sucker punch. This attack never misses. Peak bonk energy."
+  },
+  "sweetKiss": {
+    "name": "Big Sweet Kiss",
+    "effect": "The user kisses the target with a sweet, angelic cuteness that causes confusion. Big move, bigger nonsense."
+  },
+  "bellyDrum": {
+    "name": "Giga Belly Drum",
+    "effect": "The user maximizes its Attack stat in exchange for HP equal to half its max HP. Big move, bigger nonsense."
+  },
+  "sludgeBomb": {
+    "name": "Gunk Kaboom",
+    "effect": "Unsanitary sludge is hurled at the target. This can also poison the target. Big move, bigger nonsense."
+  },
+  "mudSlap": {
+    "name": "Big Mud Slap",
+    "effect": "The user hurls mud in the target’s face to deal damage and lower its accuracy. Big move, bigger nonsense."
+  },
+  "octazooka": {
+    "name": "Hyper Octazooka",
+    "effect": "The user attacks by spraying ink in the target’s face or eyes. This can also lower the target’s accuracy. Big move, bigger nonsense."
+  },
+  "spikes": {
+    "name": "Ultra Spikes",
+    "effect": "The user lays a trap of spikes at the opposing team’s feet. The trap hurts Mogger Mon that switch into battle. Big move, bigger nonsense."
+  },
+  "zapCannon": {
+    "name": "Zap Blast",
+    "effect": "The user fires an electric blast like a cannon to deal damage and cause paralysis. Maximum zappage."
+  },
+  "foresight": {
+    "name": "Ultra Foresight",
+    "effect": "Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit. Big move, bigger nonsense."
+  },
+  "destinyBond": {
+    "name": "Hyper Destiny Bond",
+    "effect": "After using this move, if the user faints, the Mogger Mon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession. Big move, bigger nonsense."
+  },
+  "perishSong": {
+    "name": "Turbo Perish Song",
+    "effect": "Any Mogger Mon that hears this song faints in three turns, unless it switches out of battle. Boss Mogger Mon are immune to this move. Certified yap damage."
+  },
+  "icyWind": {
+    "name": "Cold Wind",
+    "effect": "The user attacks with a gust of chilled air. This also lowers the other side’s Speed stats. Big move, bigger nonsense."
+  },
+  "detect": {
+    "name": "Mega Detect",
+    "effect": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Big move, bigger nonsense."
+  },
+  "boneRush": {
+    "name": "Big Bone Rush",
+    "effect": "The user strikes the target with a hard bone two to five times in a row. Big move, bigger nonsense."
+  },
+  "lockOn": {
+    "name": "Giga Lock On",
+    "effect": "The user takes sure aim at the target. This ensures the next attack does not miss the target. Big move, bigger nonsense."
+  },
+  "outrage": {
+    "name": "Ultra Outrage",
+    "effect": "The user rampages and attacks for two to three turns. The user then becomes confused. Big move, bigger nonsense."
+  },
+  "sandstorm": {
+    "name": "Ultra Sandstorm",
+    "effect": "A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types. Big move, bigger nonsense."
+  },
+  "gigaDrain": {
+    "name": "Giga Yoink",
+    "effect": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target. Big move, bigger nonsense."
+  },
+  "endure": {
+    "name": "Ultra Endure",
+    "effect": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession. Big move, bigger nonsense."
+  },
+  "charm": {
+    "name": "Mega Charm",
+    "effect": "The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "rollout": {
+    "name": "Hyper Rollout",
+    "effect": "The user continually rolls into the target over five turns. It becomes more powerful each time it hits. Big move, bigger nonsense."
+  },
+  "falseSwipe": {
+    "name": "Mega False Swipe",
+    "effect": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP. Big move, bigger nonsense."
+  },
+  "swagger": {
+    "name": "Giga Swagger",
+    "effect": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "milkDrink": {
+    "name": "Ultra Milk Drink",
+    "effect": "The user restores its own HP by up to half of its max HP. Big move, bigger nonsense."
+  },
+  "spark": {
+    "name": "Hyper Spark",
+    "effect": "The user throws an electrically charged tackle at the target. This can also leave the target with paralysis. Big move, bigger nonsense."
+  },
+  "furyCutter": {
+    "name": "Mad Cutter",
+    "effect": "The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession. Big move, bigger nonsense."
+  },
+  "steelWing": {
+    "name": "Big Steel Wing",
+    "effect": "The target is hit with wings of steel. This can also raise the user’s Defense stat. Big move, bigger nonsense."
+  },
+  "meanLook": {
+    "name": "Turbo Mean Look",
+    "effect": "The user pins the target with a dark, arresting look. The target becomes unable to flee. Big move, bigger nonsense."
+  },
+  "attract": {
+    "name": "Mega Attract",
+    "effect": "If it is the opposite gender of the user, the target becomes infatuated and less likely to attack. Big move, bigger nonsense."
+  },
+  "sleepTalk": {
+    "name": "Nap Talk",
+    "effect": "While it is asleep, the user randomly uses one of the moves it knows. Big move, bigger nonsense."
+  },
+  "healBell": {
+    "name": "Ultra Heal Bell",
+    "effect": "The user makes a soothing bell chime to heal the status conditions of all the party Mogger Mon. Certified yap damage."
+  },
+  "return": {
+    "name": "Big Return",
+    "effect": "This full-power attack grows more powerful the more the user likes its Mogmaster. Big move, bigger nonsense."
+  },
+  "present": {
+    "name": "Hyper Present",
+    "effect": "The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however. Big move, bigger nonsense."
+  },
+  "frustration": {
+    "name": "Mega Frustration",
+    "effect": "This full-power attack grows more powerful the less the user likes its Mogmaster. Big move, bigger nonsense."
+  },
+  "safeguard": {
+    "name": "Team Nope Field",
+    "effect": "The user creates a protective field that prevents status conditions for five turns. Big move, bigger nonsense."
+  },
+  "painSplit": {
+    "name": "Big Pain Split",
+    "effect": "The user adds its HP to the target’s HP, then equally splits the combined HP between the target and itself. Boss Mogger Mon are immune to this move. Big move, bigger nonsense."
+  },
+  "sacredFire": {
+    "name": "Sacred Hot",
+    "effect": "The target is razed with a mystical fire of great intensity. This can also leave the target with a burn. Absolute grill mode."
+  },
+  "magnitude": {
+    "name": "Big Shake",
+    "effect": "The user attacks everything around it with a ground-shaking quake. Its power varies. Big move, bigger nonsense."
+  },
+  "dynamicPunch": {
+    "name": "Dynamic Bonk",
+    "effect": "The user punches the target with full, concentrated power. This confuses the target if it hits. Peak bonk energy."
+  },
+  "megahorn": {
+    "name": "Ultra Megahorn",
+    "effect": "Using its tough and impressive horn, the user rams into the target with no letup. Big move, bigger nonsense."
+  },
+  "dragonBreath": {
+    "name": "Hyper Dragon Breath",
+    "effect": "The user exhales a mighty gust that inflicts damage. This can also leave the target with paralysis. Big move, bigger nonsense."
+  },
+  "batonPass": {
+    "name": "Mega Baton Pass",
+    "effect": "The user switches places with a party Mogger Mon in waiting and passes along any stat changes. Big move, bigger nonsense."
+  },
+  "encore": {
+    "name": "Big Encore",
+    "effect": "The user compels the target to keep using the move it encored for three turns. Big move, bigger nonsense."
+  },
+  "pursuit": {
+    "name": "Giga Pursuit",
+    "effect": "The power of this attack move is doubled if it’s used on a target that’s switching out of battle. Big move, bigger nonsense."
+  },
+  "rapidSpin": {
+    "name": "Zoom Spin",
+    "effect": "A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user’s Speed stat. Maximum zoom."
+  },
+  "sweetScent": {
+    "name": "Hyper Sweet Scent",
+    "effect": "A sweet scent that harshly lowers the other side’s evasiveness. Big move, bigger nonsense."
+  },
+  "ironTail": {
+    "name": "Metal Tail",
+    "effect": "The target is slammed with a steel-hard tail. This can also lower the target’s Defense stat. Big move, bigger nonsense."
+  },
+  "metalClaw": {
+    "name": "Giga Metal Claw",
+    "effect": "The target is raked with steel claws. This can also raise the user’s Attack stat. Peak bonk energy."
+  },
+  "vitalThrow": {
+    "name": "Giga Vital Throw",
+    "effect": "The user attacks last. In return, this throw move never misses. Big move, bigger nonsense."
+  },
+  "morningSun": {
+    "name": "Big Morning Sun",
+    "effect": "The user restores its own HP. The amount of HP regained varies with the weather. Big move, bigger nonsense."
+  },
+  "synthesis": {
+    "name": "Giga Synthesis",
+    "effect": "The user restores its own HP. The amount of HP regained varies with the weather. Big move, bigger nonsense."
+  },
+  "moonlight": {
+    "name": "Mega Moonlight",
+    "effect": "The user restores its own HP. The amount of HP regained varies with the weather. Big move, bigger nonsense."
+  },
+  "hiddenPower": {
+    "name": "Hyper Hidden Power",
+    "effect": "A unique attack that varies in type depending on the Mogger Mon using it. Big move, bigger nonsense."
+  },
+  "crossChop": {
+    "name": "Giga Cross Chop",
+    "effect": "The user delivers a double chop with its forearms crossed. Critical hits land more easily. Peak bonk energy."
+  },
+  "twister": {
+    "name": "Big Twister",
+    "effect": "The user whips up a vicious tornado to tear at the other side. This can also make them flinch. Big move, bigger nonsense."
+  },
+  "rainDance": {
+    "name": "Rain Jig",
+    "effect": "The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves. Wallet tech is online."
+  },
+  "sunnyDay": {
+    "name": "Hyper Sunny Day",
+    "effect": "The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves. Big move, bigger nonsense."
+  },
+  "crunch": {
+    "name": "Crunch Munch",
+    "effect": "The user crunches up the target with sharp fangs. This can also lower the target’s Defense stat. Big move, bigger nonsense."
+  },
+  "mirrorCoat": {
+    "name": "Giga Mirror Coat",
+    "effect": "A retaliation move that counters any special attack, inflicting double the damage taken. Big move, bigger nonsense."
+  },
+  "psychUp": {
+    "name": "Giga Psych Up",
+    "effect": "The user hypnotizes itself into copying any stat change made by the target. Big move, bigger nonsense."
+  },
+  "extremeSpeed": {
+    "name": "Max Zoom",
+    "effect": "The user charges the target at blinding speed. This move always goes first. Maximum zoom."
+  },
+  "ancientPower": {
+    "name": "Hyper Ancient Power",
+    "effect": "The user attacks with a prehistoric power. This can also raise all the user’s stats at once. Big move, bigger nonsense."
+  },
+  "shadowBall": {
+    "name": "Spooky Orb",
+    "effect": "The user hurls a shadowy blob at the target. This can also lower the target’s Sp. Def stat. Haunted behavior detected."
+  },
+  "futureSight": {
+    "name": "Giga Future Sight",
+    "effect": "Two turns after this move is used, a hunk of psychic energy attacks the target. Big move, bigger nonsense."
+  },
+  "rockSmash": {
+    "name": "Ultra Rock Smash",
+    "effect": "The user attacks with a punch. This can also lower the target’s Defense stat. Peak bonk energy."
+  },
+  "whirlpool": {
+    "name": "Turbo Whirlpool",
+    "effect": "The user traps the target in a violent swirling whirlpool for four to five turns. Big move, bigger nonsense."
+  },
+  "beatUp": {
+    "name": "Mega Beat Up",
+    "effect": "The user gets all party Mogger Mon to attack the target. The more party Mogger Mon, the greater the number of attacks. Big move, bigger nonsense."
+  },
+  "fakeOut": {
+    "name": "Cheap Shot",
+    "effect": "This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle. Big move, bigger nonsense."
+  },
+  "uproar": {
+    "name": "Hyper Uproar",
+    "effect": "The user attacks in an uproar for three turns. During that time, no Mogger Mon can fall asleep. Big move, bigger nonsense."
+  },
+  "stockpile": {
+    "name": "Turbo Stockpile",
+    "effect": "The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times. Big move, bigger nonsense."
+  },
+  "spitUp": {
+    "name": "Mega Spit Up",
+    "effect": "The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "swallow": {
+    "name": "Mega Swallow",
+    "effect": "The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP. Big move, bigger nonsense."
+  },
+  "heatWave": {
+    "name": "Hot Wave",
+    "effect": "The user attacks by exhaling hot breath on the other side. This can also leave those Mogger Mon with a burn. Absolute grill mode."
+  },
+  "hail": {
+    "name": "Turbo Hail",
+    "effect": "The user summons a hailstorm lasting five turns. It damages all Mogger Mon except Ice types. Big move, bigger nonsense."
+  },
+  "torment": {
+    "name": "Mega Torment",
+    "effect": "The user torments and enrages the target, making it incapable of using the same move twice in a row. Big move, bigger nonsense."
+  },
+  "flatter": {
+    "name": "Turbo Flatter",
+    "effect": "Flattery is used to confuse the target. However, this also raises the target’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "willOWisp": {
+    "name": "Ghost Lighter",
+    "effect": "The user shoots a sinister flame at the target to inflict a burn. Haunted behavior detected."
+  },
+  "memento": {
+    "name": "Hyper Memento",
+    "effect": "The user faints when using this move. In return, this harshly lowers the target’s Attack and Sp. Atk stats. Big move, bigger nonsense."
+  },
+  "facade": {
+    "name": "Giga Facade",
+    "effect": "This attack move doubles its power if the user is poisoned, burned, or paralyzed. Big move, bigger nonsense."
+  },
+  "focusPunch": {
+    "name": "Lock In Bonk",
+    "effect": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used. Peak bonk energy."
+  },
+  "smellingSalts": {
+    "name": "Giga Smelling Salts",
+    "effect": "This attack’s power is doubled when used on a target with paralysis. This also cures the target’s paralysis, however. Big move, bigger nonsense."
+  },
+  "followMe": {
+    "name": "Mega Follow Me",
+    "effect": "The user draws attention to itself, making all targets take aim only at the user. Big move, bigger nonsense."
+  },
+  "naturePower": {
+    "name": "Nature Sauce",
+    "effect": "This attack makes use of nature’s power. Its effects vary depending on the user’s environment. Big move, bigger nonsense."
+  },
+  "charge": {
+    "name": "Zoom",
+    "effect": "The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat. Maximum zoom."
+  },
+  "taunt": {
+    "name": "Big Taunt",
+    "effect": "The target is taunted into a rage that allows it to use only attack moves for three turns. Big move, bigger nonsense."
+  },
+  "helpingHand": {
+    "name": "Big Helping Hand",
+    "effect": "The user assists an ally by boosting the power of that ally’s attack. Big move, bigger nonsense."
+  },
+  "trick": {
+    "name": "Troll",
+    "effect": "The user catches the target off guard and swaps its held item with its own. Brainrot levels critical."
+  },
+  "rolePlay": {
+    "name": "Big Role Play",
+    "effect": "The user mimics the target completely, copying the target’s Ability. Big move, bigger nonsense."
+  },
+  "wish": {
+    "name": "Hyper Wish",
+    "effect": "One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP. Big move, bigger nonsense."
+  },
+  "assist": {
+    "name": "Mega Assist",
+    "effect": "The user hurriedly and randomly uses a move among those known by ally Mogger Mon. Big move, bigger nonsense."
+  },
+  "ingrain": {
+    "name": "Giga Ingrain",
+    "effect": "The user lays roots that restore its HP on every turn. Because it’s rooted, it can’t switch out. Big move, bigger nonsense."
+  },
+  "superpower": {
+    "name": "Big Superpower",
+    "effect": "The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats. Big move, bigger nonsense."
+  },
+  "magicCoat": {
+    "name": "Turbo Magic Coat",
+    "effect": "Moves like Leech Seed and moves that inflict status conditions are blocked by a barrier and reflected back to the user of those moves. Big move, bigger nonsense."
+  },
+  "recycle": {
+    "name": "Hyper Recycle",
+    "effect": "The user recycles a held item that has been used in battle so it can be used again. Big move, bigger nonsense."
+  },
+  "revenge": {
+    "name": "Big Revenge",
+    "effect": "This attack move’s power is doubled if the user has been hurt by the opponent in the same turn. Big move, bigger nonsense."
+  },
+  "brickBreak": {
+    "name": "Big Brick Break",
+    "effect": "The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect. Big move, bigger nonsense."
+  },
+  "yawn": {
+    "name": "Ultra Yawn",
+    "effect": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn. Big move, bigger nonsense."
+  },
+  "knockOff": {
+    "name": "Ultra Knock Off",
+    "effect": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item. Big move, bigger nonsense."
+  },
+  "endeavor": {
+    "name": "Giga Endeavor",
+    "effect": "This attack move cuts down the target’s HP to equal the user’s HP. Big move, bigger nonsense."
+  },
+  "eruption": {
+    "name": "Boom",
+    "effect": "The user attacks the other side with explosive fury. The lower the user’s HP, the lower the move’s power. Big move, bigger nonsense."
+  },
+  "skillSwap": {
+    "name": "Turbo Skill Swap",
+    "effect": "The user employs its psychic power to exchange Abilities with the target. Big move, bigger nonsense."
+  },
+  "imprison": {
+    "name": "Mega Imprison",
+    "effect": "If the other side know any move also known by the user, they are prevented from using it. Big move, bigger nonsense."
+  },
+  "refresh": {
+    "name": "Mega Refresh",
+    "effect": "The user rests to cure itself of poisoning, a burn, or paralysis. Big move, bigger nonsense."
+  },
+  "grudge": {
+    "name": "Giga Grudge",
+    "effect": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out. Big move, bigger nonsense."
+  },
+  "snatch": {
+    "name": "Hyper Snatch",
+    "effect": "The user steals the effects of any attempts to use a healing or stat-changing move. Big move, bigger nonsense."
+  },
+  "secretPower": {
+    "name": "Hyper Secret Power",
+    "effect": "The additional effects of this attack depend upon where it was used. Big move, bigger nonsense."
+  },
+  "dive": {
+    "name": "Big Dive",
+    "effect": "Diving on the first turn, the user floats up and attacks on the next turn. Big move, bigger nonsense."
+  },
+  "armThrust": {
+    "name": "Giga Arm Thrust",
+    "effect": "The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row. Big move, bigger nonsense."
+  },
+  "camouflage": {
+    "name": "Turbo Camouflage",
+    "effect": "The user’s type is changed depending on its environment, such as at water’s edge, in grass, or in a cave. Big move, bigger nonsense."
+  },
+  "tailGlow": {
+    "name": "Mega Tail Glow",
+    "effect": "The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "lusterPurge": {
+    "name": "Turbo Luster Purge",
+    "effect": "The user lets loose a damaging burst of light. This can also lower the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "mistBall": {
+    "name": "Giga Mist Ball",
+    "effect": "A mist-like flurry of down envelops and damages the target. This can also lower the target’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "featherDance": {
+    "name": "Bird Jig",
+    "effect": "The user covers the target’s body with a mass of down that harshly lowers its Attack stat. Big move, bigger nonsense."
+  },
+  "teeterDance": {
+    "name": "Teeter Jig",
+    "effect": "The user performs a wobbly dance that confuses the Mogger Mon around it. Big move, bigger nonsense."
+  },
+  "blazeKick": {
+    "name": "Flame Kick",
+    "effect": "The user launches a kick that lands a critical hit more easily. This can also leave the target with a burn. Absolute grill mode."
+  },
+  "mudSport": {
+    "name": "Big Mud Sport",
+    "effect": "The user kicks up mud on the battlefield. This weakens Electric-type moves for five turns. Big move, bigger nonsense."
+  },
+  "iceBall": {
+    "name": "Cold Ball",
+    "effect": "The user attacks the target for five turns. The move’s power increases each time it hits. Big move, bigger nonsense."
+  },
+  "needleArm": {
+    "name": "Ultra Needle Arm",
+    "effect": "The user attacks by wildly swinging its thorny arms. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "slackOff": {
+    "name": "Hyper Slack Off",
+    "effect": "The user slacks off, restoring its own HP by up to half of its max HP. Big move, bigger nonsense."
+  },
+  "hyperVoice": {
+    "name": "Giga Yap",
+    "effect": "The user lets loose a horribly echoing shout with the power to deal damage. Certified yap damage."
+  },
+  "poisonFang": {
+    "name": "Stinky Chomp",
+    "effect": "The user bites the target with toxic fangs. This can also leave the target badly poisoned. Big move, bigger nonsense."
+  },
+  "crushClaw": {
+    "name": "Giga Crush Claw",
+    "effect": "The user slashes the target with hard and sharp claws. This can also lower the target’s Defense stat. Peak bonk energy."
+  },
+  "blastBurn": {
+    "name": "Boom Burn",
+    "effect": "The target is razed by a fiery explosion. The user can’t move on the next turn. Absolute grill mode."
+  },
+  "hydroCannon": {
+    "name": "Wet Blast",
+    "effect": "The target is hit with a watery blast. The user can’t move on the next turn. Certified wet behavior."
+  },
+  "meteorMash": {
+    "name": "Hyper Meteor Mash",
+    "effect": "The target is hit with a hard punch fired like a meteor. This can also raise the user’s Attack stat. Big move, bigger nonsense."
+  },
+  "astonish": {
+    "name": "Mega Astonish",
+    "effect": "The user attacks the target while shouting in a startling fashion. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "weatherBall": {
+    "name": "Forecast Ball",
+    "effect": "This attack move varies in power and type depending on the weather. Big move, bigger nonsense."
+  },
+  "aromatherapy": {
+    "name": "Ultra Aromatherapy",
+    "effect": "The user releases a soothing scent to cure the status conditions of all its fellow party Mogger Mon and allies. Big move, bigger nonsense."
+  },
+  "fakeTears": {
+    "name": "Giga Fake Tears",
+    "effect": "The user feigns crying to fluster the target, harshly lowering its Sp. Def stat. Big move, bigger nonsense."
+  },
+  "airCutter": {
+    "name": "Mega Air Cutter",
+    "effect": "The user launches razor-like wind to slash the other side. Critical hits land more easily. Big move, bigger nonsense."
+  },
+  "overheat": {
+    "name": "Turbo Overheat",
+    "effect": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "odorSleuth": {
+    "name": "Mega Odor Sleuth",
+    "effect": "Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit. Big move, bigger nonsense."
+  },
+  "rockTomb": {
+    "name": "Hyper Rock Tomb",
+    "effect": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement. Big move, bigger nonsense."
+  },
+  "silverWind": {
+    "name": "Ultra Silver Wind",
+    "effect": "The target is attacked with powdery scales blown by the wind. This can also raise all the user’s stats. Big move, bigger nonsense."
+  },
+  "metalSound": {
+    "name": "Big Metal Sound",
+    "effect": "A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat. Certified yap damage."
+  },
+  "grassWhistle": {
+    "name": "Big Grass Whistle",
+    "effect": "The user plays a pleasant melody that puts the target to sleep. Big move, bigger nonsense."
+  },
+  "tickle": {
+    "name": "Big Tickle",
+    "effect": "The user tickles the target into laughing, reducing its Attack and Defense stats. Big move, bigger nonsense."
+  },
+  "cosmicPower": {
+    "name": "Mega Cosmic Power",
+    "effect": "The user absorbs a mystical power from space to raise its Defense and Sp. Def stats. Big move, bigger nonsense."
+  },
+  "waterSpout": {
+    "name": "Wet Spout",
+    "effect": "The user spouts water to damage the other side. The lower the user’s HP, the lower the move’s power. Certified wet behavior."
+  },
+  "signalBeam": {
+    "name": "Signal Laser",
+    "effect": "The user attacks with a sinister beam of light. This can also confuse the target. Big move, bigger nonsense."
+  },
+  "shadowPunch": {
+    "name": "Spooky Bonk",
+    "effect": "The user throws a punch from the shadows. This attack never misses. Haunted behavior detected."
+  },
+  "extrasensory": {
+    "name": "Hyper Extrasensory",
+    "effect": "The user attacks with an odd, unseeable power. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "skyUppercut": {
+    "name": "Ultra Sky Uppercut",
+    "effect": "The user attacks the target with an uppercut thrown skyward with force. Big move, bigger nonsense."
+  },
+  "sandTomb": {
+    "name": "Pocket Sand Tomb",
+    "effect": "The user traps the target inside a harshly raging sandstorm for four to five turns. Big move, bigger nonsense."
+  },
+  "sheerCold": {
+    "name": "Hyper Sheer Cold",
+    "effect": "The target faints instantly. This move is less likely to hit the target if it’s used by Mogger Mon other than Ice types. Boss Mogger Mon are resistant to this move. Big move, bigger nonsense."
+  },
+  "muddyWater": {
+    "name": "Muddy Wet",
+    "effect": "The user attacks by shooting muddy water at the other side. This can also lower their accuracy. Certified wet behavior."
+  },
+  "bulletSeed": {
+    "name": "Ultra Bullet Seed",
+    "effect": "The user forcefully shoots seeds at the target two to five times in a row. Whole lotta plant nonsense."
+  },
+  "aerialAce": {
+    "name": "Air Ace",
+    "effect": "The user confounds the target with speed, then slashes. This attack never misses. Big move, bigger nonsense."
+  },
+  "icicleSpear": {
+    "name": "Giga Icicle Spear",
+    "effect": "The user launches sharp icicles at the target two to five times in a row. Big move, bigger nonsense."
+  },
+  "ironDefense": {
+    "name": "Metal Defense",
+    "effect": "The user hardens its body’s surface like iron, sharply raising its Defense stat. Big move, bigger nonsense."
+  },
+  "block": {
+    "name": "Mega Block",
+    "effect": "The user blocks the target’s way with arms spread wide to prevent escape. Big move, bigger nonsense."
+  },
+  "howl": {
+    "name": "Big Howl",
+    "effect": "The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats. Big move, bigger nonsense."
+  },
+  "dragonClaw": {
+    "name": "Lizard Claw",
+    "effect": "The user slashes the target with huge sharp claws. Peak bonk energy."
+  },
+  "frenzyPlant": {
+    "name": "Hyper Frenzy Plant",
+    "effect": "The user slams the target with the roots of an enormous tree. The user can’t move on the next turn. Whole lotta plant nonsense."
+  },
+  "bulkUp": {
+    "name": "Mega Bulk Up",
+    "effect": "The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats. Big move, bigger nonsense."
+  },
+  "bounce": {
+    "name": "Big Bounce",
+    "effect": "The user bounces up high, then drops on the target on the second turn. This can also leave the target with paralysis. Big move, bigger nonsense."
+  },
+  "mudShot": {
+    "name": "Turbo Mud Shot",
+    "effect": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat. Big move, bigger nonsense."
+  },
+  "poisonTail": {
+    "name": "Stinky Tail",
+    "effect": "The user hits the target with its tail. This can also poison the target. Critical hits land more easily. Big move, bigger nonsense."
+  },
+  "covet": {
+    "name": "Hyper Covet",
+    "effect": "The user endearingly approaches the target, then tries to steal from the target. This move has a 30% chance to steal one of the target's held items. Big move, bigger nonsense."
+  },
+  "voltTackle": {
+    "name": "Volt Bonk",
+    "effect": "The user electrifies itself and charges the target. This also damages the user quite a lot. This attack may leave the target with paralysis. Maximum zappage."
+  },
+  "magicalLeaf": {
+    "name": "Sparkle Leaf",
+    "effect": "The user scatters curious leaves that chase the target. This attack never misses. Whole lotta plant nonsense."
+  },
+  "waterSport": {
+    "name": "Wet Sport",
+    "effect": "The user soaks the battlefield with water. This weakens Fire-type moves for five turns. Certified wet behavior."
+  },
+  "calmMind": {
+    "name": "Brain Spa",
+    "effect": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. Brainrot levels critical."
+  },
+  "leafBlade": {
+    "name": "Turbo Leaf Blade",
+    "effect": "The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily. Whole lotta plant nonsense."
+  },
+  "dragonDance": {
+    "name": "Dragon Jig",
+    "effect": "The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats. Big move, bigger nonsense."
+  },
+  "rockBlast": {
+    "name": "Rock Boom",
+    "effect": "The user hurls hard rocks at the target. Two to five rocks are launched in a row. Big move, bigger nonsense."
+  },
+  "shockWave": {
+    "name": "Buzz Wave",
+    "effect": "The user strikes the target with a quick jolt of electricity. This attack never misses. Maximum zappage."
+  },
+  "waterPulse": {
+    "name": "Wet Pulse",
+    "effect": "The user attacks the target with a pulsing blast of water. This can also confuse the target. Certified wet behavior."
+  },
+  "doomDesire": {
+    "name": "Doom Want",
+    "effect": "Two turns after this move is used, a concentrated bundle of light blasts the target. Haunted behavior detected."
+  },
+  "psychoBoost": {
+    "name": "Mega Psycho Boost",
+    "effect": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "roost": {
+    "name": "Bird Sit",
+    "effect": "The user lands and rests its body. This move restores the user’s HP by up to half of its max HP. Big move, bigger nonsense."
+  },
+  "gravity": {
+    "name": "Giga Gravity",
+    "effect": "This move enables Flying-type Mogger Mon or Mogger Mon with the Levitate Ability to be hit by Ground-type moves. Moves that involve flying can’t be used. Big move, bigger nonsense."
+  },
+  "miracleEye": {
+    "name": "Giga Miracle Eye",
+    "effect": "Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit. Big move, bigger nonsense."
+  },
+  "wakeUpSlap": {
+    "name": "Mega Wake Up Slap",
+    "effect": "This move's power is doubled on a sleeping target. This also wakes the target up, however. Big move, bigger nonsense."
+  },
+  "hammerArm": {
+    "name": "Bonk Arm",
+    "effect": "The user swings and hits with its strong, heavy fist. It lowers the user’s Speed, however. Peak bonk energy."
+  },
+  "gyroBall": {
+    "name": "Giga Gyro Ball",
+    "effect": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "healingWish": {
+    "name": "Heal Wish",
+    "effect": "The user faints. In return, the Mogger Mon taking its place will have its HP restored and status conditions cured. Big move, bigger nonsense."
+  },
+  "brine": {
+    "name": "Turbo Brine",
+    "effect": "If the target’s HP is half or less, this attack will hit with double the power. Big move, bigger nonsense."
+  },
+  "naturalGift": {
+    "name": "Hyper Natural Gift",
+    "effect": "The user draws power to attack by using its held Berry. The Berry determines the move’s type and power. Big move, bigger nonsense."
+  },
+  "feint": {
+    "name": "Turbo Feint",
+    "effect": "This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves. Big move, bigger nonsense."
+  },
+  "pluck": {
+    "name": "Ultra Pluck",
+    "effect": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect. Big move, bigger nonsense."
+  },
+  "tailwind": {
+    "name": "Turbo Tailwind",
+    "effect": "The user whips up a turbulent whirlwind that ups the Speed stats of the user and its allies for four turns. Big move, bigger nonsense."
+  },
+  "acupressure": {
+    "name": "Big Acupressure",
+    "effect": "The user applies pressure to stress points, sharply boosting one of its or its allies’ stats. Big move, bigger nonsense."
+  },
+  "metalBurst": {
+    "name": "Metal Boom",
+    "effect": "The user retaliates with much greater force against the opponent that last inflicted damage on it. Big move, bigger nonsense."
+  },
+  "uTurn": {
+    "name": "Giga U Turn",
+    "effect": "After making its attack, the user rushes back to switch places with a party Mogger Mon in waiting. Big move, bigger nonsense."
+  },
+  "closeCombat": {
+    "name": "Throw Hands",
+    "effect": "The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats. Big move, bigger nonsense."
+  },
+  "payback": {
+    "name": "Mega Payback",
+    "effect": "The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled. Big move, bigger nonsense."
+  },
+  "assurance": {
+    "name": "Mega Assurance",
+    "effect": "If the target has already taken some damage in the same turn, this attack’s power is doubled. Big move, bigger nonsense."
+  },
+  "embargo": {
+    "name": "Ultra Embargo",
+    "effect": "This move prevents the target from using its held item for five turns. Its Mogmaster is also prevented from using items on it. Big move, bigger nonsense."
+  },
+  "fling": {
+    "name": "Turbo Fling",
+    "effect": "The user flings its held item at the target to attack. This move’s power and effects depend on the item. Big move, bigger nonsense."
+  },
+  "psychoShift": {
+    "name": "Big Psycho Shift",
+    "effect": "Using its psychic power of suggestion, the user transfers its status conditions to the target. Big move, bigger nonsense."
+  },
+  "trumpCard": {
+    "name": "Big Trump Card",
+    "effect": "The fewer PP This move has, the greater its power. Big move, bigger nonsense."
+  },
+  "healBlock": {
+    "name": "Mega Heal Block",
+    "effect": "For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP. Big move, bigger nonsense."
+  },
+  "wringOut": {
+    "name": "Hyper Wring Out",
+    "effect": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "powerTrick": {
+    "name": "Power Troll",
+    "effect": "The user employs its psychic power to switch its Attack stat with its Defense stat. Brainrot levels critical."
+  },
+  "gastroAcid": {
+    "name": "Gastro Goop",
+    "effect": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target’s Ability. Big move, bigger nonsense."
+  },
+  "luckyChant": {
+    "name": "Big Lucky Chant",
+    "effect": "The user chants an incantation toward the sky, preventing the other side from landing critical hits for five turns. Big move, bigger nonsense."
+  },
+  "meFirst": {
+    "name": "Giga Me First",
+    "effect": "The user cuts ahead of the target to copy and use the target’s intended move with greater power. This move fails if it isn’t used first. Big move, bigger nonsense."
+  },
+  "copycat": {
+    "name": "Hyper Copycat",
+    "effect": "The user mimics the move used immediately before it. The move fails if no other move has been used yet. Big move, bigger nonsense."
+  },
+  "powerSwap": {
+    "name": "Giga Power Swap",
+    "effect": "The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target. Big move, bigger nonsense."
+  },
+  "guardSwap": {
+    "name": "Giga Guard Swap",
+    "effect": "The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target. Certified nope tech."
+  },
+  "punishment": {
+    "name": "Ultra Punishment",
+    "effect": "The more the target has powered up with stat changes, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "lastResort": {
+    "name": "Hyper Last Resort",
+    "effect": "This move can be used only after the user has used all the other moves it knows in the battle. Big move, bigger nonsense."
+  },
+  "worrySeed": {
+    "name": "Big Worry Seed",
+    "effect": "A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia. Whole lotta plant nonsense."
+  },
+  "suckerPunch": {
+    "name": "Sucker Bonk",
+    "effect": "This move enables the user to attack first. This move fails if the target is not readying an attack. Peak bonk energy."
+  },
+  "toxicSpikes": {
+    "name": "Stinky Spikes",
+    "effect": "The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison the other side that switch into battle. Big move, bigger nonsense."
+  },
+  "heartSwap": {
+    "name": "Hyper Heart Swap",
+    "effect": "The user employs its psychic power to switch stat changes with the target. Big move, bigger nonsense."
+  },
+  "aquaRing": {
+    "name": "Wet Ring",
+    "effect": "The user envelops itself in a veil made of water. It regains some HP every turn. Certified wet behavior."
+  },
+  "magnetRise": {
+    "name": "Hyper Magnet Rise",
+    "effect": "The user levitates using electrically generated magnetism for five turns. Big move, bigger nonsense."
+  },
+  "flareBlitz": {
+    "name": "Flame Blitz",
+    "effect": "The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn. Absolute grill mode."
+  },
+  "forcePalm": {
+    "name": "Mega Force Palm",
+    "effect": "The target is attacked with a shock wave. This can also leave the target with paralysis. Big move, bigger nonsense."
+  },
+  "auraSphere": {
+    "name": "Vibe Orb",
+    "effect": "The user lets loose a blast of aura power from deep within its body at the target. This attack never misses. Big move, bigger nonsense."
+  },
+  "rockPolish": {
+    "name": "Big Rock Polish",
+    "effect": "The user polishes its body to reduce drag. This sharply raises the Speed stat. Big move, bigger nonsense."
+  },
+  "poisonJab": {
+    "name": "Stinky Poke",
+    "effect": "The target is stabbed with a tentacle, arm, or the like steeped in poison. This can also poison the target. Big move, bigger nonsense."
+  },
+  "darkPulse": {
+    "name": "Edge Pulse",
+    "effect": "The user releases a horrible aura imbued with dark thoughts. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "nightSlash": {
+    "name": "Spooky Slice",
+    "effect": "The user slashes the target the instant an opportunity arises. Critical hits land more easily. Haunted behavior detected."
+  },
+  "aquaTail": {
+    "name": "Wet Tail",
+    "effect": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm. Certified wet behavior."
+  },
+  "seedBomb": {
+    "name": "Seed Kaboom",
+    "effect": "The user slams a barrage of hard-shelled seeds down on the target from above. Whole lotta plant nonsense."
+  },
+  "airSlash": {
+    "name": "Sky Slice",
+    "effect": "The user attacks with a blade of air that slices even the sky. This can also make the target flinch. Peak bonk energy."
+  },
+  "xScissor": {
+    "name": "X Snip",
+    "effect": "The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors. Big move, bigger nonsense."
+  },
+  "bugBuzz": {
+    "name": "Bug Noise",
+    "effect": "The user generates a damaging sound wave by vibration. This can also lower the target’s Sp. Def stat. Certified yap damage."
+  },
+  "dragonPulse": {
+    "name": "Lizard Pulse",
+    "effect": "The target is attacked with a shock wave generated by the user’s gaping mouth. Big move, bigger nonsense."
+  },
+  "dragonRush": {
+    "name": "Ultra Dragon Rush",
+    "effect": "The user tackles the target while exhibiting overwhelming menace. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "powerGem": {
+    "name": "Big Power Gem",
+    "effect": "The user attacks with a ray of light that sparkles as if it were made of gemstones. Big move, bigger nonsense."
+  },
+  "drainPunch": {
+    "name": "Yoink Bonk",
+    "effect": "An energy-draining punch. The user’s HP is restored by half the damage taken by the target. Peak bonk energy."
+  },
+  "vacuumWave": {
+    "name": "Air Wave",
+    "effect": "The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first. Big move, bigger nonsense."
+  },
+  "focusBlast": {
+    "name": "Lock In Boom",
+    "effect": "The user heightens its mental focus and unleashes its power. This can also lower the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "energyBall": {
+    "name": "Hyper Energy Ball",
+    "effect": "The user draws power from nature and fires it at the target. This can also lower the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "braveBird": {
+    "name": "Bird Send",
+    "effect": "The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot. Big move, bigger nonsense."
+  },
+  "earthPower": {
+    "name": "Ground Power",
+    "effect": "The user makes the ground under the target erupt with power. This can also lower the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "switcheroo": {
+    "name": "Hyper Switcheroo",
+    "effect": "The user trades held items with the target faster than the eye can follow. Big move, bigger nonsense."
+  },
+  "gigaImpact": {
+    "name": "Giga Giga Impact",
+    "effect": "The user charges at the target using every bit of its power. The user can’t move on the next turn. Big move, bigger nonsense."
+  },
+  "nastyPlot": {
+    "name": "Turbo Nasty Plot",
+    "effect": "The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "bulletPunch": {
+    "name": "Speed Bonk",
+    "effect": "The user strikes the target with tough punches as fast as bullets. This move always goes first. Peak bonk energy."
+  },
+  "avalanche": {
+    "name": "Mega Avalanche",
+    "effect": "The power of this attack move is doubled if the user has been hurt by the target in the same turn. Big move, bigger nonsense."
+  },
+  "iceShard": {
+    "name": "Cold Shard",
+    "effect": "The user flash-freezes chunks of ice and hurls them at the target. This move always goes first. Big move, bigger nonsense."
+  },
+  "shadowClaw": {
+    "name": "Spooky Claw",
+    "effect": "The user slashes with a sharp claw made from shadows. Critical hits land more easily. Haunted behavior detected."
+  },
+  "thunderFang": {
+    "name": "Zap Chomp",
+    "effect": "The user bites with electrified fangs. This can also make the target flinch or leave it with paralysis. Maximum zappage."
+  },
+  "iceFang": {
+    "name": "Cold Chomp",
+    "effect": "The user bites with cold-infused fangs. This can also make the target flinch or leave it frozen. Big move, bigger nonsense."
+  },
+  "fireFang": {
+    "name": "Hot Chomp",
+    "effect": "The user bites with flame-cloaked fangs. This can also make the target flinch or leave it with a burn. Absolute grill mode."
+  },
+  "shadowSneak": {
+    "name": "Spooky Sneak",
+    "effect": "The user extends its shadow and attacks the target from behind. This move always goes first. Haunted behavior detected."
+  },
+  "mudBomb": {
+    "name": "Mud Kaboom",
+    "effect": "The user launches a hard-packed mud ball to attack. This can also lower the target’s accuracy. Big move, bigger nonsense."
+  },
+  "psychoCut": {
+    "name": "Psycho Snip",
+    "effect": "The user tears at the target with blades formed by psychic power. Critical hits land more easily. Big move, bigger nonsense."
+  },
+  "zenHeadbutt": {
+    "name": "Giga Zen Headbutt",
+    "effect": "The user focuses its willpower to its head and attacks the target. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "mirrorShot": {
+    "name": "Mega Mirror Shot",
+    "effect": "The user lets loose a flash of energy at the target from its polished body. This can also lower the target’s accuracy. Big move, bigger nonsense."
+  },
+  "flashCannon": {
+    "name": "Laser Pot",
+    "effect": "The user gathers all its light energy and releases it all at once. This can also lower the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "rockClimb": {
+    "name": "Turbo Rock Climb",
+    "effect": "The user attacks the target by smashing into it with incredible force. This can also confuse the target. Big move, bigger nonsense."
+  },
+  "defog": {
+    "name": "Mega Defog",
+    "effect": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness. Big move, bigger nonsense."
+  },
+  "trickRoom": {
+    "name": "Troll Room",
+    "effect": "The user creates a bizarre area in which slower Mogger Mon get to move first for five turns. Brainrot levels critical."
+  },
+  "dracoMeteor": {
+    "name": "Hyper Draco Meteor",
+    "effect": "Comets are summoned down from the sky onto the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "discharge": {
+    "name": "Turbo Discharge",
+    "effect": "The user strikes everything around it by letting loose a flare of electricity. This can also cause paralysis. Big move, bigger nonsense."
+  },
+  "lavaPlume": {
+    "name": "Hyper Lava Plume",
+    "effect": "The user torches everything around it in an inferno of scarlet flames. This can also leave those it hits with a burn. Big move, bigger nonsense."
+  },
+  "leafStorm": {
+    "name": "Mega Leaf Storm",
+    "effect": "The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat. Whole lotta plant nonsense."
+  },
+  "powerWhip": {
+    "name": "Power Whap",
+    "effect": "The user violently whirls its vines, tentacles, or the like to harshly lash the target. Peak bonk energy."
+  },
+  "rockWrecker": {
+    "name": "Giga Rock Wrecker",
+    "effect": "The user launches a huge boulder at the target to attack. The user can’t move on the next turn. Big move, bigger nonsense."
+  },
+  "crossPoison": {
+    "name": "Cross Stinky",
+    "effect": "A slashing attack with a poisonous blade that can also poison the target. Critical hits land more easily. Big move, bigger nonsense."
+  },
+  "gunkShot": {
+    "name": "Hyper Gunk Shot",
+    "effect": "The user shoots filthy garbage at the target to attack. This can also poison the target. Big move, bigger nonsense."
+  },
+  "ironHead": {
+    "name": "Metal Head",
+    "effect": "The user slams the target with its steel-hard head. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "magnetBomb": {
+    "name": "Magnet Kaboom",
+    "effect": "The user launches steel bombs that stick to the target. This attack never misses. Big move, bigger nonsense."
+  },
+  "stoneEdge": {
+    "name": "Turbo Stone Edge",
+    "effect": "The user stabs the target from below with sharpened stones. Critical hits land more easily. Big move, bigger nonsense."
+  },
+  "captivate": {
+    "name": "Ultra Captivate",
+    "effect": "If any the other side is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "stealthRock": {
+    "name": "Sneaky Rocks",
+    "effect": "The user lays a trap of levitating stones around the opposing team. The trap hurts the other side that switch into battle. Big move, bigger nonsense."
+  },
+  "grassKnot": {
+    "name": "Giga Grass Knot",
+    "effect": "The user snares the target with grass and trips it. The heavier the target, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "chatter": {
+    "name": "Ultra Chatter",
+    "effect": "The user attacks the target with sound waves of deafening chatter. This confuses the target. Big move, bigger nonsense."
+  },
+  "judgment": {
+    "name": "Big Judgment",
+    "effect": "The user releases countless shots of light at the target. This move’s type changes depending on the kind of Plate or Memory Disc the user is holding. Big move, bigger nonsense."
+  },
+  "bugBite": {
+    "name": "Bug Nom",
+    "effect": "The user bites the target. If the target is holding a Berry, the user eats it and gains its effect. Big move, bigger nonsense."
+  },
+  "chargeBeam": {
+    "name": "Zoom Laser",
+    "effect": "The user attacks the target with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat. Maximum zoom."
+  },
+  "woodHammer": {
+    "name": "Wood Bonk",
+    "effect": "The user slams its rugged body into the target to attack. This also damages the user quite a lot. Peak bonk energy."
+  },
+  "aquaJet": {
+    "name": "Wet Zoom",
+    "effect": "The user lunges at the target at a speed that makes it almost invisible. This move always goes first. Certified wet behavior."
+  },
+  "attackOrder": {
+    "name": "Bonk Order",
+    "effect": "The user calls out its underlings to pummel the target. Critical hits land more easily. Peak bonk energy."
+  },
+  "defendOrder": {
+    "name": "Giga Defend Order",
+    "effect": "The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats. Big move, bigger nonsense."
+  },
+  "healOrder": {
+    "name": "Giga Heal Order",
+    "effect": "The user calls out its underlings to heal it, restoring its own HP by up to half of its max HP. Big move, bigger nonsense."
+  },
+  "headSmash": {
+    "name": "Big Head Smash",
+    "effect": "The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly. Peak bonk energy."
+  },
+  "doubleHit": {
+    "name": "Big Double Hit",
+    "effect": "The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row. Big move, bigger nonsense."
+  },
+  "roarOfTime": {
+    "name": "Big Roar Of Time",
+    "effect": "The user blasts the target with power that distorts even time. The user can’t move on the next turn. Big move, bigger nonsense."
+  },
+  "spacialRend": {
+    "name": "Turbo Spacial Rend",
+    "effect": "The user tears the target along with the space around it. Critical hits land more easily. Big move, bigger nonsense."
+  },
+  "lunarDance": {
+    "name": "Moon Jig",
+    "effect": "The user faints. In return, the Mogger Mon taking its place will have its status and HP fully restored. Big move, bigger nonsense."
+  },
+  "crushGrip": {
+    "name": "Ultra Crush Grip",
+    "effect": "The target is crushed with great force. The more HP the target has left, the greater this move’s power. Big move, bigger nonsense."
+  },
+  "magmaStorm": {
+    "name": "Giga Magma Storm",
+    "effect": "The target becomes trapped within a maelstrom of fire that rages for four to five turns. Big move, bigger nonsense."
+  },
+  "darkVoid": {
+    "name": "Spooky Void",
+    "effect": "the other side are dragged into a world of total darkness that makes them sleep. Haunted behavior detected."
+  },
+  "seedFlare": {
+    "name": "Seed Flame",
+    "effect": "The user emits a shock wave from its body to attack its target. This can also harshly lower the target’s Sp. Def stat. Absolute grill mode."
+  },
+  "ominousWind": {
+    "name": "Giga Ominous Wind",
+    "effect": "The user blasts the target with a gust of repulsive wind. This can also raise all the user’s stats at once. Big move, bigger nonsense."
+  },
+  "shadowForce": {
+    "name": "Spooky Force",
+    "effect": "The user disappears, then strikes the target on the next turn. This move hits even if the target protects itself. Haunted behavior detected."
+  },
+  "honeClaws": {
+    "name": "Big Hone Claws",
+    "effect": "The user sharpens its claws to boost its Attack stat and accuracy. Big move, bigger nonsense."
+  },
+  "wideGuard": {
+    "name": "Big Wide Guard",
+    "effect": "The user and its allies are protected from wide-ranging attacks for one turn. Certified nope tech."
+  },
+  "guardSplit": {
+    "name": "Hyper Guard Split",
+    "effect": "The user employs its psychic power to average its Defense and Sp. Def stats with those of the target. Certified nope tech."
+  },
+  "powerSplit": {
+    "name": "Mega Power Split",
+    "effect": "The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target. Big move, bigger nonsense."
+  },
+  "wonderRoom": {
+    "name": "Giga Wonder Room",
+    "effect": "The user creates a bizarre area in which Mogger Mon’s Defense and Sp. Def stats are swapped for five turns. Big move, bigger nonsense."
+  },
+  "psyshock": {
+    "name": "Big Psyshock",
+    "effect": "The user materializes an odd psychic wave to attack the target. This attack does physical damage. Big move, bigger nonsense."
+  },
+  "venoshock": {
+    "name": "Turbo Venoshock",
+    "effect": "The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned. Big move, bigger nonsense."
+  },
+  "autotomize": {
+    "name": "Hyper Autotomize",
+    "effect": "The user sheds part of its body to make itself lighter and sharply boost its Speed stat. Big move, bigger nonsense."
+  },
+  "ragePowder": {
+    "name": "Mad Dust",
+    "effect": "The user scatters a cloud of irritating powder to draw attention to itself. the other side aim only at the user. Big move, bigger nonsense."
+  },
+  "telekinesis": {
+    "name": "Turbo Telekinesis",
+    "effect": "The user makes the target float with its psychic power. The target is easier to hit for three turns. Big move, bigger nonsense."
+  },
+  "magicRoom": {
+    "name": "Big Magic Room",
+    "effect": "The user creates a bizarre area in which Mogger Mon’s held items lose their effects for five turns. Big move, bigger nonsense."
+  },
+  "smackDown": {
+    "name": "Mega Smack Down",
+    "effect": "The user throws a stone or similar projectile to attack the target. A flying Mogger Mon will fall to the ground when it’s hit. Big move, bigger nonsense."
+  },
+  "stormThrow": {
+    "name": "Ultra Storm Throw",
+    "effect": "The user strikes the target with a fierce blow. This attack always results in a critical hit. Big move, bigger nonsense."
+  },
+  "flameBurst": {
+    "name": "Flame Boom",
+    "effect": "The user attacks the target with a bursting flame. The bursting flame damages Mogger Mon next to the target as well. Absolute grill mode."
+  },
+  "sludgeWave": {
+    "name": "Gunk Wave",
+    "effect": "The user strikes everything around it by swamping the area with a giant sludge wave. This can also poison those hit. Big move, bigger nonsense."
+  },
+  "quiverDance": {
+    "name": "Quiver Jig",
+    "effect": "The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats. Big move, bigger nonsense."
+  },
+  "heavySlam": {
+    "name": "Heavy Bonk",
+    "effect": "The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power. Peak bonk energy."
+  },
+  "synchronoise": {
+    "name": "Big Synchronoise",
+    "effect": "Using an odd shock wave, the user inflicts damage on any Mogger Mon of the same type in the area around it. Big move, bigger nonsense."
+  },
+  "electroBall": {
+    "name": "Zap Ball",
+    "effect": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power. Maximum zappage."
+  },
+  "soak": {
+    "name": "Big Soak",
+    "effect": "The user shoots a torrent of water at the target and changes the target’s type to Water. Big move, bigger nonsense."
+  },
+  "flameCharge": {
+    "name": "Flame Zoom",
+    "effect": "Cloaking itself in flame, the user attacks the target. Then, building up more power, the user raises its Speed stat. Absolute grill mode."
+  },
+  "coil": {
+    "name": "Ultra Coil",
+    "effect": "The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy. Big move, bigger nonsense."
+  },
+  "lowSweep": {
+    "name": "Turbo Low Sweep",
+    "effect": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat. Big move, bigger nonsense."
+  },
+  "acidSpray": {
+    "name": "Goop Spray",
+    "effect": "The user spits fluid that works to melt the target. This harshly lowers the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "foulPlay": {
+    "name": "Giga Foul Play",
+    "effect": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the damage it deals. Big move, bigger nonsense."
+  },
+  "simpleBeam": {
+    "name": "Simple Laser",
+    "effect": "The user’s mysterious psychic wave changes the target’s Ability to Simple. Big move, bigger nonsense."
+  },
+  "entrainment": {
+    "name": "Ultra Entrainment",
+    "effect": "The user dances with an odd rhythm that compels the target to mimic it, making the target’s Ability the same as the user’s. Big move, bigger nonsense."
+  },
+  "afterYou": {
+    "name": "Ultra After You",
+    "effect": "The user helps the target and makes it use its move right after the user. Big move, bigger nonsense."
+  },
+  "round": {
+    "name": "Turbo Round",
+    "effect": "The user attacks the target with a song. Others can join in the Round to increase the power of the attack. Big move, bigger nonsense."
+  },
+  "echoedVoice": {
+    "name": "Echoed Yap",
+    "effect": "The user attacks the target with an echoing voice. If this move is used every turn, its power is increased. Certified yap damage."
+  },
+  "chipAway": {
+    "name": "Big Chip Away",
+    "effect": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect the damage inflicted by this move. Big move, bigger nonsense."
+  },
+  "clearSmog": {
+    "name": "Hyper Clear Smog",
+    "effect": "The user attacks the target by throwing a clump of special mud. All stat changes are returned to normal. Big move, bigger nonsense."
+  },
+  "storedPower": {
+    "name": "Turbo Stored Power",
+    "effect": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "quickGuard": {
+    "name": "Fast Guard",
+    "effect": "The user protects itself and its allies from priority moves. Certified nope tech."
+  },
+  "allySwitch": {
+    "name": "Big Ally Switch",
+    "effect": "The user teleports using a strange power and switches places with one of its allies. Big move, bigger nonsense."
+  },
+  "scald": {
+    "name": "Ultra Scald",
+    "effect": "The user shoots boiling hot water at its target. This can also leave the target with a burn. Big move, bigger nonsense."
+  },
+  "shellSmash": {
+    "name": "Big Shell Smash",
+    "effect": "The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats. Peak bonk energy."
+  },
+  "healPulse": {
+    "name": "Mega Heal Pulse",
+    "effect": "The user emits a healing pulse that restores the target’s HP by up to half of its max HP. Big move, bigger nonsense."
+  },
+  "hex": {
+    "name": "Curse",
+    "effect": "This relentless attack does massive damage to a target affected by status conditions. Haunted behavior detected."
+  },
+  "skyDrop": {
+    "name": "Turbo Sky Drop",
+    "effect": "The user takes the target into the sky on the first turn, then drops it during the next turn. The target cannot attack while in the sky. Big move, bigger nonsense."
+  },
+  "shiftGear": {
+    "name": "Hyper Shift Gear",
+    "effect": "The user rotates its gears, raising its Attack stat and sharply raising its Speed stat. Big move, bigger nonsense."
+  },
+  "circleThrow": {
+    "name": "Giga Circle Throw",
+    "effect": "The target is thrown, and a different Mogger Mon is dragged out. In the wild, this ends a battle against a single Mogger Mon. Big move, bigger nonsense."
+  },
+  "incinerate": {
+    "name": "Turbo Incinerate",
+    "effect": "The user attacks the other side with fire. If a Mogger Mon is holding a certain item, such as a Berry, the item becomes burned up and unusable. Big move, bigger nonsense."
+  },
+  "quash": {
+    "name": "Turbo Quash",
+    "effect": "The user suppresses the target and makes its move go last. Big move, bigger nonsense."
+  },
+  "acrobatics": {
+    "name": "Hyper Acrobatics",
+    "effect": "The user nimbly strikes the target. The fewer held items, the higher the damage it inflicts. Big move, bigger nonsense."
+  },
+  "reflectType": {
+    "name": "Mirror Type",
+    "effect": "The user reflects the target’s type, making the user the same type as the target. Big move, bigger nonsense."
+  },
+  "retaliate": {
+    "name": "Hyper Retaliate",
+    "effect": "The user gets revenge for a fainted ally. If an ally fainted in the previous turn, This move’s power is increased. Big move, bigger nonsense."
+  },
+  "finalGambit": {
+    "name": "Giga Final Gambit",
+    "effect": "The user risks everything to attack its target. The user faints but does damage equal to its HP. Big move, bigger nonsense."
+  },
+  "bestow": {
+    "name": "Big Bestow",
+    "effect": "The user passes its held item to the target when the target isn’t holding an item. Big move, bigger nonsense."
+  },
+  "inferno": {
+    "name": "Hyper Inferno",
+    "effect": "The user attacks by engulfing the target in an intense fire. This leaves the target with a burn. Big move, bigger nonsense."
+  },
+  "waterPledge": {
+    "name": "Wet Pledge",
+    "effect": "A column of water hits the target. When used with its fire equivalent, its power increases and a rainbow appears. Certified wet behavior."
+  },
+  "firePledge": {
+    "name": "Hot Pledge",
+    "effect": "A column of fire hits the target. When used with its grass equivalent, its power increases and a vast sea of fire appears. Absolute grill mode."
+  },
+  "grassPledge": {
+    "name": "Ultra Grass Pledge",
+    "effect": "A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears. Big move, bigger nonsense."
+  },
+  "voltSwitch": {
+    "name": "Mega Volt Switch",
+    "effect": "After making its attack, the user rushes back to switch places with a party Mogger Mon in waiting. Maximum zappage."
+  },
+  "struggleBug": {
+    "name": "Hyper Struggle Bug",
+    "effect": "While resisting, the user attacks the other side. This lowers the Sp. Atk stats of those hit. Big move, bigger nonsense."
+  },
+  "bulldoze": {
+    "name": "Mega Bulldoze",
+    "effect": "The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit. Big move, bigger nonsense."
+  },
+  "frostBreath": {
+    "name": "Cold Breath",
+    "effect": "The user blows its cold breath on the target. This attack always results in a critical hit. Big move, bigger nonsense."
+  },
+  "dragonTail": {
+    "name": "Ultra Dragon Tail",
+    "effect": "The target is knocked away, and a different Mogger Mon is dragged out. In the wild, this ends a battle against a single Mogger Mon. Big move, bigger nonsense."
+  },
+  "workUp": {
+    "name": "Big Work Up",
+    "effect": "The user is roused, and its Attack and Sp. Atk stats increase. Big move, bigger nonsense."
+  },
+  "electroweb": {
+    "name": "Turbo Electroweb",
+    "effect": "The user attacks and captures the other side using an electric net. This lowers their Speed stats. Big move, bigger nonsense."
+  },
+  "wildCharge": {
+    "name": "Wild Zoom",
+    "effect": "The user shrouds itself in electricity and smashes into its target. This also damages the user a little. Maximum zoom."
+  },
+  "drillRun": {
+    "name": "Big Drill Run",
+    "effect": "The user crashes into its target while rotating its body like a drill. Critical hits land more easily. Peak bonk energy."
+  },
+  "dualChop": {
+    "name": "Big Dual Chop",
+    "effect": "The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row. Peak bonk energy."
+  },
+  "heartStamp": {
+    "name": "Hyper Heart Stamp",
+    "effect": "The user unleashes a vicious blow after its cute act makes the target less wary. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "hornLeech": {
+    "name": "Horn Yoink",
+    "effect": "The user drains the target’s energy with its horns. The user’s HP is restored by half the damage taken by the target. Peak bonk energy."
+  },
+  "sacredSword": {
+    "name": "Hyper Sacred Sword",
+    "effect": "The user attacks by slicing with a long horn. The target’s stat changes don’t affect this attack’s damage. Big move, bigger nonsense."
+  },
+  "razorShell": {
+    "name": "Slicey Shell",
+    "effect": "The user cuts its target with sharp shells. This can also lower the target’s Defense stat. Big move, bigger nonsense."
+  },
+  "heatCrash": {
+    "name": "Hot Crash",
+    "effect": "The user slams its target with its flame-covered body. The more the user outweighs the target, the greater the move’s power. Absolute grill mode."
+  },
+  "leafTornado": {
+    "name": "Hyper Leaf Tornado",
+    "effect": "The user attacks its target by encircling it in sharp leaves. This attack can also lower the target’s accuracy. Whole lotta plant nonsense."
+  },
+  "steamroller": {
+    "name": "Big Steamroller",
+    "effect": "The user crushes its target by rolling over the target with its rolled-up body. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "cottonGuard": {
+    "name": "Turbo Cotton Guard",
+    "effect": "The user protects itself by wrapping its body in soft cotton, which drastically raises the user’s Defense stat. Certified nope tech."
+  },
+  "nightDaze": {
+    "name": "Spooky Daze",
+    "effect": "The user lets loose a pitch-black shock wave at its target. This can also lower the target’s accuracy. Haunted behavior detected."
+  },
+  "psystrike": {
+    "name": "Giga Psystrike",
+    "effect": "The user materializes an odd psychic wave to attack the target. This attack does physical damage. Big move, bigger nonsense."
+  },
+  "tailSlap": {
+    "name": "Big Tail Slap",
+    "effect": "The user attacks by striking the target with its hard tail. It hits the target two to five times in a row. Big move, bigger nonsense."
+  },
+  "hurricane": {
+    "name": "Storm",
+    "effect": "The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This can also confuse the target. Big move, bigger nonsense."
+  },
+  "headCharge": {
+    "name": "Head Zoom",
+    "effect": "The user charges its head into its target, using its powerful guard hair. This also damages the user a little. Maximum zoom."
+  },
+  "gearGrind": {
+    "name": "Hyper Gear Grind",
+    "effect": "The user attacks by throwing steel gears at its target twice. Big move, bigger nonsense."
+  },
+  "searingShot": {
+    "name": "Hyper Searing Shot",
+    "effect": "The user torches everything around it in an inferno of scarlet flames. This can also leave those it hits with a burn. Big move, bigger nonsense."
+  },
+  "technoBlast": {
+    "name": "Techno Boom",
+    "effect": "The user fires a beam of light at its target. The move’s type changes depending on the Drive the user holds. Big move, bigger nonsense."
+  },
+  "relicSong": {
+    "name": "Turbo Relic Song",
+    "effect": "The user sings an ancient song and attacks by appealing to the hearts of the listening the other side. This can also induce sleep. Certified yap damage."
+  },
+  "secretSword": {
+    "name": "Ultra Secret Sword",
+    "effect": "The user cuts with its long horn. The odd power contained in the horn does physical damage to the target. Big move, bigger nonsense."
+  },
+  "glaciate": {
+    "name": "Big Glaciate",
+    "effect": "The user attacks by blowing freezing cold air at the other side. This lowers their Speed stats. Big move, bigger nonsense."
+  },
+  "boltStrike": {
+    "name": "Zap Bonk",
+    "effect": "The user surrounds itself with a great amount of electricity and charges its target. This can also leave the target with paralysis. Maximum zappage."
+  },
+  "blueFlare": {
+    "name": "Blue Flame",
+    "effect": "The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This can also leave the target with a burn. Absolute grill mode."
+  },
+  "fieryDance": {
+    "name": "Fiery Jig",
+    "effect": "Cloaked in flames, the user attacks the target by dancing and flapping its wings. This can also raise the user’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "freezeShock": {
+    "name": "Freeze Buzz",
+    "effect": "On the second turn, the user hits the target with electrically charged ice. This can also leave the target with paralysis. Maximum zappage."
+  },
+  "iceBurn": {
+    "name": "Cold Burn",
+    "effect": "On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn. Absolute grill mode."
+  },
+  "snarl": {
+    "name": "Edge Bark",
+    "effect": "The user yells as if it’s ranting about something, which lowers the Sp. Atk stats of the other side. Big move, bigger nonsense."
+  },
+  "icicleCrash": {
+    "name": "Turbo Icicle Crash",
+    "effect": "The user attacks by harshly dropping large icicles onto the target. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "vCreate": {
+    "name": "Big V Create",
+    "effect": "With a hot flame on its forehead, the user hurls itself at its target. This lowers the user’s Defense, Sp. Def, and Speed stats. Big move, bigger nonsense."
+  },
+  "fusionFlare": {
+    "name": "Fusion Flame",
+    "effect": "The user brings down a giant flame. This move’s power is increased when influenced by an enormous lightning bolt. Absolute grill mode."
+  },
+  "fusionBolt": {
+    "name": "Fusion Zap",
+    "effect": "The user throws down a giant lightning bolt. This move’s power is increased when influenced by an enormous flame. Maximum zappage."
+  },
+  "flyingPress": {
+    "name": "Big Flying Press",
+    "effect": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously. Big move, bigger nonsense."
+  },
+  "matBlock": {
+    "name": "Mega Mat Block",
+    "effect": "Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves. Big move, bigger nonsense."
+  },
+  "belch": {
+    "name": "Turbo Belch",
+    "effect": "The user lets out a damaging belch at the target. The user must eat a held Berry to use this move. Big move, bigger nonsense."
+  },
+  "rototiller": {
+    "name": "Big Rototiller",
+    "effect": "Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Mogger Mon. Big move, bigger nonsense."
+  },
+  "stickyWeb": {
+    "name": "Ultra Sticky Web",
+    "effect": "The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle. Big move, bigger nonsense."
+  },
+  "fellStinger": {
+    "name": "Doom Poke",
+    "effect": "When the user knocks out a target with this move, the user’s Attack stat rises drastically. Haunted behavior detected."
+  },
+  "phantomForce": {
+    "name": "Spooky Force",
+    "effect": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself. Haunted behavior detected."
+  },
+  "trickOrTreat": {
+    "name": "Troll Or Treat",
+    "effect": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type. Brainrot levels critical."
+  },
+  "nobleRoar": {
+    "name": "Giga Noble Roar",
+    "effect": "Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats. Big move, bigger nonsense."
+  },
+  "ionDeluge": {
+    "name": "Turbo Ion Deluge",
+    "effect": "The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves. Big move, bigger nonsense."
+  },
+  "parabolicCharge": {
+    "name": "Parabolic Zoom",
+    "effect": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit. Maximum zoom."
+  },
+  "forestsCurse": {
+    "name": "Big Forests Curse",
+    "effect": "The user puts a forest curse on the target. The target is now Grass type as well. Haunted behavior detected."
+  },
+  "petalBlizzard": {
+    "name": "Petal Snow Spam",
+    "effect": "The user stirs up a violent petal blizzard and attacks everything around it. Whole lotta plant nonsense."
+  },
+  "freezeDry": {
+    "name": "Giga Freeze Dry",
+    "effect": "The user rapidly cools the target. This can also leave the target frozen. This move is super effective on Water types. Big move, bigger nonsense."
+  },
+  "disarmingVoice": {
+    "name": "Disarming Yap",
+    "effect": "Letting out a charming cry, the user does emotional damage to the other side. This attack never misses. Certified yap damage."
+  },
+  "partingShot": {
+    "name": "Hyper Parting Shot",
+    "effect": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Mogger Mon. Big move, bigger nonsense."
+  },
+  "topsyTurvy": {
+    "name": "Mega Topsy Turvy",
+    "effect": "All stat changes affecting the target turn topsy-turvy and become the opposite of what they were. Big move, bigger nonsense."
+  },
+  "drainingKiss": {
+    "name": "Giga Draining Kiss",
+    "effect": "The user steals the target’s HP with a kiss. The user’s HP is restored by over half of the damage taken by the target. Big move, bigger nonsense."
+  },
+  "craftyShield": {
+    "name": "Turbo Crafty Shield",
+    "effect": "The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage. Certified nope tech."
+  },
+  "flowerShield": {
+    "name": "Petal Shield",
+    "effect": "The user raises the Defense stats of all Grass-type Mogger Mon in battle with a mysterious power. Whole lotta plant nonsense."
+  },
+  "grassyTerrain": {
+    "name": "Turbo Grassy Terrain",
+    "effect": "The user turns the ground to grass for five turns. This restores the HP of Mogger Mon on the ground a little every turn and powers up Grass-type moves. Big move, bigger nonsense."
+  },
+  "mistyTerrain": {
+    "name": "Hyper Misty Terrain",
+    "effect": "This protects Mogger Mon on the ground from status conditions and halves damage from Dragon-type moves for five turns. Big move, bigger nonsense."
+  },
+  "electrify": {
+    "name": "Ultra Electrify",
+    "effect": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type. Big move, bigger nonsense."
+  },
+  "playRough": {
+    "name": "Roughhouse",
+    "effect": "The user plays rough with the target and attacks it. This can also lower the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "fairyWind": {
+    "name": "Hyper Fairy Wind",
+    "effect": "The user stirs up a fairy wind and strikes the target with it. Big move, bigger nonsense."
+  },
+  "moonblast": {
+    "name": "Moon Boom",
+    "effect": "Borrowing the power of the moon, the user attacks the target. This can also lower the target’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "boomburst": {
+    "name": "Ultra Boomburst",
+    "effect": "The user attacks everything around it with the destructive power of a terrible, explosive sound. Big move, bigger nonsense."
+  },
+  "fairyLock": {
+    "name": "Giga Fairy Lock",
+    "effect": "By locking down the battlefield, the user keeps all Mogger Mon from fleeing during the next turn. Big move, bigger nonsense."
+  },
+  "kingsShield": {
+    "name": "Mega Kings Shield",
+    "effect": "The user takes a defensive stance while it protects itself from damage. It also lowers the Attack stat of any attacker that makes direct contact. Certified nope tech."
+  },
+  "playNice": {
+    "name": "Ultra Play Nice",
+    "effect": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "confide": {
+    "name": "Giga Confide",
+    "effect": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "diamondStorm": {
+    "name": "Hyper Diamond Storm",
+    "effect": "The user whips up a storm of diamonds to damage the other side. This can also sharply raise the user’s Defense stat. Big move, bigger nonsense."
+  },
+  "steamEruption": {
+    "name": "Steam Boom",
+    "effect": "The user immerses the target in superheated steam. This can also leave the target with a burn. Big move, bigger nonsense."
+  },
+  "hyperspaceHole": {
+    "name": "Big Hyperspace Hole",
+    "effect": "Using a hyperspace hole, the user appears right next to the target and strikes. This also hits a target using a move such as Protect or Detect. Big move, bigger nonsense."
+  },
+  "waterShuriken": {
+    "name": "Wet Shuriken",
+    "effect": "The user hits the target with throwing stars two to five times in a row. This move always goes first. If used by Ash Greninja, This move gains more power and the target is always hit three times in a row. Certified wet behavior."
+  },
+  "mysticalFire": {
+    "name": "Arcane Hot",
+    "effect": "The user attacks by breathing a special, hot fire. This also lowers the target’s Sp. Atk stat. Absolute grill mode."
+  },
+  "spikyShield": {
+    "name": "Mega Spiky Shield",
+    "effect": "In addition to protecting the user from attacks, This move also damages any attacker that makes direct contact. Certified nope tech."
+  },
+  "aromaticMist": {
+    "name": "Mega Aromatic Mist",
+    "effect": "The user raises the Sp. Def stat of an ally Mogger Mon by using a mysterious aroma. Big move, bigger nonsense."
+  },
+  "eerieImpulse": {
+    "name": "Hyper Eerie Impulse",
+    "effect": "The user’s body generates an eerie impulse. Exposing the target to it harshly lowers the target’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "venomDrench": {
+    "name": "Ultra Venom Drench",
+    "effect": "the other side are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target. Big move, bigger nonsense."
+  },
+  "powder": {
+    "name": "Dust",
+    "effect": "The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target. Big move, bigger nonsense."
+  },
+  "geomancy": {
+    "name": "Hyper Geomancy",
+    "effect": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn. Big move, bigger nonsense."
+  },
+  "magneticFlux": {
+    "name": "Mega Magnetic Flux",
+    "effect": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Mogger Mon with the Plus or Minus Ability. Big move, bigger nonsense."
+  },
+  "happyHour": {
+    "name": "Big Happy Hour",
+    "effect": "Using Happy Hour doubles the amount of prize money received after battle. Big move, bigger nonsense."
+  },
+  "electricTerrain": {
+    "name": "Zap Terrain",
+    "effect": "The user electrifies the ground for five turns, powering up Electric-type moves. Mogger Mon on the ground no longer fall asleep. Maximum zappage."
+  },
+  "dazzlingGleam": {
+    "name": "Dazzling Shine",
+    "effect": "The user damages the other side by emitting a powerful flash. Big move, bigger nonsense."
+  },
+  "celebrate": {
+    "name": "Mega Celebrate",
+    "effect": "The Mogger Mon congratulates you on your special day! Big move, bigger nonsense."
+  },
+  "holdHands": {
+    "name": "Ultra Hold Hands",
+    "effect": "The user and an ally hold hands. This makes them very happy. Big move, bigger nonsense."
+  },
+  "babyDollEyes": {
+    "name": "Mega Baby Doll Eyes",
+    "effect": "The user stares at the target with its baby-doll eyes, which lowers the target’s Attack stat. This move always goes first. Big move, bigger nonsense."
+  },
+  "nuzzle": {
+    "name": "Snuggle Zap",
+    "effect": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis. Maximum zappage."
+  },
+  "holdBack": {
+    "name": "Turbo Hold Back",
+    "effect": "The user holds back when it attacks, and the target is left with at least 1 HP. Big move, bigger nonsense."
+  },
+  "infestation": {
+    "name": "Big Infestation",
+    "effect": "The target is infested and attacked for four to five turns. The target can’t flee during this time. Big move, bigger nonsense."
+  },
+  "powerUpPunch": {
+    "name": "Power Up Bonk",
+    "effect": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat. Peak bonk energy."
+  },
+  "oblivionWing": {
+    "name": "Mega Oblivion Wing",
+    "effect": "The user absorbs its target’s HP. The user’s HP is restored by over half of the damage taken by the target. Big move, bigger nonsense."
+  },
+  "thousandArrows": {
+    "name": "Giga Thousand Arrows",
+    "effect": "This move also hits the other side that are in the air. Those Mogger Mon are knocked down to the ground. Big move, bigger nonsense."
+  },
+  "thousandWaves": {
+    "name": "Giga Thousand Waves",
+    "effect": "The user attacks with a wave that crawls along the ground. Those it hits can’t flee from battle. Big move, bigger nonsense."
+  },
+  "landsWrath": {
+    "name": "Big Lands Wrath",
+    "effect": "The user gathers the energy of the land and focuses that power on the other side to damage them. Big move, bigger nonsense."
+  },
+  "lightOfRuin": {
+    "name": "Shine Of Ruin",
+    "effect": "Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot. Big move, bigger nonsense."
+  },
+  "originPulse": {
+    "name": "Mega Origin Pulse",
+    "effect": "The user attacks the other side with countless beams of light that glow a deep and brilliant blue. Big move, bigger nonsense."
+  },
+  "precipiceBlades": {
+    "name": "Ultra Precipice Blades",
+    "effect": "The user attacks the other side by manifesting the power of the land in fearsome blades of stone. Big move, bigger nonsense."
+  },
+  "dragonAscent": {
+    "name": "Ultra Dragon Ascent",
+    "effect": "After soaring upward, the user attacks its target by dropping out of the sky at high speeds. But it lowers its own Defense and Sp. Def stats in the process. Big move, bigger nonsense."
+  },
+  "hyperspaceFury": {
+    "name": "Hyperspace Mad",
+    "effect": "Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. But the user’s Defense stat falls. Big move, bigger nonsense."
+  },
+  "breakneckBlitzPhysical": {
+    "name": "Turbo Breakneck Blitz Physical",
+    "effect": "The user builds up its momentum using its Z-Power and crashes into the target at full speed. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "breakneckBlitzSpecial": {
+    "name": "Turbo Breakneck Blitz Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "allOutPummelingPhysical": {
+    "name": "Giga All Out Pummeling Physical",
+    "effect": "The user rams an energy orb created by its Z-Power into the target with full force. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "allOutPummelingSpecial": {
+    "name": "Giga All Out Pummeling Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "supersonicSkystrikePhysical": {
+    "name": "Hyper Supersonic Skystrike Physical",
+    "effect": "The user soars up with its Z-Power and plummets toward the target at full speed. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "supersonicSkystrikeSpecial": {
+    "name": "Hyper Supersonic Skystrike Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "acidDownpourPhysical": {
+    "name": "Goop Downpour Physical",
+    "effect": "The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "acidDownpourSpecial": {
+    "name": "Goop Downpour Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "tectonicRagePhysical": {
+    "name": "Tectonic Mad Physical",
+    "effect": "The user burrows deep into the ground and slams into the target with the full force of its Z-Power. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "tectonicRageSpecial": {
+    "name": "Tectonic Mad Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "continentalCrushPhysical": {
+    "name": "Mega Continental Crush Physical",
+    "effect": "The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "continentalCrushSpecial": {
+    "name": "Ultra Continental Crush Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "savageSpinOutPhysical": {
+    "name": "Giga Savage Spin Out Physical",
+    "effect": "The user binds the target with full force with threads of silk that the user spits using its Z-Power. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "savageSpinOutSpecial": {
+    "name": "Big Savage Spin Out Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "neverEndingNightmarePhysical": {
+    "name": "Hyper Never Ending Nightmare Physical",
+    "effect": "Deep-seated grudges summoned by the user’s Z-Power trap the target. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "neverEndingNightmareSpecial": {
+    "name": "Hyper Never Ending Nightmare Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "corkscrewCrashPhysical": {
+    "name": "Ultra Corkscrew Crash Physical",
+    "effect": "The user spins very fast and rams into the target with the full force of its Z-Power. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "corkscrewCrashSpecial": {
+    "name": "Ultra Corkscrew Crash Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "infernoOverdrivePhysical": {
+    "name": "Turbo Inferno Overdrive Physical",
+    "effect": "The user breathes a stream of intense fire toward the target with the full force of its Z-Power. The power varies depending on the original move. Big move, bigger nonsense."
+  },
+  "infernoOverdriveSpecial": {
+    "name": "Giga Inferno Overdrive Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "hydroVortexPhysical": {
+    "name": "Wet Vortex Physical",
+    "effect": "The user creates a huge whirling current using its Z-Power to swallow the target with full force. The power varies, depending on the original move. Certified wet behavior."
+  },
+  "hydroVortexSpecial": {
+    "name": "Wet Vortex Special",
+    "effect": "Dummy Data Certified wet behavior."
+  },
+  "bloomDoomPhysical": {
+    "name": "Ultra Bloom Doom Physical",
+    "effect": "The user collects energy from plants using its Z-Power and attacks the target with full force. The power varies, depending on the original move. Haunted behavior detected."
+  },
+  "bloomDoomSpecial": {
+    "name": "Mega Bloom Doom Special",
+    "effect": "Dummy Data Haunted behavior detected."
+  },
+  "gigavoltHavocPhysical": {
+    "name": "Ultra Gigavolt Havoc Physical",
+    "effect": "The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "gigavoltHavocSpecial": {
+    "name": "Mega Gigavolt Havoc Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "shatteredPsychePhysical": {
+    "name": "Mega Shattered Psyche Physical",
+    "effect": "The user controls the target with its Z-Power and hurts the target with full force. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "shatteredPsycheSpecial": {
+    "name": "Hyper Shattered Psyche Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "subzeroSlammerPhysical": {
+    "name": "Giga Subzero Slammer Physical",
+    "effect": "The user dramatically drops the temperature using its Z-Power and freezes the target with full force. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "subzeroSlammerSpecial": {
+    "name": "Big Subzero Slammer Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "devastatingDrakePhysical": {
+    "name": "Giga Devastating Drake Physical",
+    "effect": "The user materializes its aura using its Z-Power and attacks the target with full force. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "devastatingDrakeSpecial": {
+    "name": "Giga Devastating Drake Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "blackHoleEclipsePhysical": {
+    "name": "Hyper Black Hole Eclipse Physical",
+    "effect": "The user gathers dark energy using its Z-Power and sucks the target into it. The power varies, depending on the original move. Big move, bigger nonsense."
+  },
+  "blackHoleEclipseSpecial": {
+    "name": "Ultra Black Hole Eclipse Special",
+    "effect": "Dummy Data Big move, bigger nonsense."
+  },
+  "twinkleTacklePhysical": {
+    "name": "Twinkle Bonk Physical",
+    "effect": "The user creates a very charming space using its Z-Power and totally toys with the target. The power varies, depending on the original move. Peak bonk energy."
+  },
+  "twinkleTackleSpecial": {
+    "name": "Twinkle Bonk Special",
+    "effect": "Dummy Data Peak bonk energy."
+  },
+  "catastropika": {
+    "name": "Big Catastropika",
+    "effect": "The user, Pikachu, surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force. Big move, bigger nonsense."
+  },
+  "shoreUp": {
+    "name": "Big Shore Up",
+    "effect": "The user regains up to half of its max HP. It restores more HP in a sandstorm. Big move, bigger nonsense."
+  },
+  "firstImpression": {
+    "name": "Ultra First Impression",
+    "effect": "Although this move has great power, it only works the first turn each time the user enters battle. Big move, bigger nonsense."
+  },
+  "banefulBunker": {
+    "name": "Giga Baneful Bunker",
+    "effect": "In addition to protecting the user from attacks, This move also poisons any attacker that makes direct contact. Big move, bigger nonsense."
+  },
+  "spiritShackle": {
+    "name": "Ghost Shackle",
+    "effect": "The user attacks while simultaneously stitching the target’s shadow to the ground to prevent the target from escaping. Haunted behavior detected."
+  },
+  "darkestLariat": {
+    "name": "Mega Darkest Lariat",
+    "effect": "The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage. Big move, bigger nonsense."
+  },
+  "sparklingAria": {
+    "name": "Turbo Sparkling Aria",
+    "effect": "The user bursts into song, emitting many bubbles. Any Mogger Mon suffering from a burn will be healed by the touch of these bubbles. Big move, bigger nonsense."
+  },
+  "iceHammer": {
+    "name": "Cold Bonk",
+    "effect": "The user swings and hits with its strong, heavy fist. It lowers the user’s Speed, however. Peak bonk energy."
+  },
+  "floralHealing": {
+    "name": "Big Floral Healing",
+    "effect": "The user restores the target’s HP by up to half of its max HP. It restores more HP when the terrain is grass. Big move, bigger nonsense."
+  },
+  "highHorsepower": {
+    "name": "Big High Horsepower",
+    "effect": "The user fiercely attacks the target using its entire body. Big move, bigger nonsense."
+  },
+  "strengthSap": {
+    "name": "Gym Bro Sap",
+    "effect": "The user restores its HP by the same amount as the target’s Attack stat. It also lowers the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "solarBlade": {
+    "name": "Sun Blade",
+    "effect": "In this two-turn attack, the user gathers light and fills a blade with the light’s energy, attacking the target on the next turn. Big move, bigger nonsense."
+  },
+  "leafage": {
+    "name": "Hyper Leafage",
+    "effect": "The user attacks by pelting the target with leaves. Big move, bigger nonsense."
+  },
+  "spotlight": {
+    "name": "Big Spotlight",
+    "effect": "The user shines a spotlight on the target so that only the target will be attacked during the turn. Big move, bigger nonsense."
+  },
+  "toxicThread": {
+    "name": "Stinky Thread",
+    "effect": "The user shoots poisonous threads to poison the target and lower the target’s Speed stat. Big move, bigger nonsense."
+  },
+  "laserFocus": {
+    "name": "Laser Lock In",
+    "effect": "The user concentrates intensely. The attack on the next turn always results in a critical hit. Big move, bigger nonsense."
+  },
+  "gearUp": {
+    "name": "Big Gear Up",
+    "effect": "The user engages its gears to raise the Attack and Sp. Atk stats of ally Mogger Mon with the Plus or Minus Ability. Big move, bigger nonsense."
+  },
+  "throatChop": {
+    "name": "Turbo Throat Chop",
+    "effect": "The user attacks the target’s throat, and the resultant suffering prevents the target from using moves that emit sound for two turns. Peak bonk energy."
+  },
+  "pollenPuff": {
+    "name": "Mega Pollen Puff",
+    "effect": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead. Big move, bigger nonsense."
+  },
+  "anchorShot": {
+    "name": "Ultra Anchor Shot",
+    "effect": "The user entangles the target with its anchor chain while attacking. The target becomes unable to flee. Big move, bigger nonsense."
+  },
+  "psychicTerrain": {
+    "name": "Brain Terrain",
+    "effect": "This protects Mogger Mon on the ground from priority moves and powers up Psychic-type moves for five turns. Brainrot levels critical."
+  },
+  "lunge": {
+    "name": "Hyper Lunge",
+    "effect": "The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "fireLash": {
+    "name": "Hot Lash",
+    "effect": "The user strikes the target with a burning lash. This also lowers the target’s Defense stat. Absolute grill mode."
+  },
+  "powerTrip": {
+    "name": "Turbo Power Trip",
+    "effect": "The user boasts its strength and attacks the target. The more the user’s stats are raised, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "burnUp": {
+    "name": "Big Burn Up",
+    "effect": "To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type. Absolute grill mode."
+  },
+  "speedSwap": {
+    "name": "Big Speed Swap",
+    "effect": "The user exchanges Speed stats with the target. Big move, bigger nonsense."
+  },
+  "smartStrike": {
+    "name": "Smart Bonk",
+    "effect": "The user stabs the target with a sharp horn. This attack never misses. Peak bonk energy."
+  },
+  "purify": {
+    "name": "Hyper Purify",
+    "effect": "The user heals the target’s status condition. If the move succeeds, it also restores the user’s own HP. Big move, bigger nonsense."
+  },
+  "revelationDance": {
+    "name": "Revelation Jig",
+    "effect": "The user attacks the target by dancing very hard. The user’s type determines the type of this move. Big move, bigger nonsense."
+  },
+  "coreEnforcer": {
+    "name": "Hyper Core Enforcer",
+    "effect": "If the Mogger Mon the user has inflicted damage on have already used their moves, This move eliminates the effect of the target’s Ability. Big move, bigger nonsense."
+  },
+  "tropKick": {
+    "name": "Ultra Trop Kick",
+    "effect": "The user lands an intense kick of tropical origins on the target. This also lowers the target’s Attack stat. Peak bonk energy."
+  },
+  "instruct": {
+    "name": "Big Instruct",
+    "effect": "The user instructs the target to use the target’s last move again. Big move, bigger nonsense."
+  },
+  "beakBlast": {
+    "name": "Beak Boom",
+    "effect": "The user first heats up its beak, and then it attacks the target. Making direct contact with the Mogger Mon while it’s heating up its beak results in a burn. Big move, bigger nonsense."
+  },
+  "clangingScales": {
+    "name": "Giga Clanging Scales",
+    "effect": "The user rubs the scales on its entire body and makes a huge noise to attack the other side. The user’s Defense stat goes down after the attack. Big move, bigger nonsense."
+  },
+  "dragonHammer": {
+    "name": "Dragon Bonk",
+    "effect": "The user uses its body like a hammer to attack the target and deal damage. Peak bonk energy."
+  },
+  "brutalSwing": {
+    "name": "Turbo Brutal Swing",
+    "effect": "The user swings its body around violently to deal damage on everything in its vicinity. Big move, bigger nonsense."
+  },
+  "auroraVeil": {
+    "name": "Giga Aurora Veil",
+    "effect": "This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing. Big move, bigger nonsense."
+  },
+  "sinisterArrowRaid": {
+    "name": "Giga Sinister Arrow Raid",
+    "effect": "The user, Decidueye, creates countless arrows using its Z-Power and shoots the target with full force. Big move, bigger nonsense."
+  },
+  "maliciousMoonsault": {
+    "name": "Turbo Malicious Moonsault",
+    "effect": "The user, Incineroar, strengthens its body using its Z-Power and crashes into the target with full force. Big move, bigger nonsense."
+  },
+  "oceanicOperetta": {
+    "name": "Big Oceanic Operetta",
+    "effect": "The user, Primarina, summons a massive amount of water using its Z-Power and attacks the target with full force. Big move, bigger nonsense."
+  },
+  "guardianOfAlola": {
+    "name": "Mega Guardian Of Alola",
+    "effect": "The user, the Land Spirit Mogger Mon, obtains Alola’s energy using its Z-Power and attacks the target with full force. This reduces the target’s HP greatly. Big move, bigger nonsense."
+  },
+  "soulStealing7StarStrike": {
+    "name": "Soul Stealing7 Star Bonk",
+    "effect": "After obtaining Z-Power, the user, Marshadow, punches and kicks the target consecutively with full force. Peak bonk energy."
+  },
+  "stokedSparksurfer": {
+    "name": "Giga Stoked Sparksurfer",
+    "effect": "After obtaining Z-Power, the user, Alolan Raichu, attacks the target with full force. This move leaves the target with paralysis. Big move, bigger nonsense."
+  },
+  "pulverizingPancake": {
+    "name": "Turbo Pulverizing Pancake",
+    "effect": "Z-Power brings out the true capabilities of the user, Snorlax. The Mogger Mon moves its enormous body energetically and attacks the target with full force. Big move, bigger nonsense."
+  },
+  "extremeEvoboost": {
+    "name": "Max Evoboost",
+    "effect": "After obtaining Z-Power, the user, Eevee, gets energy from its evolved friends and boosts its stats sharply. Big move, bigger nonsense."
+  },
+  "genesisSupernova": {
+    "name": "Ultra Genesis Supernova",
+    "effect": "After obtaining Z-Power, the user, Mew, attacks the target with full force. The terrain will be charged with psychic energy. Big move, bigger nonsense."
+  },
+  "shellTrap": {
+    "name": "Ultra Shell Trap",
+    "effect": "The user sets a shell trap. If the user is hit by a physical move, the trap will explode and deal damage on the other side. Big move, bigger nonsense."
+  },
+  "fleurCannon": {
+    "name": "Fleur Blast",
+    "effect": "The user unleashes a strong beam. The attack’s recoil harshly lowers the user’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "psychicFangs": {
+    "name": "Brain Fangs",
+    "effect": "The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect. Brainrot levels critical."
+  },
+  "stompingTantrum": {
+    "name": "Giga Stomping Tantrum",
+    "effect": "Driven by frustration, the user attacks the target. If the user’s previous move has failed, the power of this move doubles. Big move, bigger nonsense."
+  },
+  "shadowBone": {
+    "name": "Spooky Bone",
+    "effect": "The user attacks by beating the target with a bone that contains a spirit. This can also lower the target’s Defense stat. Haunted behavior detected."
+  },
+  "accelerock": {
+    "name": "Turbo Accelerock",
+    "effect": "The user smashes into the target at high speed. This move always goes first. Big move, bigger nonsense."
+  },
+  "liquidation": {
+    "name": "Mega Liquidation",
+    "effect": "The user slams into the target using a full-force blast of water. This can also lower the target’s Defense stat. Big move, bigger nonsense."
+  },
+  "prismaticLaser": {
+    "name": "Mega Prismatic Laser",
+    "effect": "The user shoots powerful lasers using the power of a prism. The user can’t move on the next turn. Big move, bigger nonsense."
+  },
+  "spectralThief": {
+    "name": "Big Spectral Thief",
+    "effect": "The user hides in the target’s shadow, steals the target’s stat boosts, and then attacks. Big move, bigger nonsense."
+  },
+  "sunsteelStrike": {
+    "name": "Sunsteel Bonk",
+    "effect": "The user slams into the target with the force of a meteor. This move can be used on the target regardless of its Abilities. Peak bonk energy."
+  },
+  "moongeistBeam": {
+    "name": "Moongeist Laser",
+    "effect": "The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Abilities. Big move, bigger nonsense."
+  },
+  "tearfulLook": {
+    "name": "Giga Tearful Look",
+    "effect": "The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats. Big move, bigger nonsense."
+  },
+  "zingZap": {
+    "name": "Mega Zing Zap",
+    "effect": "A strong electric blast crashes down on the target, giving it an electric shock. This can also make the target flinch. Maximum zappage."
+  },
+  "naturesMadness": {
+    "name": "Hyper Natures Madness",
+    "effect": "The user hits the target with the force of nature. It halves the target’s HP. Big move, bigger nonsense."
+  },
+  "multiAttack": {
+    "name": "Multi Bonk",
+    "effect": "Cloaking itself in powerful energy, the user slams into the target to deal damage. This move’s type changes depending on the Memory Disc or Plate the user is holding. Peak bonk energy."
+  },
+  "tenMillionVoltThunderbolt": {
+    "name": "Ultra Ten Million Volt Thunderbolt",
+    "effect": "The user, Pikachu wearing a cap, powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily. Maximum zappage."
+  },
+  "mindBlown": {
+    "name": "Brain Blown",
+    "effect": "The user attacks everything around it by causing its own head to explode. This also damages the user. Brainrot levels critical."
+  },
+  "plasmaFists": {
+    "name": "Ultra Plasma Fists",
+    "effect": "The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves. Big move, bigger nonsense."
+  },
+  "photonGeyser": {
+    "name": "Mega Photon Geyser",
+    "effect": "The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user. Big move, bigger nonsense."
+  },
+  "lightThatBurnsTheSky": {
+    "name": "Shine That Burns The Sky",
+    "effect": "This attack inflicts Attack or Sp. Atk damage—whichever stat is higher for the user, Necrozma. This move ignores the target’s Ability. Big move, bigger nonsense."
+  },
+  "searingSunrazeSmash": {
+    "name": "Ultra Searing Sunraze Smash",
+    "effect": "After obtaining Z-Power, the user, Solgaleo, attacks the target with full force. This move can ignore the effect of the target’s Ability. Peak bonk energy."
+  },
+  "menacingMoonrazeMaelstrom": {
+    "name": "Mega Menacing Moonraze Maelstrom",
+    "effect": "After obtaining Z-Power, the user, Lunala, attacks the target with full force. This move can ignore the effect of the target’s Ability. Big move, bigger nonsense."
+  },
+  "letsSnuggleForever": {
+    "name": "Big Lets Snuggle Forever",
+    "effect": "After obtaining Z-Power, the user, Mimikyu, punches the target with full force. Big move, bigger nonsense."
+  },
+  "splinteredStormshards": {
+    "name": "Turbo Splintered Stormshards",
+    "effect": "After obtaining Z-Power, the user, Lycanroc, attacks the target with full force. This move negates the effect on the battlefield. Big move, bigger nonsense."
+  },
+  "clangorousSoulblaze": {
+    "name": "Loud Soulblaze",
+    "effect": "After obtaining Z-Power, the user, Kommo-o, attacks the the other side with full force. This move boosts the user’s stats. Certified yap damage."
+  },
+  "zippyZap": {
+    "name": "Hyper Zippy Zap",
+    "effect": "The user attacks the target with bursts of electricity at high speed. This move always goes first and results in a critical hit. Maximum zappage."
+  },
+  "splishySplash": {
+    "name": "Splishy Wet Flop",
+    "effect": "The user charges a huge wave with electricity and hits the the other side with the wave. This can also leave the the other side with paralysis. Certified wet behavior."
+  },
+  "floatyFall": {
+    "name": "Big Floaty Fall",
+    "effect": "The user floats in the air, and then dives at a steep angle to attack the target. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "pikaPapow": {
+    "name": "Turbo Pika Papow",
+    "effect": "The more Pikachu loves its Mogmaster, the greater the move’s power. It never misses. Big move, bigger nonsense."
+  },
+  "bouncyBubble": {
+    "name": "Turbo Bouncy Bubble",
+    "effect": "The user attacks by shooting water bubbles at the target. It then absorbs water and restores its HP by the amount of damage taken by the target. Certified wet behavior."
+  },
+  "buzzyBuzz": {
+    "name": "Mega Buzzy Buzz",
+    "effect": "The user shoots a jolt of electricity to attack the target. This also leaves the target with paralysis. Certified yap damage."
+  },
+  "sizzlySlide": {
+    "name": "Turbo Sizzly Slide",
+    "effect": "The user cloaks itself in fire and charges at the target. This also leaves the target with a burn. Big move, bigger nonsense."
+  },
+  "glitzyGlow": {
+    "name": "Giga Glitzy Glow",
+    "effect": "The user bombards the target with telekinetic force. A wondrous wall of light is put up to weaken the power of the the other side’s special moves. Big move, bigger nonsense."
+  },
+  "baddyBad": {
+    "name": "Hyper Baddy Bad",
+    "effect": "The user acts bad and attacks the target. A wondrous wall of light is put up to weaken the power of the the other side’s physical moves. Big move, bigger nonsense."
+  },
+  "sappySeed": {
+    "name": "Big Sappy Seed",
+    "effect": "The user grows a gigantic stalk that scatters seeds to attack the target. The seeds drain the target’s HP every turn. Whole lotta plant nonsense."
+  },
+  "freezyFrost": {
+    "name": "Freezy Cold",
+    "effect": "The user attacks with a crystal made of cold frozen haze. It eliminates every stat change among all the Mogger Mon engaged in battle. Big move, bigger nonsense."
+  },
+  "sparklySwirl": {
+    "name": "Ultra Sparkly Swirl",
+    "effect": "The user attacks the target by wrapping it with a whirlwind of an overpowering scent. This also heals all status conditions of the user’s party. Big move, bigger nonsense."
+  },
+  "veeveeVolley": {
+    "name": "Mega Veevee Volley",
+    "effect": "The more Eevee loves its Mogmaster, the greater the move’s power. It never misses. Big move, bigger nonsense."
+  },
+  "doubleIronBash": {
+    "name": "Double Metal Bonk",
+    "effect": "The user rotates, centering the hex nut in its chest, and then strikes with its arms twice in a row. This can also make the target flinch. Peak bonk energy."
+  },
+  "maxGuard": {
+    "name": "Mega Max Guard",
+    "effect": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Certified nope tech."
+  },
+  "dynamaxCannon": {
+    "name": "Max Blast",
+    "effect": "The user unleashes a strong beam from its core. Deals up to twice the damage if the target is overly leveled. Big move, bigger nonsense."
+  },
+  "snipeShot": {
+    "name": "Hyper Snipe Shot",
+    "effect": "The user ignores the effects of the other side’s moves and Abilities that draw in moves, allowing this move to hit the chosen target. Big move, bigger nonsense."
+  },
+  "jawLock": {
+    "name": "Mega Jaw Lock",
+    "effect": "This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Mogger Mon leaves the field. Big move, bigger nonsense."
+  },
+  "stuffCheeks": {
+    "name": "Ultra Stuff Cheeks",
+    "effect": "The user eats its held Berry, then sharply raises its Defense stat. Big move, bigger nonsense."
+  },
+  "noRetreat": {
+    "name": "Turbo No Retreat",
+    "effect": "This move raises all the user’s stats but prevents the user from switching out or fleeing. Big move, bigger nonsense."
+  },
+  "tarShot": {
+    "name": "Mega Tar Shot",
+    "effect": "The user pours sticky tar over the target, lowering the target’s Speed stat. The target becomes weaker to Fire-type moves. Big move, bigger nonsense."
+  },
+  "magicPowder": {
+    "name": "Magic Dust",
+    "effect": "The user scatters a cloud of magic powder that changes the target to Psychic type. Big move, bigger nonsense."
+  },
+  "dragonDarts": {
+    "name": "Lizard Darts",
+    "effect": "The user attacks twice using Dreepy. If there are two targets, This move hits each target once. Big move, bigger nonsense."
+  },
+  "teatime": {
+    "name": "Ultra Teatime",
+    "effect": "The user has teatime with all the Mogger Mon in the battle. Each Mogger Mon eats its held Berry. Big move, bigger nonsense."
+  },
+  "octolock": {
+    "name": "Big Octolock",
+    "effect": "The user locks the target in and prevents it from fleeing. This move also lowers the target’s Defense and Sp. Def every turn. Big move, bigger nonsense."
+  },
+  "boltBeak": {
+    "name": "Zap Beak",
+    "effect": "The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled. Maximum zappage."
+  },
+  "fishiousRend": {
+    "name": "Hyper Fishious Rend",
+    "effect": "The user rends the target with its hard gills. If the user attacks before the target, the power of this move is doubled. Big move, bigger nonsense."
+  },
+  "courtChange": {
+    "name": "Ultra Court Change",
+    "effect": "With its mysterious power, the user swaps the effects on either side of the field. Big move, bigger nonsense."
+  },
+  "maxFlare": {
+    "name": "Max Flame",
+    "effect": "This is a Fire-type attack Dynamax Mogger Mon use. The user intensifies the sun for five turns. Absolute grill mode."
+  },
+  "maxFlutterby": {
+    "name": "Mega Max Flutterby",
+    "effect": "This is a Bug-type attack Dynamax Mogger Mon use. This lowers the target’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "maxLightning": {
+    "name": "Giga Max Lightning",
+    "effect": "This is an Electric-type attack Dynamax Mogger Mon use. The user turns the ground into Electric Terrain for five turns. Big move, bigger nonsense."
+  },
+  "maxStrike": {
+    "name": "Max Bonk",
+    "effect": "This is a Normal-type attack Dynamax Mogger Mon use. This lowers the target’s Speed stat. Peak bonk energy."
+  },
+  "maxKnuckle": {
+    "name": "Ultra Max Knuckle",
+    "effect": "This is a Fighting-type attack Dynamax Mogger Mon use. This raises ally Mogger Mon’s Attack stats. Big move, bigger nonsense."
+  },
+  "maxPhantasm": {
+    "name": "Big Max Phantasm",
+    "effect": "This is a Ghost-type attack Dynamax Mogger Mon use. This lowers the target’s Defense stat. Big move, bigger nonsense."
+  },
+  "maxHailstorm": {
+    "name": "Ultra Max Hailstorm",
+    "effect": "This is an Ice-type attack Dynamax Mogger Mon use. The user summons a hailstorm lasting five turns. Big move, bigger nonsense."
+  },
+  "maxOoze": {
+    "name": "Hyper Max Ooze",
+    "effect": "This is a Poison-type attack Dynamax Mogger Mon use. This raises ally Mogger Mon’s Sp. Atk stats. Big move, bigger nonsense."
+  },
+  "maxGeyser": {
+    "name": "Mega Max Geyser",
+    "effect": "This is a Water-type attack Dynamax Mogger Mon use. The user summons a heavy rain that falls for five turns. Big move, bigger nonsense."
+  },
+  "maxAirstream": {
+    "name": "Turbo Max Airstream",
+    "effect": "This is a Flying-type attack Dynamax Mogger Mon use. This raises ally Mogger Mon’s Speed stats. Big move, bigger nonsense."
+  },
+  "maxStarfall": {
+    "name": "Ultra Max Starfall",
+    "effect": "This is a Fairy-type attack Dynamax Mogger Mon use. The user turns the ground into Misty Terrain for five turns. Big move, bigger nonsense."
+  },
+  "maxWyrmwind": {
+    "name": "Hyper Max Wyrmwind",
+    "effect": "This is a Dragon-type attack Dynamax Mogger Mon use. This lowers the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "maxMindstorm": {
+    "name": "Ultra Max Mindstorm",
+    "effect": "This is a Psychic-type attack Dynamax Mogger Mon use. The user turns the ground into Psychic Terrain for five turns. Big move, bigger nonsense."
+  },
+  "maxRockfall": {
+    "name": "Turbo Max Rockfall",
+    "effect": "This is a Rock-type attack Dynamax Mogger Mon use. The user summons a sandstorm lasting five turns. Big move, bigger nonsense."
+  },
+  "maxQuake": {
+    "name": "Max Shake",
+    "effect": "This is a Ground-type attack Dynamax Mogger Mon use. This raises ally Mogger Mon’s Sp. Def stats. Big move, bigger nonsense."
+  },
+  "maxDarkness": {
+    "name": "Ultra Max Darkness",
+    "effect": "This is a Dark-type attack Dynamax Mogger Mon use. This lowers the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "maxOvergrowth": {
+    "name": "Mega Max Overgrowth",
+    "effect": "This is a Grass-type attack Dynamax Mogger Mon use. The user turns the ground into Grassy Terrain for five turns. Big move, bigger nonsense."
+  },
+  "maxSteelspike": {
+    "name": "Hyper Max Steelspike",
+    "effect": "This is a Steel-type attack Dynamax Mogger Mon use. This raises ally Mogger Mon’s Defense stats. Big move, bigger nonsense."
+  },
+  "clangorousSoul": {
+    "name": "Loud Soul",
+    "effect": "The user raises all its stats by using some of its HP. Certified yap damage."
+  },
+  "bodyPress": {
+    "name": "Mega Body Press",
+    "effect": "The user attacks by slamming its body into the target. The higher the user’s Defense, the more damage it can inflict on the target. Big move, bigger nonsense."
+  },
+  "decorate": {
+    "name": "Ultra Decorate",
+    "effect": "The user sharply raises the target’s Attack and Sp. Atk stats by decorating the target. Big move, bigger nonsense."
+  },
+  "drumBeating": {
+    "name": "Big Drum Beating",
+    "effect": "The user plays its drum, controlling the drum’s roots to attack the target. This also lowers the target’s Speed stat. Big move, bigger nonsense."
+  },
+  "snapTrap": {
+    "name": "Ultra Snap Trap",
+    "effect": "The user snares the target in a snap trap for four to five turns. Big move, bigger nonsense."
+  },
+  "pyroBall": {
+    "name": "Mega Pyro Ball",
+    "effect": "The user attacks by igniting a small stone and launching it as a fiery ball at the target. This can also leave the target with a burn. Big move, bigger nonsense."
+  },
+  "behemothBlade": {
+    "name": "Big Behemoth Blade",
+    "effect": "The user wields a large, powerful sword using its whole body and cuts the target in a vigorous attack. Big move, bigger nonsense."
+  },
+  "behemothBash": {
+    "name": "Behemoth Bonk",
+    "effect": "The user’s body becomes a firm shield and slams into the target fiercely. Peak bonk energy."
+  },
+  "auraWheel": {
+    "name": "Turbo Aura Wheel",
+    "effect": "The user attacks and raises its Speed with the energy stored in its cheeks. If used by Morpeko, This move’s type changes depending on the user’s form. Big move, bigger nonsense."
+  },
+  "breakingSwipe": {
+    "name": "Ultra Breaking Swipe",
+    "effect": "The user swings its tough tail wildly and attacks the other side. This also lowers their Attack stats. Big move, bigger nonsense."
+  },
+  "branchPoke": {
+    "name": "Ultra Branch Poke",
+    "effect": "The user attacks the target by poking it with a sharply pointed branch. Big move, bigger nonsense."
+  },
+  "overdrive": {
+    "name": "Big Overdrive",
+    "effect": "The user attacks the other side by twanging a guitar or bass guitar, causing a huge echo and strong vibration. Big move, bigger nonsense."
+  },
+  "appleAcid": {
+    "name": "Apple Goop",
+    "effect": "The user attacks the target with an acidic liquid created from tart apples. This also lowers the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "gravApple": {
+    "name": "Big Grav Apple",
+    "effect": "The user inflicts damage by dropping an apple from high above. This also lowers the target’s Defense stat. Big move, bigger nonsense."
+  },
+  "spiritBreak": {
+    "name": "Ghost Break",
+    "effect": "The user attacks the target with so much force that it could break the target’s spirit. This also lowers the target’s Sp. Atk stat. Haunted behavior detected."
+  },
+  "strangeSteam": {
+    "name": "Turbo Strange Steam",
+    "effect": "The user attacks the target by emitting steam. This can also confuse the target. Big move, bigger nonsense."
+  },
+  "lifeDew": {
+    "name": "Turbo Life Dew",
+    "effect": "The user scatters mysterious water around and restores the HP of itself and its ally Mogger Mon in the battle. Big move, bigger nonsense."
+  },
+  "obstruct": {
+    "name": "Big Obstruct",
+    "effect": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Direct contact harshly lowers the attacker’s Defense stat. Big move, bigger nonsense."
+  },
+  "falseSurrender": {
+    "name": "Mega False Surrender",
+    "effect": "The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses. Big move, bigger nonsense."
+  },
+  "meteorAssault": {
+    "name": "Hyper Meteor Assault",
+    "effect": "The user attacks wildly with its thick leek. The user can’t move on the next turn, because the force of this move makes it stagger. Big move, bigger nonsense."
+  },
+  "eternabeam": {
+    "name": "Giga Eternabeam",
+    "effect": "This is Eternatus’s most powerful attack in its original form. The user can’t move on the next turn. Big move, bigger nonsense."
+  },
+  "steelBeam": {
+    "name": "Steel Laser",
+    "effect": "The user fires a beam of steel that it collected from its entire body. This also damages the user. Big move, bigger nonsense."
+  },
+  "expandingForce": {
+    "name": "Mega Expanding Force",
+    "effect": "The user attacks the target with its psychic power. This move’s power goes up and damages all the other side on Psychic Terrain. Big move, bigger nonsense."
+  },
+  "steelRoller": {
+    "name": "Mega Steel Roller",
+    "effect": "The user attacks while destroying the terrain. This move fails when the ground hasn’t turned into a terrain. Big move, bigger nonsense."
+  },
+  "scaleShot": {
+    "name": "Big Scale Shot",
+    "effect": "The user attacks by shooting scales two to five times in a row. This move boosts the user’s Speed stat but lowers its Defense stat. Big move, bigger nonsense."
+  },
+  "meteorBeam": {
+    "name": "Meteor Laser",
+    "effect": "In this two-turn attack, the user gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn. Big move, bigger nonsense."
+  },
+  "shellSideArm": {
+    "name": "Ultra Shell Side Arm",
+    "effect": "This move inflicts physical or special damage, whichever will be more effective. This can also poison the target. Big move, bigger nonsense."
+  },
+  "mistyExplosion": {
+    "name": "Hyper Misty Explosion",
+    "effect": "The user attacks everything around it and faints upon using this move. This move’s power is increased on Misty Terrain. Big move, bigger nonsense."
+  },
+  "grassyGlide": {
+    "name": "Big Grassy Glide",
+    "effect": "Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain. Big move, bigger nonsense."
+  },
+  "risingVoltage": {
+    "name": "Big Rising Voltage",
+    "effect": "The user attacks with electric voltage rising from the ground. This move’s power doubles when the target is on Electric Terrain. Big move, bigger nonsense."
+  },
+  "terrainPulse": {
+    "name": "Turbo Terrain Pulse",
+    "effect": "The user utilizes the power of the terrain to attack. This move’s type and power changes depending on the terrain when it’s used. Big move, bigger nonsense."
+  },
+  "skitterSmack": {
+    "name": "Hyper Skitter Smack",
+    "effect": "The user skitters behind the target to attack. This also lowers the target’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "burningJealousy": {
+    "name": "Burnin Jealousy",
+    "effect": "The user attacks with energy from jealousy. This leaves all the other side that have had their stats boosted during the turn with a burn. Big move, bigger nonsense."
+  },
+  "lashOut": {
+    "name": "Big Lash Out",
+    "effect": "The user lashes out to vent its frustration toward the target. If the user’s stats were lowered during this turn, the power of this move is doubled. Big move, bigger nonsense."
+  },
+  "poltergeist": {
+    "name": "Giga Poltergeist",
+    "effect": "The user attacks the target by controlling the target’s item. The move fails if the target doesn’t have an item. Big move, bigger nonsense."
+  },
+  "corrosiveGas": {
+    "name": "Mega Corrosive Gas",
+    "effect": "The user surrounds everything around it with highly acidic gas and melts away items they hold. Big move, bigger nonsense."
+  },
+  "coaching": {
+    "name": "Big Coaching",
+    "effect": "The user properly coaches its ally Mogger Mon, boosting their Attack and Defense stats. Big move, bigger nonsense."
+  },
+  "flipTurn": {
+    "name": "Giga Flip Turn",
+    "effect": "After making its attack, the user rushes back to switch places with a party Mogger Mon in waiting. Big move, bigger nonsense."
+  },
+  "tripleAxel": {
+    "name": "Giga Triple Axel",
+    "effect": "A consecutive three-kick attack that becomes more powerful with each successful hit. Big move, bigger nonsense."
+  },
+  "dualWingbeat": {
+    "name": "Hyper Dual Wingbeat",
+    "effect": "The user slams the target with its wings. The target is hit twice in a row. Big move, bigger nonsense."
+  },
+  "scorchingSands": {
+    "name": "Mega Scorching Sands",
+    "effect": "The user throws scorching sand at the target to attack. This can also leave the target with a burn. Big move, bigger nonsense."
+  },
+  "jungleHealing": {
+    "name": "Hyper Jungle Healing",
+    "effect": "The user becomes one with the jungle, restoring HP and healing any status conditions of itself and its ally Mogger Mon in battle. Big move, bigger nonsense."
+  },
+  "wickedBlow": {
+    "name": "Hyper Wicked Blow",
+    "effect": "The user, having mastered the Dark style, strikes the target with a fierce blow. This attack always results in a critical hit. Big move, bigger nonsense."
+  },
+  "surgingStrikes": {
+    "name": "Turbo Surging Strikes",
+    "effect": "The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This attack always results in a critical hit. Big move, bigger nonsense."
+  },
+  "thunderCage": {
+    "name": "Zap Cage",
+    "effect": "The user traps the target in a cage of sparking electricity for four to five turns. Maximum zappage."
+  },
+  "dragonEnergy": {
+    "name": "Ultra Dragon Energy",
+    "effect": "Converting its life-force into power, the user attacks the other side. The lower the user’s HP, the lower the move’s power. Big move, bigger nonsense."
+  },
+  "freezingGlare": {
+    "name": "Freezing Stare",
+    "effect": "The user shoots its psychic power from its eyes to attack. This can also leave the target frozen. Big move, bigger nonsense."
+  },
+  "fieryWrath": {
+    "name": "Ultra Fiery Wrath",
+    "effect": "The user transforms its wrath into a fire-like aura to attack. This can also make the other side flinch. Big move, bigger nonsense."
+  },
+  "thunderousKick": {
+    "name": "Ultra Thunderous Kick",
+    "effect": "The user overwhelms the target with lightning-like movement before delivering a kick. This also lowers the target’s Defense stat. Peak bonk energy."
+  },
+  "glacialLance": {
+    "name": "Turbo Glacial Lance",
+    "effect": "The user attacks by hurling a blizzard-cloaked icicle lance at the other side. Big move, bigger nonsense."
+  },
+  "astralBarrage": {
+    "name": "Astral Spam",
+    "effect": "The user attacks by sending a frightful amount of small ghosts at the other side. Big move, bigger nonsense."
+  },
+  "eerieSpell": {
+    "name": "Big Eerie Spell",
+    "effect": "The user attacks with its tremendous psychic power. This also removes 3 PP from the target’s last move. Big move, bigger nonsense."
+  },
+  "direClaw": {
+    "name": "Mega Dire Claw",
+    "effect": "The user lashes out at the target with ruinous claws. This can also leave the target poisoned, paralyzed, or asleep. Peak bonk energy."
+  },
+  "psyshieldBash": {
+    "name": "Psyshield Bonk",
+    "effect": "Cloaking itself in psychic energy, the user slams into the target. This also boosts the user’s Defense stat. Peak bonk energy."
+  },
+  "powerShift": {
+    "name": "Hyper Power Shift",
+    "effect": "The user swaps its Attack and Defense stats. Big move, bigger nonsense."
+  },
+  "stoneAxe": {
+    "name": "Ultra Stone Axe",
+    "effect": "The user swings its stone axes at the target. Stone splinters left behind by this attack float around the target. Big move, bigger nonsense."
+  },
+  "springtideStorm": {
+    "name": "Big Springtide Storm",
+    "effect": "The user attacks by wrapping the other side in fierce winds brimming with love and hate. This can also lower their Attack stats. Big move, bigger nonsense."
+  },
+  "mysticalPower": {
+    "name": "Arcane Power",
+    "effect": "The user attacks by emitting a mysterious power. This also boosts the user’s Sp. Atk stat. Big move, bigger nonsense."
+  },
+  "ragingFury": {
+    "name": "Raging Mad",
+    "effect": "The user rampages around spewing flames for two to three turns. The user then becomes confused. Big move, bigger nonsense."
+  },
+  "waveCrash": {
+    "name": "Big Wave Crash",
+    "effect": "The user shrouds itself in water and slams into the target with its whole body to deal damage. This also damages the user quite a lot. Big move, bigger nonsense."
+  },
+  "chloroblast": {
+    "name": "Ultra Chloroblast",
+    "effect": "The user launches its amassed chlorophyll to deal damage on the target. This also damages the user. Big move, bigger nonsense."
+  },
+  "mountainGale": {
+    "name": "Big Mountain Gale",
+    "effect": "The user hurls giant chunks of ice at the target to deal damage. This can also make the target flinch. Big move, bigger nonsense."
+  },
+  "victoryDance": {
+    "name": "Victory Jig",
+    "effect": "The user performs an intense dance to usher in victory, boosting its Attack, Defense, and Speed stats. Big move, bigger nonsense."
+  },
+  "headlongRush": {
+    "name": "Turbo Headlong Rush",
+    "effect": "The user smashes into the target in a full-body tackle. This also lowers the user’s Defense and Sp. Def stats. Big move, bigger nonsense."
+  },
+  "barbBarrage": {
+    "name": "Barb Spam",
+    "effect": "The user launches countless toxic barbs to deal damage. This can also poison the target. This move’s power is doubled if the target is already poisoned. Big move, bigger nonsense."
+  },
+  "esperWing": {
+    "name": "Turbo Esper Wing",
+    "effect": "The user slashes the target with aura-enriched wings. This also boosts the user’s Speed stat. This move has a heightened chance of landing a critical hit. Big move, bigger nonsense."
+  },
+  "bitterMalice": {
+    "name": "Ultra Bitter Malice",
+    "effect": "The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat. Big move, bigger nonsense."
+  },
+  "shelter": {
+    "name": "Ultra Shelter",
+    "effect": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat. Big move, bigger nonsense."
+  },
+  "tripleArrows": {
+    "name": "Giga Triple Arrows",
+    "effect": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and can also lower the target’s Defense stat or make it flinch. Big move, bigger nonsense."
+  },
+  "infernalParade": {
+    "name": "Giga Infernal Parade",
+    "effect": "The user attacks with myriad fireballs. This can also leave the target with a burn. This move’s power is doubled if the target has a status condition. Big move, bigger nonsense."
+  },
+  "ceaselessEdge": {
+    "name": "Hyper Ceaseless Edge",
+    "effect": "The user slashes its shell blade at the target. Shell splinters left behind by this attack remain scattered under the target as spikes. Big move, bigger nonsense."
+  },
+  "bleakwindStorm": {
+    "name": "Big Bleakwind Storm",
+    "effect": "The user attacks with savagely cold winds that cause both body and spirit to tremble. This can also lower the Speed stats of the other side. Big move, bigger nonsense."
+  },
+  "wildboltStorm": {
+    "name": "Big Wildbolt Storm",
+    "effect": "The user summons a thunderous tempest and savagely attacks with lightning and wind. This can also leave the other side with paralysis. Big move, bigger nonsense."
+  },
+  "sandsearStorm": {
+    "name": "Turbo Sandsear Storm",
+    "effect": "The user attacks by wrapping the other side in fierce winds and searingly hot sand. This can also leave them with a burn. Big move, bigger nonsense."
+  },
+  "lunarBlessing": {
+    "name": "Moon Blessing",
+    "effect": "The user receives a blessing from the crescent moon, restoring HP and curing status conditions for itself and its ally Mogger Mon currently in the battle. Big move, bigger nonsense."
+  },
+  "takeHeart": {
+    "name": "Ultra Take Heart",
+    "effect": "The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats. Big move, bigger nonsense."
+  },
+  "gMaxWildfire": {
+    "name": "Hyper G Max Wildfire",
+    "effect": "A Fire-type attack that Gigantamax Charizard use. This move continues to deal damage to opponents for four turns. Big move, bigger nonsense."
+  },
+  "gMaxBefuddle": {
+    "name": "Giga G Max Befuddle",
+    "effect": "A Bug-type attack that Gigantamax Butterfree use. This move inflicts the poisoned, paralyzed, or asleep status condition on opponents. Big move, bigger nonsense."
+  },
+  "gMaxVoltCrash": {
+    "name": "Ultra G Max Volt Crash",
+    "effect": "An Electric-type attack that Gigantamax Pikachu use. This move paralyzes opponents. Maximum zappage."
+  },
+  "gMaxGoldRush": {
+    "name": "Hyper G Max Gold Rush",
+    "effect": "A Normal-type attack that Gigantamax Meowth use. This move confuses opponents and also earns extra money. Big move, bigger nonsense."
+  },
+  "gMaxChiStrike": {
+    "name": "G Max Chi Bonk",
+    "effect": "A Fighting-type attack that Gigantamax Machamp use. This move raises the chance of critical hits. Peak bonk energy."
+  },
+  "gMaxTerror": {
+    "name": "Ultra G Max Terror",
+    "effect": "A Ghost-type attack that Gigantamax Gengar use. This Mogger Mon steps on the the other side’s shadow to prevent them from escaping. Big move, bigger nonsense."
+  },
+  "gMaxResonance": {
+    "name": "Mega G Max Resonance",
+    "effect": "An Ice-type attack that Gigantamax Lapras use. This move reduces the damage received for five turns. Big move, bigger nonsense."
+  },
+  "gMaxCuddle": {
+    "name": "Turbo G Max Cuddle",
+    "effect": "A Normal-type attack that Gigantamax Eevee use. This move infatuates opponents. Big move, bigger nonsense."
+  },
+  "gMaxReplenish": {
+    "name": "Hyper G Max Replenish",
+    "effect": "A Normal-type attack that Gigantamax Snorlax use. This move restores Berries that have been eaten. Big move, bigger nonsense."
+  },
+  "gMaxMalodor": {
+    "name": "Ultra G Max Malodor",
+    "effect": "A Poison-type attack that Gigantamax Garbodor use. This move poisons opponents. Big move, bigger nonsense."
+  },
+  "gMaxStonesurge": {
+    "name": "Big G Max Stonesurge",
+    "effect": "A Water-type attack that Gigantamax Drednaw use. This move scatters sharp rocks around the field. Big move, bigger nonsense."
+  },
+  "gMaxWindRage": {
+    "name": "G Max Wind Mad",
+    "effect": "A Flying-type attack that Gigantamax Corviknight use. This move removes the effects of moves like Reflect and Light Screen. Big move, bigger nonsense."
+  },
+  "gMaxStunShock": {
+    "name": "G Max Stun Buzz",
+    "effect": "An Electric-type attack that Gigantamax Toxtricity use. This move poisons or paralyzes opponents. Maximum zappage."
+  },
+  "gMaxFinale": {
+    "name": "Giga G Max Finale",
+    "effect": "A Fairy-type attack that Gigantamax Alcremie use. This move heals the HP of allies. Big move, bigger nonsense."
+  },
+  "gMaxDepletion": {
+    "name": "Mega G Max Depletion",
+    "effect": "A Dragon-type attack that Gigantamax Duraludon use. Reduces the PP of the last move used. Big move, bigger nonsense."
+  },
+  "gMaxGravitas": {
+    "name": "Big G Max Gravitas",
+    "effect": "A Psychic-type attack that Gigantamax Orbeetle use. This move changes gravity for five turns. Big move, bigger nonsense."
+  },
+  "gMaxVolcalith": {
+    "name": "Mega G Max Volcalith",
+    "effect": "A Rock-type attack that Gigantamax Coalossal use. This move continues to deal damage to opponents for four turns. Big move, bigger nonsense."
+  },
+  "gMaxSandblast": {
+    "name": "Mega G Max Sandblast",
+    "effect": "A Ground-type attack that Gigantamax Sandaconda use. Opponents are trapped in a raging sandstorm for four to five turns. Big move, bigger nonsense."
+  },
+  "gMaxSnooze": {
+    "name": "Ultra G Max Snooze",
+    "effect": "A Dark-type attack that Gigantamax Grimmsnarl use. The user lets loose a huge yawn that lulls the targets into falling asleep on the next turn. Big move, bigger nonsense."
+  },
+  "gMaxTartness": {
+    "name": "Hyper G Max Tartness",
+    "effect": "A Grass-type attack that Gigantamax Flapple use. This move reduces the opponents’ evasiveness. Big move, bigger nonsense."
+  },
+  "gMaxSweetness": {
+    "name": "Big G Max Sweetness",
+    "effect": "A Grass-type attack that Gigantamax Appletun use. This move heals the status conditions of allies. Big move, bigger nonsense."
+  },
+  "gMaxSmite": {
+    "name": "Hyper G Max Smite",
+    "effect": "A Fairy-type attack that Gigantamax Hatterene use. This move confuses opponents. Big move, bigger nonsense."
+  },
+  "gMaxSteelsurge": {
+    "name": "Big G Max Steelsurge",
+    "effect": "A Steel-type attack that Gigantamax Copperajah use. This move scatters sharp spikes around the field. Big move, bigger nonsense."
+  },
+  "gMaxMeltdown": {
+    "name": "Mega G Max Meltdown",
+    "effect": "A Steel-type attack that Gigantamax Melmetal use. This move makes opponents incapable of using the same move twice in a row. Big move, bigger nonsense."
+  },
+  "gMaxFoamBurst": {
+    "name": "G Max Foam Boom",
+    "effect": "A Water-type attack that Gigantamax Kingler use. This move harshly lowers the Speed of opponents. Big move, bigger nonsense."
+  },
+  "gMaxCentiferno": {
+    "name": "Big G Max Centiferno",
+    "effect": "A Fire-type attack that Gigantamax Centiskorch use. This move traps opponents in flames for four to five turns. Big move, bigger nonsense."
+  },
+  "gMaxVineLash": {
+    "name": "G Max Plant Lash",
+    "effect": "A Grass-type attack that Gigantamax Venusaur use. This move continues to deal damage to opponents for four turns. Whole lotta plant nonsense."
+  },
+  "gMaxCannonade": {
+    "name": "Giga G Max Cannonade",
+    "effect": "A Water-type attack that Gigantamax Blastoise use. This move continues to deal damage to opponents for four turns. Big move, bigger nonsense."
+  },
+  "gMaxDrumSolo": {
+    "name": "Turbo G Max Drum Solo",
+    "effect": "A Grass-type attack that Gigantamax Rillaboom use. This move can be used on the target regardless of its Abilities. Big move, bigger nonsense."
+  },
+  "gMaxFireball": {
+    "name": "Big G Max Fireball",
+    "effect": "A Fire-type attack that Gigantamax Cinderace use. This move can be used on the target regardless of its Abilities. Big move, bigger nonsense."
+  },
+  "gMaxHydrosnipe": {
+    "name": "Turbo G Max Hydrosnipe",
+    "effect": "A Water-type attack that Gigantamax Inteleon use. This move can be used on the target regardless of its Abilities. Big move, bigger nonsense."
+  },
+  "gMaxOneBlow": {
+    "name": "Ultra G Max One Blow",
+    "effect": "A Dark-type attack that Gigantamax Urshifu use. This single-strike move can ignore Max Guard. Big move, bigger nonsense."
+  },
+  "gMaxRapidFlow": {
+    "name": "G Max Zoom Flow",
+    "effect": "A Water-type attack that Gigantamax Urshifu use. This rapid-strike move can ignore Max Guard. Maximum zoom."
+  },
+  "teraBlast": {
+    "name": "Tera Boom",
+    "effect": "If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat-whichever is higher for the user. Big move, bigger nonsense."
+  },
+  "silkTrap": {
+    "name": "Giga Silk Trap",
+    "effect": "The user spins a silken trap, protecting itself from damage while lowering the Speed stat of any attacker that makes direct contact. Big move, bigger nonsense."
+  },
+  "axeKick": {
+    "name": "Big Axe Kick",
+    "effect": "The user attacks by kicking up into the air and slamming its heel down upon the target. This can also confuse the target. If it misses, the user takes damage instead. Peak bonk energy."
+  },
+  "lastRespects": {
+    "name": "Hyper Last Respects",
+    "effect": "The user attacks to avenge its allies. The more defeated allies there are in the user’s party, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "luminaCrash": {
+    "name": "Shine Crash",
+    "effect": "The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target’s Sp. Def stat. Big move, bigger nonsense."
+  },
+  "orderUp": {
+    "name": "Mega Order Up",
+    "effect": "The user attacks with elegant poise. If the user has a Tatsugiri in its mouth, This move boosts one of the user’s stats based on the Tatsugiri’s form. Big move, bigger nonsense."
+  },
+  "jetPunch": {
+    "name": "Zoom Bonk",
+    "effect": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first. Peak bonk energy."
+  },
+  "spicyExtract": {
+    "name": "Mega Spicy Extract",
+    "effect": "The user emits an incredibly spicy extract, sharply boosting the target’s Attack stat and harshly lowering the target’s Defense stat. Big move, bigger nonsense."
+  },
+  "spinOut": {
+    "name": "Turbo Spin Out",
+    "effect": "The user spins furiously by straining its legs, inflicting damage on the target. This also harshly lowers the user’s Speed stat. Big move, bigger nonsense."
+  },
+  "populationBomb": {
+    "name": "Crowd Kaboom",
+    "effect": "The user’s fellows gather in droves to perform a combo attack that hits the target one to ten times in a row. Big move, bigger nonsense."
+  },
+  "iceSpinner": {
+    "name": "Cold Spinner",
+    "effect": "The user covers its feet in thin ice and twirls around, slamming into the target. This move’s spinning motion also destroys the terrain. Big move, bigger nonsense."
+  },
+  "glaiveRush": {
+    "name": "Turbo Glaive Rush",
+    "effect": "The user throws its entire body into a reckless charge. After this move is used, attacks on the user cannot miss and will inflict double damage until the user’s next turn. Big move, bigger nonsense."
+  },
+  "revivalBlessing": {
+    "name": "Giga Revival Blessing",
+    "effect": "The user bestows a loving blessing, reviving a party Mogger Mon that has fainted and restoring half that Mogger Mon’s max HP. Big move, bigger nonsense."
+  },
+  "saltCure": {
+    "name": "Seasoning",
+    "effect": "The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move. Big move, bigger nonsense."
+  },
+  "tripleDive": {
+    "name": "Turbo Triple Dive",
+    "effect": "The user performs a perfectly timed triple dive, hitting the target with splashes of water three times in a row. Big move, bigger nonsense."
+  },
+  "mortalSpin": {
+    "name": "Hyper Mortal Spin",
+    "effect": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also poisons the other side. Big move, bigger nonsense."
+  },
+  "doodle": {
+    "name": "Ultra Doodle",
+    "effect": "The user captures the very essence of the target in a sketch. This changes the Abilities of the user and its ally Mogger Mon to that of the target. Big move, bigger nonsense."
+  },
+  "filletAway": {
+    "name": "Giga Fillet Away",
+    "effect": "The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP. Big move, bigger nonsense."
+  },
+  "kowtowCleave": {
+    "name": "Mega Kowtow Cleave",
+    "effect": "The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses. Big move, bigger nonsense."
+  },
+  "flowerTrick": {
+    "name": "Petal Troll",
+    "effect": "The user throws a rigged bouquet of flowers at the target. This attack never misses and always lands a critical hit. Brainrot levels critical."
+  },
+  "torchSong": {
+    "name": "Fire Mixtape",
+    "effect": "The user blows out raging flames as if singing a song, scorching the target. This also boosts the user’s Sp. Atk stat. Absolute grill mode."
+  },
+  "aquaStep": {
+    "name": "Wet Footwork",
+    "effect": "The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user’s Speed stat. Certified wet behavior."
+  },
+  "ragingBull": {
+    "name": "Mega Raging Bull",
+    "effect": "The user performs a tackle like a raging bull. This move’s type depends on the user’s form. It can also break barriers, such as Light Screen and Reflect. Big move, bigger nonsense."
+  },
+  "makeItRain": {
+    "name": "Money Rain",
+    "effect": "The user attacks by throwing out a mass of coins. This also lowers the user’s Sp. Atk stat. Money is earned after the battle. Wallet tech is online."
+  },
+  "psyblade": {
+    "name": "Giga Psyblade",
+    "effect": "The user rends the target with an ethereal blade. This move’s power is boosted by 50 percent if the user is on Electric Terrain. Big move, bigger nonsense."
+  },
+  "hydroSteam": {
+    "name": "Wet Steam",
+    "effect": "The user blasts the target with boiling-hot water. This move’s power is not lowered in harsh sunlight but rather boosted by 50 percent. Certified wet behavior."
+  },
+  "ruination": {
+    "name": "Ultra Ruination",
+    "effect": "The user summons a ruinous disaster. This cuts the target’s HP in half. Big move, bigger nonsense."
+  },
+  "collisionCourse": {
+    "name": "Crash Out",
+    "effect": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move’s power is boosted more than usual if it’s a supereffective hit. Big move, bigger nonsense."
+  },
+  "electroDrift": {
+    "name": "Zap Slide",
+    "effect": "The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move’s power is boosted more than usual if it’s a supereffective hit. Maximum zappage."
+  },
+  "shedTail": {
+    "name": "Giga Shed Tail",
+    "effect": "The user creates a substitute for itself using its own HP before switching places with a party Mogger Mon in waiting. Big move, bigger nonsense."
+  },
+  "chillyReception": {
+    "name": "Giga Chilly Reception",
+    "effect": "The user tells a chillingly bad joke before switching places with a party Mogger Mon in waiting. This summons a snowstorm lasting five turns. Big move, bigger nonsense."
+  },
+  "tidyUp": {
+    "name": "Mega Tidy Up",
+    "effect": "The user tidies up and removes the effects of Spikes, Stealth Rock, Sticky Web, Toxic Spikes, and Substitute. This also boosts the user’s Attack and Speed stats. Big move, bigger nonsense."
+  },
+  "snowscape": {
+    "name": "Hyper Snowscape",
+    "effect": "The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types. Big move, bigger nonsense."
+  },
+  "pounce": {
+    "name": "Giga Pounce",
+    "effect": "The user attacks by pouncing on the target. This also lowers the target’s Speed stat. Big move, bigger nonsense."
+  },
+  "trailblaze": {
+    "name": "Giga Trailblaze",
+    "effect": "The user attacks suddenly as if leaping out from tall grass. The user’s nimble footwork boosts its Speed stat. Big move, bigger nonsense."
+  },
+  "chillingWater": {
+    "name": "Chilling Wet",
+    "effect": "The user attacks the target by showering it with water that’s so cold it saps the target’s power. This also lowers the target’s Attack stat. Certified wet behavior."
+  },
+  "hyperDrill": {
+    "name": "Giga Drill",
+    "effect": "The user spins the pointed part of its body at high speed to pierce the target. This attack can hit a target using a move such as Protect or Detect. Peak bonk energy."
+  },
+  "twinBeam": {
+    "name": "Twin Laser",
+    "effect": "The user shoots mystical beams from its eyes to deal damage. The target is hit twice in a row. Big move, bigger nonsense."
+  },
+  "rageFist": {
+    "name": "Mad Mitt",
+    "effect": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move’s power. Peak bonk energy."
+  },
+  "armorCannon": {
+    "name": "Tank Blast",
+    "effect": "The user shoots its own armor out as blazing projectiles. This also lowers the user’s Defense and Sp. Def stats. Big move, bigger nonsense."
+  },
+  "bitterBlade": {
+    "name": "Giga Bitter Blade",
+    "effect": "The user focuses its bitter feelings toward the world of the living into a slashing attack. The user’s HP is restored by up to half the damage taken by the target. Big move, bigger nonsense."
+  },
+  "doubleShock": {
+    "name": "Double Buzz",
+    "effect": "The user discharges all the electricity from its body to perform a high-damage attack. After using this move, the user will no longer be Electric type. Maximum zappage."
+  },
+  "gigatonHammer": {
+    "name": "Big Bonk",
+    "effect": "The user swings its whole body around to attack with its huge hammer. This move can’t be used twice in a row. Peak bonk energy."
+  },
+  "comeuppance": {
+    "name": "Big Comeuppance",
+    "effect": "The user retaliates with much greater force against the opponent that last inflicted damage on it. Big move, bigger nonsense."
+  },
+  "aquaCutter": {
+    "name": "Wet Cutter",
+    "effect": "The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit. Certified wet behavior."
+  },
+  "blazingTorque": {
+    "name": "Ultra Blazing Torque",
+    "effect": "The user revs their blazing engine into the target. This can also leave the target with a burn. Big move, bigger nonsense."
+  },
+  "wickedTorque": {
+    "name": "Hyper Wicked Torque",
+    "effect": "The user revs their engine into the target with malicious intent. This may put the target to sleep. Big move, bigger nonsense."
+  },
+  "noxiousTorque": {
+    "name": "Hyper Noxious Torque",
+    "effect": "The user revs their poisonous engine into the target. This can also poison the target. Big move, bigger nonsense."
+  },
+  "combatTorque": {
+    "name": "Hands Torque",
+    "effect": "The user revs their engine forcefully into the target. This can also leave the target with paralysis. Big move, bigger nonsense."
+  },
+  "magicalTorque": {
+    "name": "Sparkle Torque",
+    "effect": "The user revs their fae-like engine into the target. This can also confuse the target. Big move, bigger nonsense."
+  },
+  "bloodMoon": {
+    "name": "Ultra Blood Moon",
+    "effect": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can’t be used twice in a row. Big move, bigger nonsense."
+  },
+  "matchaGotcha": {
+    "name": "Tea Trap",
+    "effect": "The user fires a blast of tea that it mixed. The user’s HP is restored by up to half the damage taken by the target. This can also leave the target with a burn. Big move, bigger nonsense."
+  },
+  "syrupBomb": {
+    "name": "Syrup Kaboom",
+    "effect": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target’s Speed stat to drop each turn for three turns. Big move, bigger nonsense."
+  },
+  "ivyCudgel": {
+    "name": "Giga Ivy Cudgel",
+    "effect": "The user strikes with an ivy-wrapped cudgel. This move’s type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit. Big move, bigger nonsense."
+  },
+  "electroShot": {
+    "name": "Zap Shot",
+    "effect": "The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain. Maximum zappage."
+  },
+  "teraStarstorm": {
+    "name": "Ultra Tera Starstorm",
+    "effect": "With the power of its crystals, the user bombards and eliminates the target. When used by Terapagos in its Stellar Form, This move damages all the other side. Big move, bigger nonsense."
+  },
+  "fickleBeam": {
+    "name": "Fickle Laser",
+    "effect": "The user shoots a beam of light to deal damage. Sometimes all the user’s heads shoot beams in unison, doubling the move’s power. Big move, bigger nonsense."
+  },
+  "burningBulwark": {
+    "name": "Burnin Bulwark",
+    "effect": "The user’s intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it. Big move, bigger nonsense."
+  },
+  "thunderclap": {
+    "name": "Giga Thunderclap",
+    "effect": "This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack. Big move, bigger nonsense."
+  },
+  "mightyCleave": {
+    "name": "Big Mighty Cleave",
+    "effect": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself. Big move, bigger nonsense."
+  },
+  "tachyonCutter": {
+    "name": "Mega Tachyon Cutter",
+    "effect": "The user attacks by launching particle blades at the target twice in a row. This attack never misses. Big move, bigger nonsense."
+  },
+  "hardPress": {
+    "name": "Turbo Hard Press",
+    "effect": "The target is crushed with an arm, a claw, or the like to deal damage. The more HP the target has left, the greater the move’s power. Big move, bigger nonsense."
+  },
+  "dragonCheer": {
+    "name": "Giga Dragon Cheer",
+    "effect": "The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more. Big move, bigger nonsense."
+  },
+  "alluringVoice": {
+    "name": "Rizz Yap",
+    "effect": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn. Certified yap damage."
+  },
+  "temperFlare": {
+    "name": "Temper Flame",
+    "effect": "Spurred by desperation, the user attacks the target. This move’s power is doubled if the user’s previous move failed. Absolute grill mode."
+  },
+  "supercellSlam": {
+    "name": "Supercell Bonk",
+    "effect": "The user electrifies its body and drops onto the target to deal damage. If this move misses, the user takes damage instead. Peak bonk energy."
+  },
+  "psychicNoise": {
+    "name": "Brain Noise",
+    "effect": "The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items. Brainrot levels critical."
+  },
+  "upperHand": {
+    "name": "Ultra Upper Hand",
+    "effect": "The user reacts to the target’s movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move. Big move, bigger nonsense."
+  },
+  "malignantChain": {
+    "name": "Turbo Malignant Chain",
+    "effect": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This can also leave the target badly poisoned. Big move, bigger nonsense."
+  },
+  "nihilLight": {
+    "name": "Nihil Shine",
+    "effect": "The user attacks by unleashing a powerful light that defies all laws of nature, striking even Fairy types and ignoring any stat changes affecting its targets. Big move, bigger nonsense."
+  }
+}

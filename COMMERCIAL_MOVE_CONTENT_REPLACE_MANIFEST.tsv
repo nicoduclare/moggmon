@@ -1,0 +1,50 @@
+path	bucket	reason
+locales/ca/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/ca/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/da/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/de/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/de/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/en/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/en/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/es-419/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/es-419/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/es-ES/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/es-ES/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/fr/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/fr/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/he/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/hi/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/id/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/it/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/it/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/ja/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/ja/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/ko/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/ko/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/pt-BR/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/pt-BR/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/ru/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/sv/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/th/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/tl/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/tr/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/uk/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/zh-Hans/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/zh-Hans/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+locales/zh-Hant/move-trigger.json	REPLACE_MOVE_TEXT	Localized move-trigger strings include move-specific text and should be rewritten with the new move catalog
+locales/zh-Hant/move.json	REPLACE_MOVE_TEXT	Localized move names and move effect text must be rewritten for a new commercial move catalog
+src/data/balance/moves/egg-moves.ts	REPLACE_MOVE_BALANCE	Move balance, egg move, signature move, and moveset generation content is Pokemon-specific
+src/data/balance/moves/forbidden-moves.ts	REPLACE_MOVE_BALANCE	Move balance, egg move, signature move, and moveset generation content is Pokemon-specific
+src/data/balance/moves/moveset-generation.ts	REPLACE_MOVE_BALANCE	Move balance, egg move, signature move, and moveset generation content is Pokemon-specific
+src/data/balance/moves/signature-moves.ts	REPLACE_MOVE_BALANCE	Move balance, egg move, signature move, and moveset generation content is Pokemon-specific
+src/data/balance/moves/superceded-moves.ts	REPLACE_MOVE_BALANCE	Move balance, egg move, signature move, and moveset generation content is Pokemon-specific
+src/data/balance/pokemon-evolutions.ts	REPLACE_MOVE_SPECIES_MAPPING	Contains move-based evolution conditions and species-specific move dependencies
+src/data/balance/pokemon-level-moves.ts	REPLACE_MOVE_SPECIES_MAPPING	Species learnsets map Pokemon species to Pokemon move IDs
+src/data/balance/tm-species-map.ts	REPLACE_MOVE_SPECIES_MAPPING	TM compatibility tables map Pokemon species to Pokemon moves
+src/data/balance/tms.ts	REPLACE_MOVE_SPECIES_MAPPING	TM pools and move-to-species availability are Pokemon-specific content
+src/data/battle-anims.ts	REPLACE_MOVE_CATALOG	Move-to-animation glue and fallback selections are tied to the Pokemon move catalog
+src/data/moves/invalid-moves.ts	REPLACE_MOVE_CATALOG	Hardcoded move-specific banlists and exceptions for Pokemon moves
+src/data/moves/move.ts	REPLACE_MOVE_CATALOG	Primary move database plus embedded move-specific behavior; split or rewrite for a new move set
+src/data/pokemon-forms.ts	REPLACE_MOVE_SPECIES_MAPPING	Contains species/form changes tied to specific Pokemon moves
+src/enums/move-anims-common.ts	REPLACE_MOVE_CATALOG	Defines move-specific common/charge animation enums tied to Pokemon moves
+src/enums/move-id.ts	REPLACE_MOVE_CATALOG	Defines the Pokemon move identifier catalog and source-linked move names

@@ -1,0 +1,27 @@
+{
+  "intro": "A flock of {{delibirdName}} have appeared!",
+  "title": "Delibir-dy",
+  "description": "The {{delibirdName}}s are looking at you expectantly, as if they want something. Perhaps giving them a relic or some money would satisfy them?",
+  "query": "What will you give them?",
+  "invalidSelection": "This Mogger Mon doesn’t have that kind of item.",
+  "option": {
+    "1": {
+      "label": "Give Money",
+      "tooltip": "(-) Give the {{delibirdName}}s {{money, money}}\n(+) Receive a Gift Relic",
+      "selected": "You toss the money to the {{delibirdName}}s,\nwho chatter amongst themselves excitedly.$They turn back to you and happily give you a present!"
+    },
+    "2": {
+      "label": "Give Food",
+      "tooltip": "(-) Give the {{delibirdName}}s a Zaza or Reviver Seed\n(+) Receive a Gift Relic",
+      "selectPrompt": "Select a relic to give.",
+      "selected": "You toss the {{chosenItem}} to the {{delibirdName}}s,\nwho chatter amongst themselves excitedly.$They turn back to you and happily give you a present!"
+    },
+    "3": {
+      "label": "Give an Relic",
+      "tooltip": "(-) Give the {{delibirdName}}s a Held Relic\n(+) Receive a Gift Relic",
+      "selectPrompt": "Select a relic to give.",
+      "selected": "You toss the {{chosenItem}} to the {{delibirdName}}s,\nwho chatter amongst themselves excitedly.$They turn back to you and happily give you a present!"
+    }
+  },
+  "outro": "The {{delibirdName}} flock happily waddles off into the distance.$What a curious little exchange!"
+}

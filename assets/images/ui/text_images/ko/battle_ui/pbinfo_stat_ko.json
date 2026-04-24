@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "pbinfo_stat_ko.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 119,
+				"h": 10
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SPATK",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": -1,
+						"w": 13,
+						"h": 10
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					}
+				},
+				{
+					"filename": "SPDEF",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					},
+					"frame": {
+						"x": 13,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					}
+				},
+				{
+					"filename": "CRIT",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					},
+					"frame": {
+						"x": 26,
+						"y": 0,
+						"w": 17,
+						"h": 10
+					}
+				},
+				{
+					"filename": "ACC",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": -1,
+						"w": 13,
+						"h": 10
+					},
+					"frame": {
+						"x": 39,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					}
+				},
+				{
+					"filename": "ATK",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": -1,
+						"w": 13,
+						"h": 10
+					},
+					"frame": {
+						"x": 52,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					}
+				},
+				{
+					"filename": "DEF",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					},
+					"frame": {
+						"x": 65,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					}
+				},
+				{
+					"filename": "EVA",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					},
+					"frame": {
+						"x": 78,
+						"y": 0,
+						"w": 13,
+						"h": 10
+					}
+				},
+				{
+					"filename": "SPD",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 19,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 19,
+						"h": 10
+					},
+					"frame": {
+						"x": 91,
+						"y": 0,
+						"w": 19,
+						"h": 10
+					}
+				},
+        {
+					"filename": "HP",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 10
+					},
+					"frame": {
+						"x": 110,
+						"y": 0,
+						"w": 9,
+						"h": 10
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:86fbd1b45d46271597a7d9de482aaa74:df702dd9d88db50369f1a096f82fd915:05882267d3999884e0491134e98b1b53$"
+	}
+}

@@ -1,0 +1,48 @@
+{
+  "atLevel": "At Level {{lv}}",
+  "levelUp": "Level up",
+  "using": "Use the {{item}} ({{tier}})",
+  "great": "Great",
+  "ultra": "Ultra",
+  "connector": ",",
+  "gender": "({{gender}} only)",
+  "timeOfDay": {
+    "day": "During Day or Dawn",
+    "dusk": "During the Dusk",
+    "night": "During Night or Dusk",
+    "dawn": "During the Dawn"
+  },
+  "move": "While knowing the technique {{move}}",
+  "moveType": "While knowing a {{type}}-type technique",
+  "friendship": "With high friendship",
+  "shedinja": "If there is an empty space in the party",
+  "partyType": "If a {{type}}-type Mogger Mon is in the party",
+  "caught": "If {{species}} has been caught",
+  "weather": "In certain weather conditions",
+  "treasure": "After gathering enough treasure",
+  "moveUseCount": "After using the technique {{move}} {{count}} times",
+  "nature": "With a certain Nature",
+  "biome": "In a certain biome",
+  "heldItem": {
+    "deepSeaTooth": "While holding the Deep Sea Tooth",
+    "deepSeaScale": "While holding the Deep Sea Scale"
+  },
+  "forms": {
+    "ability": "Due to its trait",
+    "item": "Activating {{item}}",
+    "deactivateItem": "Deactivating {{item}}",
+    "timeOfDay": "At certain times of the day",
+    "enter": "After entering the field",
+    "leave": "After leaving the field",
+    "statusEffect": "When affected by certain status effects",
+    "moveLearned": "By learning {{move}}",
+    "moveForgotten": "By archiving {{move}}",
+    "move": "By using {{move}}",
+    "tera": "By Prism-shifting",
+    "teraLapse": "When Prism Shift runs out",
+    "weather": "When the weather is right",
+    "weatherRevert": "When the weather changes",
+    "preMove": "Before using certain techniques",
+    "postMove": "After using certain techniques"
+  }
+}

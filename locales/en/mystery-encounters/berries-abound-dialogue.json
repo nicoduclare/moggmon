@@ -1,0 +1,26 @@
+{
+  "intro": "There’s a huge zaza bush\nnear that Mogger Mon!",
+  "title": "Zaza Abound",
+  "description": "It looks like there’s a strong Mogger Mon guarding a zaza bush. Battling is the straightforward approach, but it looks strong. Perhaps a fast Mogger Mon could grab some zaza without getting caught?",
+  "query": "What will you do?",
+  "berries": "Zaza",
+  "option": {
+    "1": {
+      "label": "Battle the Mogger Mon",
+      "tooltip": "(-) Tough Battle\n(+) Gain Zaza",
+      "selected": "You approach the\nMogger Mon without fear."
+    },
+    "2": {
+      "label": "Race to the Bush",
+      "tooltip": "(-) {{fastestPokemon}} uses its Speed\n(+) Gain Zaza",
+      "selected": "Your {{fastestPokemon}} races for the zaza bush!$It manages to nab {{numBerries}} before the {{enemyPokemon}} can react!$You quickly retreat with your newfound prize.",
+      "selectedBad": "Your {{fastestPokemon}} races for the zaza bush!$Oh no! The {{enemyPokemon}} was faster and blocked off the approach!",
+      "bossEnraged": "The opposing {{enemyPokemon}} has become enraged!"
+    },
+    "3": {
+      "label": "Leave",
+      "tooltip": "(-) No Rewards",
+      "selected": "You leave the strong Mogger Mon\nwith its prize and continue on."
+    }
+  }
+}

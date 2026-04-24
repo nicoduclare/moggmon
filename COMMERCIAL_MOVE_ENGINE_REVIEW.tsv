@@ -1,0 +1,182 @@
+path	bucket	reason
+locales/ca/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ca/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ca/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/da/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/da/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/de/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/de/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/de/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/de/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/de/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/de/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/de/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/en/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/en/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/en/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/en/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/en/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/en/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/en/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-419/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-419/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-419/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-419/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-419/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-419/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-ES/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-ES/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-ES/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-ES/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-ES/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-ES/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/es-ES/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/fr/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/fr/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/fr/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/fr/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/fr/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/fr/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/fr/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/hi/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/id/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/id/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/it/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/it/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/it/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/it/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/it/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/it/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/it/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ja/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ja/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ja/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ja/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ja/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ja/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ja/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ko/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ko/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ko/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ko/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ko/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ko/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ko/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/pt-BR/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/pt-BR/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/pt-BR/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/pt-BR/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/pt-BR/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/pt-BR/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/pt-BR/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ru/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ru/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ru/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ru/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ru/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/ru/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/sv/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/sv/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/sv/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/sv/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/sv/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/sv/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/th/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/th/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/th/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/th/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/tl/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/tr/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/tr/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/uk/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/uk/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/uk/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/uk/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/uk/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/uk/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/uk/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hans/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hans/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hans/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hans/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hans/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hans/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hans/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hant/ability-trigger.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hant/arena-tag.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hant/battle.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hant/battler-tags.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hant/egg.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hant/modifier-type.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+locales/zh-Hant/status-effect.json	REVIEW_MOVE_COPY	Non-move locale files with move-related references should be checked after move/catalog rewrite
+src/@types/attack-move-result.ts	REVIEW_MOVE_ENGINE	Type definitions are probably reusable but should be checked after catalog changes
+src/@types/move-target-set.ts	REVIEW_MOVE_ENGINE	Type definitions are probably reusable but should be checked after catalog changes
+src/@types/move-types.ts	REVIEW_MOVE_ENGINE	Type definitions are probably reusable but should be checked after catalog changes
+src/@types/pokemon-level-moves.ts	REVIEW_MOVE_ENGINE	Type definitions are probably reusable but should be checked after catalog changes
+src/@types/turn-move.ts	REVIEW_MOVE_ENGINE	Type definitions are probably reusable but should be checked after catalog changes
+src/ai/ai-moveset-gen.ts	REVIEW_MOVE_ENGINE	AI moveset generation logic depends on the move catalog and needs retuning
+src/animations.ts	REVIEW_MOVE_ENGINE	Animation layer imports battle animation types and should be checked after animation catalog changes
+src/battle-scene.ts	REVIEW_MOVE_COUPLED_RULES	Core scene references move defaults, move catalog, and animation loading
+src/data/abilities/ab-attrs.ts	REVIEW_MOVE_COUPLED_RULES	Abilities often interact with move flags or specific move behavior and need audit
+src/data/abilities/ability.ts	REVIEW_MOVE_COUPLED_RULES	Abilities often interact with move flags or specific move behavior and need audit
+src/data/abilities/init-abilities.ts	REVIEW_MOVE_COUPLED_RULES	Abilities often interact with move flags or specific move behavior and need audit
+src/data/arena-tag.ts	REVIEW_MOVE_COUPLED_RULES	Arena effects file contains many hardcoded move-triggered rules that need audit/remap
+src/data/battler-tags.ts	REVIEW_MOVE_COUPLED_RULES	Battler effects file contains many hardcoded move-triggered rules that need audit/remap
+src/data/daily-seed/daily-run.ts	REVIEW_MOVE_COUPLED_RULES	Daily seed generation includes move selection and starter movesets
+src/data/daily-seed/daily-seed-utils.ts	REVIEW_MOVE_COUPLED_RULES	Daily seed generation includes move selection and starter movesets
+src/data/data-lists.ts	REVIEW_MOVE_ENGINE	Registry container is reusable but depends on the replaced move catalog
+src/data/moves/apply-attrs.ts	REVIEW_MOVE_ENGINE	Generic move-attribute application logic can likely stay but needs remapping review
+src/data/moves/move-condition.ts	REVIEW_MOVE_ENGINE	Generic move-condition engine with catalog references; audit against the new move set
+src/data/moves/move-utils.ts	REVIEW_MOVE_ENGINE	Generic targeting and move utility logic can likely stay but needs catalog review
+src/data/moves/pokemon-move.ts	REVIEW_MOVE_ENGINE	Move instance wrapper is reusable engine code but depends on the move catalog
+src/data/mystery-encounters/encounters/absolute-avarice-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/bug-type-superfan-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/clowning-around-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/dancing-lessons-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/fiery-fallout-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/lost-at-sea-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/mysterious-chest-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/slumbering-snorlax-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/the-expert-pokemon-breeder-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/the-strong-stuff-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/the-winstrate-challenge-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/trash-to-treasure-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/uncommon-breed-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/encounters/weird-dream-encounter.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/requirements/can-learn-move-requirement.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/requirements/requirement-groups.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/mystery-encounters/utils/encounter-phase-utils.ts	REVIEW_MOVE_COUPLED_RULES	Encounter logic may reference move learning, move names, or move-specific rewards
+src/data/pokemon-forms/form-change-triggers.ts	REVIEW_MOVE_COUPLED_RULES	Generic trigger classes can stay, but move-name localization and move hooks need review
+src/data/pokemon-species.ts	REVIEW_MOVE_COUPLED_RULES	Species data depends on learnsets and move references
+src/data/positional-tags/positional-tag.ts	REVIEW_MOVE_COUPLED_RULES	Positional tag logic stores move-origin information and should be reviewed
+src/enums/learn-move-situation.ts	REVIEW_MOVE_ENGINE	Learn-move enums are reusable scaffolding but tied to move flow
+src/enums/learn-move-type.ts	REVIEW_MOVE_ENGINE	Learn-move enums are reusable scaffolding but tied to move flow
+src/enums/move-category.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/enums/move-effect-trigger.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/enums/move-flags.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/enums/move-phase-timing-modifier.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/enums/move-priority-in-bracket.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/enums/move-result.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/enums/move-source-type.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/enums/move-target.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/enums/move-use-mode.ts	REVIEW_MOVE_ENGINE	Move-system enums are mostly engine scaffolding; audit them after catalog replacement
+src/field/arena.ts	REVIEW_MOVE_COUPLED_RULES	Battlefield and Pokemon runtime logic are move-aware and need review
+src/field/pokemon.ts	REVIEW_MOVE_COUPLED_RULES	Battlefield and Pokemon runtime logic are move-aware and need review
+src/modifier/init-modifier-pools.ts	REVIEW_MOVE_COUPLED_RULES	Modifier systems may encode move rewards, TMs, or move-driven effects
+src/modifier/modifier-type.ts	REVIEW_MOVE_COUPLED_RULES	Modifier systems may encode move rewards, TMs, or move-driven effects
+src/modifier/modifier.ts	REVIEW_MOVE_COUPLED_RULES	Modifier systems may encode move rewards, TMs, or move-driven effects
+src/phases/learn-move-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/phases/load-move-anim-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/phases/move-anim-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/phases/move-charge-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/phases/move-effect-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/phases/move-end-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/phases/move-header-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/phases/move-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/phases/move-reflect-phase.ts	REVIEW_MOVE_ENGINE	Battle phases for move execution are engine code but should be regression-tested with the new catalog
+src/queues/move-phase-priority-queue.ts	REVIEW_MOVE_ENGINE	Move queue logic is reusable engine code but depends on move execution flow
+src/system/version-migration/versions/v1_10_0.ts	REVIEW_MOVE_COUPLED_RULES	Persistence and migrations can depend on move IDs and move data layout
+src/system/version-migration/versions/v1_9_0.ts	REVIEW_MOVE_COUPLED_RULES	Persistence and migrations can depend on move IDs and move data layout
+src/ui/containers/move-info-overlay.ts	REVIEW_MOVE_ENGINE	Move UI code should be reviewed after move catalog and text replacement
+src/ui/settings/move-touch-controls-handler.ts	REVIEW_MOVE_ENGINE	Move UI code should be reviewed after move catalog and text replacement
+src/utils/challenge-utils.ts	REVIEW_MOVE_COUPLED_RULES	Challenge logic may constrain or inspect move usage

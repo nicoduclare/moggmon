@@ -1,0 +1,26 @@
+{
+  "intro": "You encounter a blistering storm of smoke and ash!",
+  "title": "Fiery Fallout",
+  "description": "The whirling ash and embers have cut visibility to nearly zero. It seems like there might be some… source that is causing these conditions. But what could be behind a phenomenon of this magnitude?",
+  "query": "What will you do?",
+  "option": {
+    "1": {
+      "label": "Find the Source",
+      "tooltip": "(?) Discover the source\n(-) Tough Battle\n(+) Gain a Held Relic",
+      "selected": "You push through the storm, and find two {{volcaronaName}}s in the middle of a mating dance!$They don’t take kindly to the interruption and attack!"
+    },
+    "2": {
+      "label": "Hunker Down",
+      "tooltip": "(-) Suffer the effects of the weather\n(?) Affects One Mogger Mon’s Trait",
+      "selected": "The weather effects cause significant\nharm as you struggle to find shelter!$Your party takes 20% Max HP damage!",
+      "targetBurned": "Your {{burnedPokemon}} also became burned!$However, enduring the harsh conditions changed {{burnedPokemon}}’s trait to {{abilityName}}!"
+    },
+    "3": {
+      "label": "Your Fire Resistant Mogger Mon Help",
+      "tooltip": "(+) End the conditions\n(+) Gain a Held Relic",
+      "disabledTooltip": "You need a Fire Type Mogger Mon or certain Mogger Mon trait to choose this.",
+      "selected": "Your {{option3PrimaryName}} guides you to where two {{volcaronaName}}s are in the middle of a mating dance!$Thankfully, your Mogger Mon are able to calm them,\nand they depart without issue."
+    }
+  },
+  "foundItem": "After the weather clears,\nyour {{leadPokemon}} spots something on the ground.$@s{item_fanfare}{{leadPokemon}} gained {{itemName}}!"
+}

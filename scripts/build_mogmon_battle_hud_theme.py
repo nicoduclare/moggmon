@@ -712,6 +712,53 @@ def draw_gear_icon(draw: ImageDraw.ImageDraw, frame: tuple[int, int, int, int], 
     draw.line((x1 + 7, y1 + 9, x2 - 8, y2 - 8), fill=rgba(RELIC_INNER))
 
 
+def draw_revive_icon(draw: ImageDraw.ImageDraw, frame: tuple[int, int, int, int], *, maxed: bool) -> None:
+  x1, y1, x2, y2 = frame
+  cx = (x1 + x2) // 2
+  cy = (y1 + y2) // 2
+  accent = TYPE_ACCENTS["gold"] if maxed else TYPE_ACCENTS["grass"]
+  pts = [(cx, y1 + 1), (x2 - 2, cy), (cx, y2 - 2), (x1 + 2, cy)]
+  draw.polygon([(px + 1, py + 1) for px, py in pts], fill=rgba(RELIC_SHADOW, 160))
+  draw.polygon(pts, fill=rgba(accent.dark), outline=rgba(RELIC_SHADOW))
+  inner = [(cx, y1 + 3), (x2 - 4, cy), (cx, y2 - 4), (x1 + 4, cy)]
+  draw.polygon(inner, fill=rgba(accent.mid), outline=rgba(accent.light))
+  if maxed:
+    star = [
+      (cx, y1 + 5),
+      (cx + 2, cy - 2),
+      (x2 - 5, cy),
+      (cx + 2, cy + 2),
+      (cx, y2 - 6),
+      (cx - 2, cy + 2),
+      (x1 + 5, cy),
+      (cx - 2, cy - 2),
+    ]
+    draw.polygon(star, fill=rgba(add_rgb(accent.light, 18)), outline=rgba(accent.dark))
+  else:
+    draw.line((cx, y1 + 5, cx, y2 - 6), fill=rgba(RELIC_INNER))
+    draw.line((x1 + 5, cy, x2 - 5, cy), fill=rgba(RELIC_INNER))
+
+
+def draw_elixir_icon(draw: ImageDraw.ImageDraw, frame: tuple[int, int, int, int], *, maxed: bool) -> None:
+  x1, y1, x2, y2 = frame
+  accent = TYPE_ACCENTS["electric"] if maxed else TYPE_ACCENTS["psychic"]
+  draw_shadow(draw, x1 + 2, y1 + 4, x2 - 1, y2 - 2, radius=4)
+  neck_left = x1 + max(3, (x2 - x1) // 3)
+  neck_right = x2 - max(3, (x2 - x1) // 3)
+  draw.rectangle((neck_left, y1 + 1, neck_right, y1 + 5), fill=rgba(RELIC_METAL), outline=rgba(RELIC_SHADOW))
+  draw.rounded_rectangle((x1 + 2, y1 + 5, x2 - 2, y2 - 3), radius=4, fill=rgba(accent.dark), outline=rgba(RELIC_SHADOW))
+  draw.rounded_rectangle((x1 + 4, y1 + 8, x2 - 4, y2 - 5), radius=3, fill=rgba(accent.mid), outline=rgba(accent.light))
+  fill_y = y1 + (12 if maxed else 14)
+  draw.rectangle((x1 + 5, fill_y, x2 - 5, y2 - 6), fill=rgba(add_rgb(accent.light, -8)))
+  draw.line((x1 + 5, fill_y, x2 - 5, fill_y), fill=rgba(RELIC_INNER))
+  if maxed:
+    cx = (x1 + x2) // 2
+    bolt = [(cx + 1, y1 + 9), (cx - 3, y1 + 17), (cx + 1, y1 + 16), (cx - 1, y2 - 7), (cx + 5, y1 + 14), (cx + 1, y1 + 15)]
+    draw.polygon(bolt, fill=rgba((255, 248, 154)), outline=rgba(TYPE_ACCENTS["electric"].dark))
+  else:
+    draw.ellipse((x1 + 6, y1 + 10, x2 - 6, y1 + 14), fill=rgba(RELIC_INNER), outline=rgba(accent.dark))
+
+
 def draw_capture_icon(draw: ImageDraw.ImageDraw, frame: tuple[int, int, int, int], accent: AccentPalette, variant: int) -> None:
   x1, y1, x2, y2 = frame
   draw_shadow(draw, x1 + 5, y1 + 3, x2 - 5, y2 - 2, radius=6)
@@ -730,12 +777,20 @@ def draw_capture_icon(draw: ImageDraw.ImageDraw, frame: tuple[int, int, int, int
 def render_item_frame(name: str, width: int, height: int) -> Image.Image:
   image = Image.new("RGBA", (width, height), (0, 0, 0, 0))
   draw = ImageDraw.Draw(image)
+  frame = (1, 1, width - 1, height - 1)
+
+  if name in ("revive", "max_revive"):
+    draw_revive_icon(draw, frame, maxed=name == "max_revive")
+    return image
+  if name in ("elixir", "max_elixir"):
+    draw_elixir_icon(draw, frame, maxed=name == "max_elixir")
+    return image
+
   category = infer_item_category(name)
   if min(width, height) < 24:
     category = "token"
   accent = infer_item_palette(name, category)
   variant = name_hash(name) % 7
-  frame = (1, 1, width - 1, height - 1)
   if category == "snack":
     draw_snack_icon(draw, frame, accent, variant)
   elif category == "brew":

@@ -842,7 +842,6 @@ export class GameData {
     if (isLocalProfileMode() || localStorage.getItem(getSaveDataLocalStorageKey(slotId))) {
       const sessionData = localStorage.getItem(getSaveDataLocalStorageKey(slotId));
       if (!sessionData) {
-        console.error("No session data found!");
         return;
       }
       return this.parseSessionData(decrypt(sessionData, bypassLogin));

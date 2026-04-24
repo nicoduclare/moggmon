@@ -1,7 +1,0 @@
-{
-  "paidMoney": "คุณจ่าย ₽{{amount, number}}",
-  "receiveMoney": "คุณได้รับ ₽{{amount, number}}!",
-  "affectsPokedex": "มีผลกับข้อมูลโปเกเด็กซ์",
-  "cancelOption": "กลับสู่ตัวเลือกการเผชิญหน้า",
-  "viewPartyButton": "ดูปาร์ตี้"
-}

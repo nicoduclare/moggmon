@@ -1,0 +1,207 @@
+card	sourceDex	name	evolvesFromCard	stageLabel	note
+001	1	Patapim Sprout		base	
+002	2	Patapim Grove	001	mid	
+003	3	Patapim Ancient	002	final	
+004	4	Tung		base	
+005	5	Tung Tung	004	mid	
+006	6	Tung Tung Tung Sahur	005	final	
+007	7	Trelalero		base	
+008	8	Trelalero Marini	007	mid	
+009	9	Trelalero Cannone	008	final	
+010	10	Spidi Bluebe		base	
+011	11	Spidi Bluebe Plus	010	mid	
+012	12	Spidi Bluebe Boss	011	final	
+013	13	Spidi Boo		base	
+014	14	Spidi Boo Plus	013	mid	
+015	15	Spidi Boo Ultra	014	final	
+016	16	Voli Bunny		base	
+017	17	Voli Bunny Prime	016	mid	
+018	18	Voli Bunny Ultra	017	final	
+019	19	Pipi Camelo		base	
+020	20	Pipi Camelo Max	019	final	
+021	21	Voli Camelo		base	
+022	22	Voli Camelo Plus	021	final	
+023	23	Ombra Boo		base	
+024	24	Ombra Boo Prime	023	final	
+025	25	Zapuccino	172	mid	
+026	26	Grandzapuccino	025	final	
+027	27	Pipi Bau		base	
+028	28	Pipi Bau Max	027	final	
+029	29	Bici Boo		base	
+030	30	Bici Boo Prime	029	mid	
+031	31	Bici Boo Omega	030	final	
+032	32	Assa Skull		base	
+033	33	Assa Skull Prime	032	mid	
+034	34	Assa Skull Omega	033	final	
+035	35	Cosmi Taco Max	173	mid	
+036	36	Cosmi Taco Boss	035	final	
+037	37	Bau Bomba		base	
+038	38	Bau Bomba Prime	037	final	
+039	39	Tralala Pepper Plus	174	mid	
+040	40	Tralala Pepper Ultra	039	final	
+041	41	Boo Ombra		base	
+042	42	Boo Ombra Plus	041	mid	
+043	43	Corni Avoca		base	
+044	44	Corni Avoca Max	043	mid	
+045	45	Corni Avoca Boo	044	final	
+046	46	Cappu Chimpa		base	
+047	47	Ballerina Cappuccina		solo	
+048	48	Spidi Bluebe Bici		base	
+049	49	Spidi Bluebe Boo	048	final	
+050	50	Pipi Bau Bici		base	
+051	51	Pipi Bau Prime	050	final	
+052	52	Gatti Bunny		base	
+053	53	Gatti Bunny Prime	052	final	
+054	54	Brainrot Ducko		base	
+055	55	Voli Camelo Max	054	final	
+056	56	Bunny Bici		base	
+057	57	Bunny Bici Max	056	final	
+058	58	Bau Croco		base	
+059	59	Bau Croco Max	058	final	
+060	60	Dolphi Aquana		base	
+061	61	Dolphi Aquana Plus	060	mid	
+062	62	Dolphi Aquana Band	061	final	
+063	63	Telemo Telepi		base	
+064	64	Telemo Telepi Plus	063	mid	
+065	65	Telemo Telepi Ultra	064	final	
+066	66	Band Boss		base	
+067	67	Band Boss Max	066	mid	
+068	68	Band Boss Luna	067	final	
+069	69	Corni Bambu		base	
+070	70	Corni Bambu Max	069	mid	
+071	71	Corni Bambu Boss	070	final	
+072	72	Octo Dolphi		base	
+073	73	Octo Dolphi Plus	072	final	
+074	74	Hydra Pipi		base	
+075	75	Hydra Pipi Prime	074	mid	
+076	76	Hydra Pipi Omega	075	final	
+077	77	Bau Rizz		base	
+078	78	Bau Rizz Max	077	final	
+079	79	Fishi Telemo		base	
+080	80	Fishi Telemo Telepi	079	final	
+081	81	Techi Brr		base	
+082	82	Techi Brr Prime	081	final	
+083	83	Voli Tralala		solo	
+084	84	Voli Tralala Brr		base	
+085	85	Voli Tralala Max	084	final	
+086	86	Octo Moby		base	
+087	87	Octo Moby Max	086	final	
+088	88	Skull Boo		base	
+089	89	Skull Boo Plus	088	final	
+090	90	Aquana Moby		base	
+091	91	Aquana Moby Max	090	final	
+092	92	Skull Boo Luna		base	
+093	93	Skull Boo Prime	092	mid	
+094	94	Spookeroni	093	final	
+095	95	Vicios Bau		solo	
+096	96	Telepi Braini		base	
+097	97	Telepi Braini Plus	096	final	
+098	98	Camelo Aquana		base	
+099	99	Camelo Aquana Max	098	final	
+100	100	Patapim Brr		base	
+101	101	Patapim Brr Plus	100	final	
+102	102	Corni Telemo		base	
+103	103	Corni Telemo Telepi	102	final	
+104	104	Panda Goat		base	
+105	105	Panda Goat Bear	104	final	
+106	106	Bombombini Gusini	163	branch-final	
+107	107	Band Bici Boss		solo	
+108	108	Tung Tralala		solo	
+109	109	Boo Ombra Luna		base	
+110	110	Boo Ombra Skull	109	final	
+111	111	Panda Drago		base	
+112	112	Panda Drago Plus		final	
+113	113	Tung Pipi Prime		solo	
+114	114	Avoca Cacto		solo	
+115	115	Tralala Camelo		solo	
+116	116	Sahur Frigo		base	
+117	117	Sahur Frigo Max	116	final	
+118	118	Octo Fishi		base	
+119	119	Octo Fishi Plus	118	final	
+120	120	Cosmi Aquana		base	
+121	121	Cosmi Aquana Prime	120	final	
+122	122	Braini Boba Cappu		solo	
+123	123	Spidi Octo		solo	
+124	124	Frigo Telemo Prime		solo	
+125	125	Patapim Bici Plus		solo	
+126	126	Bomba Sahur Prime		solo	
+127	127	Panda Octo		solo	
+128	128	Goat Camelo		solo	
+129	129	Floppaccino		base	
+130	130	Gyaradoni	129	final	
+131	131	Lapragnia		solo	
+132	132	Pipi Tung		solo	
+133	133	Footera		base	
+134	134	Water Footera	133	branch-final	
+135	135	Electric Footera	133	branch-final	
+136	136	Fire Footera	133	branch-final	
+137	137	Techi Camelo		solo	
+138	138	Sahur Aquana		base	
+139	139	Sahur Aquana Max	138	final	
+140	140	Octo Drago		base	
+141	141	Octo Drago Prime		final	
+142	142	Croco Techi		solo	
+143	143	Snorrelaxo		solo	
+144	144	Frigo Cosmi		solo	
+145	145	Brr Pegasi		solo	
+146	146	Rizz Bomba		solo	
+147	147	Sahur Drago		base	
+148	148	Sahur Drago Plus		mid	
+149	149	Sahur Drago Boss		final	
+150	150	Mewtwissimo		solo	
+151	151	Mozzarellmew		solo	
+152	152	Chicoritooni		base	
+153	153	Arachnid Family	152	mid	
+154	154	Arcadopus	153	final	
+155	155	Cyndaqwilli		base	
+156	156	Astrolero Cervalero	155	mid	
+157	157	Avocadini Antilopini	156	final	
+158	158	Totodilli		base	
+159	159	Avocadorilla	158	mid	
+160	160	Bambu Bambu Sahur	159	final	
+161	161	Bandito Axolito		base	
+162	162	Bandito Bobritto	161	final	
+163	163	Bombardino Piccolino		base	
+164	164	Bombardiro Crocodilo	163	branch-final	
+165	165	Brr es Teh Patipum		base	
+166	166	Brri Brri Bicus Dicus Bombicus	165	final	
+167	167	Buho de Fuego		base	
+168	168	Buho de Noelo	167	final	
+169	169	Bunny Tralala	042	final	
+170	170	Capi Taco		solo	
+171	171	Cappuccino Assassino	177	mid	
+172	172	Cappuccino Clownino		base	
+173	173	Chicleteira Bicicleteira		base	
+174	174	Chicleteirina Bicicleteirina		base	
+175	175	Chimpanzini Spiderini		base	
+176	176	Chocco Bunny	175	final	
+177	177	Cocoa Assassino		base	
+178	178	Coffin Tung Tung Tung Sahur		solo	
+179	179	Dolphini Jetskini		base	
+180	180	Dragon Cannelloni		mid	
+181	181	Dragon Gingerini		final	
+182	182	Fishboard	044	branch-final	
+183	183	Fishino Clownino		base	
+184	184	Granchiello Spiritell	183	final	
+185	185	Ice Dragon		final	
+186	186	La Taco Combinasion	061	branch-final	
+187	187	Lavadorito Spinito		base	
+188	188	Mastodontico Telepiedone	187	mid	
+189	189	Meowl	188	final	
+190	190	Pipi Kiwi		base	
+191	191	Quesadilla Crocodila		base	
+192	192	Svinina Bombardino	191	final	
+193	193	Te Te Sahur		base	
+194	194	Ti Ti Ti Sahur		base	
+195	195	Tralalita Tralala	194	final	
+196	196	Urubini Flamenguini		solo	
+197	197	Gangster Footera	133	branch-final	
+198	237	Bombardino Hippopito	163	branch-final	
+199	424	Pipi Kiwi Maximo	190	final	
+200	438	Gelato Pebblino		base	
+201	469	Te Te Te Sahur	193	final	
+202	470	Grass Footera	133	branch-final	
+203	475	Ballerino Lololo		solo	
+204	478	Frappocino Assassino	171	branch-final	
+205	512	Matchaino Assassino	171	branch-final	
+206	571	Espressona Signora		solo	

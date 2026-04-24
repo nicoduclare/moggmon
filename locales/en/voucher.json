@@ -1,9 +1,0 @@
-{
-  "vouchers": "Vouchers",
-  "eggVoucher": "Pod Voucher",
-  "eggVoucherPlus": "Pod Voucher Plus",
-  "eggVoucherPremium": "Pod Voucher Premium",
-  "eggVoucherGold": "Pod Voucher Gold",
-  "locked": "Locked",
-  "defeatTrainer": "Defeat {{trainerName}}"
-}

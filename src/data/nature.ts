@@ -27,7 +27,7 @@ export function getNatureName(
         decreasedStat = stat;
       }
     }
-    const textStyle = forStarterSelect ? TextStyle.SUMMARY_ALT : TextStyle.WINDOW;
+    const textStyle = forStarterSelect ? TextStyle.SUMMARY : TextStyle.WINDOW;
     const getTextFrag = ignoreBBCode
       ? (text: string, _style: TextStyle) => text
       : (text: string, style: TextStyle) => getBBCodeFrag(text, style);

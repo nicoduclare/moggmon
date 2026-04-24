@@ -1,8 +1,0 @@
-{
-  "pp": "КВ",
-  "power": "Сила",
-  "accuracy": "Точність",
-  "abilityFlyInText": " {{pokemonName}}а\n{{passive}}{{abilityName}}",
-  "passive": "Пасив ",
-  "teraHover": "Тера-тип {{type}}"
-}

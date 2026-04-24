@@ -1,0 +1,1451 @@
+{
+  "species": [
+    {
+      "dex": 1,
+      "original": "Bulbasaur",
+      "mogmon": "Patapim Sprout",
+      "formula": "Brr Brr Patapim + Bulb-backed seed beast",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Patapim Sprout: a small squat seed-beast fused with Brr Brr Patapim, the long-nosed forest proboscis monkey with shaggy grey hair and dark green leafy robe-like covering. Keep Bulbasaur's four-legged body and bulb-backed silhouette dominant. The face should have a short version of Patapim's elongated nose, tiny dark eyes, and a little shaggy grey hair fringe. The back bulb should become a wrapped bundle of swamp leaves and moss, not a flower. Body colors should be mossy green with darker green spots. It should look cute, strange, and swamp-druid-like. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background.",
+      "frontPrompt": "From the front and side-facing frames, keep the squat Bulbasaur body dominant. The Patapim nose should stay short and readable, the grey hair should be a small fringe, and the leafy back bundle must stay inside the original bulb footprint.",
+      "backPrompt": "From behind, the round seed-beast body must stay wider than the leaf bundle. Keep the back plant mass low and compact like Bulbasaur's bulb. Do not turn it into a tall cloak or full humanoid monkey shape."
+    },
+    {
+      "dex": 2,
+      "original": "Ivysaur",
+      "mogmon": "Patapim Grove",
+      "formula": "Brr Brr Patapim + Mid-stage swamp beast",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Patapim Grove: a medium heavy swamp-beast based on Ivysaur but fused with Brr Brr Patapim. Keep Ivysaur's broad shoulders, thick legs, and heavy quadruped shape. The head should now show a clearer elongated proboscis-monkey nose, longer hanging grey hair, and a more ancient expression. The back plant mass should become a thicker layered mantle of dark green leaves, moss, and swamp growth instead of a flower bud. Body is olive green with mossy spots and wet swamp texture. It should look older, stranger, and more druidic than the base form while still reading as Ivysaur first. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background.",
+      "frontPrompt": "Keep the Ivysaur body dominant and grounded. The Patapim face should be more pronounced than Bulbasaur's version, but it must still sit on Ivysaur's exact head mass. The leaf mantle should stay tucked inside the original plant silhouette.",
+      "backPrompt": "From behind, keep the open back growth wide and layered like Ivysaur's original plant mass. Show the hindquarters and back legs clearly. Do not let the leaf mantle become a full cloak or separate humanoid figure."
+    },
+    {
+      "dex": 3,
+      "original": "Venusaur",
+      "mogmon": "Patapim Ancient",
+      "formula": "Brr Brr Patapim + Massive swamp colossus",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Patapim Ancient: a massive swamp colossus based on Venusaur and fused with Brr Brr Patapim. Keep Venusaur's huge low-slung four-legged silhouette and overall weight. The head should carry the full long proboscis nose, hanging grey hair, and old forest-sage expression. The back flower becomes an enormous layered dark green leaf mantle and moss-covered plant mass, like a living robe swallowing most of the back. Body is deep olive green with swampy moss stains. It should feel ancient, prophetic, and heavy, not humanoid. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 4,
+      "original": "Charmander",
+      "mogmon": "Tung",
+      "formula": "First-stage Tung + Salamander",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tung: the first baby stage of Tung Tung Tung Sahur, a small orange-brown salamander fused with the smiling wooden bat-man meme. Keep Charmander's compact lizard body dominant. The face should have the simple smiling expression and thin brows of the wooden figure. One arm or tail area should carry only the first hint of a small baseball-bat-like wooden growth. Skin and body textures should feel like warm wood mixed with lizard scales, with ember-orange highlights. It should read as a baby wooden striker lizard, not a humanoid person or the full final meme form. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 5,
+      "original": "Charmeleon",
+      "mogmon": "Tung Tung",
+      "formula": "Tung Tung + one-club-arm aggressive lizard",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tung Tung: the middle stage between Tung and Tung Tung Tung Sahur, a medium red-brown lizard fused with the wooden bat-man. Keep Charmeleon's aggressive posture, longer limbs, and exact head-body proportions. The smiling wooden face should become sharper and cockier, with thin brows and clearer wood-grain textures. One arm or tail should now read more clearly like a baseball bat or heavy wooden club. It should look like a tougher adolescent version of the same wooden striker creature while still reading as Charmeleon first, and it should not feel like the full final sahur form yet. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 6,
+      "original": "Charizard",
+      "mogmon": "Tung Tung Tung Sahur",
+      "formula": "Tung Tung Tung Sahur + final wooden sahur striker",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tung Tung Tung Sahur: the final fully realized stage of the Tung family, kept faithful to the original wooden sahur-patroller meme rather than turning into a dragon. Keep the simple cylindrical timber body, giant round eyes, smiling face with thin brows, skinny humanlike arms and legs, bare feet, and heavy bat-like sahur club dominant. Preserve Charizard's role only as the final-stage power scaffold, not as dragon anatomy. Do not add wings, horns, scales, tail-flames, reptile snouts, or beast features. It should look like the full final boss wooden striker version of the family, not an earlier middle evolution and not a fire dragon. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 7,
+      "original": "Squirtle",
+      "mogmon": "Trelalero",
+      "formula": "Tralalero Tralala + Turtle",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Trelalero: a small blue turtle fused with the famous blank-faced shark in blue sneakers. Keep Squirtle's shell and baby turtle body dominant. The head should become a compact blue shark face with a vacant expression and tiny sharp teeth. One or more limbs should read like elongated fin-legs wearing blue sneakers. The shell must stay round and centered. It should feel like a goofy dancing sneaker shark trapped inside a turtle battler. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background.",
+      "backPrompt": "From behind, keep the wide round turtle shell and shoulder width of the original Squirtle silhouette. The shark elements should stay compact and the sneakered limbs should only peek out under the body. Do not collapse any rear-view pose into a thin vertical strip or narrow torso."
+    },
+    {
+      "dex": 8,
+      "original": "Wartortle",
+      "mogmon": "Trelalero Marini",
+      "formula": "Tralalero Tralala + Mid-stage turtle",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Trelalero Marini: a medium blue turtle-shark hybrid with the blank shark face, more elongated fin-legs, and clearer blue sneaker feet. Keep Wartortle's body proportions, shell, and overall silhouette. The creature should look more confident and mature than the base form, with stronger shell mass and more obvious shark identity, but it must still read as Wartortle first. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 9,
+      "original": "Blastoise",
+      "mogmon": "Trelalero Cannone",
+      "formula": "Tralalero Tralala + Cannon turtle",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Trelalero Cannone: a massive armored turtle fused with the blank-faced blue shark in sneakers. Keep Blastoise's broad shell, cannon placement, and heavy body dominant. The head should be a larger blue shark face with the same vacant stare and toothy mouth. The limbs should read as sturdy fin-legs with blue sneakers. It should feel absurd, overbuilt, and iconic, but still clearly be Blastoise first. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 10,
+      "original": "Caterpie",
+      "mogmon": "Spidi Bluebe",
+      "formula": "Blueberrinni Octopusini + base Caterpie",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Bluebe: A tiny Blueberrinni seed with a round blueberry head, bright eyes, and only two or three soft tentacle nubs. Keep Caterpie's dominant silhouette, body plan, and evolution-stage readability. It should still read as Caterpie first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 11,
+      "original": "Metapod",
+      "mogmon": "Spidi Bluebe Plus",
+      "formula": "Blueberrinni Octopusini + mid Metapod",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Bluebe Plus: A sealed Blueberrinni cocoon with the fuller berry cap and all the tentacles tucked tight against a rigid shell. Keep Metapod's dominant silhouette, body plan, and evolution-stage readability. It should still read as Metapod first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 12,
+      "original": "Butterfree",
+      "mogmon": "Spidi Bluebe Boss",
+      "formula": "Blueberrinni Octopusini + final Butterfree",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Bluebe Boss: A complete Blueberrinni with the blueberry crown, wide grin, and long tentacles spread out like regal wing-streamers. Keep Butterfree's dominant silhouette, body plan, and evolution-stage readability. It should still read as Butterfree first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 13,
+      "original": "Weedle",
+      "mogmon": "Spidi Boo",
+      "formula": "La Casa Boo + base Weedle",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Boo: A larval La Casa Boo with just the little haunted-house core, one staring eye, tiny fangs, and stilt-thin claw legs. Keep Weedle's dominant silhouette, body plan, and evolution-stage readability. It should still read as Weedle first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 14,
+      "original": "Kakuna",
+      "mogmon": "Spidi Boo Plus",
+      "formula": "La Casa Boo + mid Kakuna",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Boo Plus: A rigid cocoon-house with the eye, roofline, and mouth sealed into a tighter haunted shell and almost no free limbs. Keep Kakuna's dominant silhouette, body plan, and evolution-stage readability. It should still read as Kakuna first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 15,
+      "original": "Beedrill",
+      "mogmon": "Spidi Boo Ultra",
+      "formula": "La Casa Boo + final Beedrill",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Boo Ultra: A full La Casa Boo predator with the whole house body, sharp grin, tongue, and fast stabbing claw-limbs. Keep Beedrill's dominant silhouette, body plan, and evolution-stage readability. It should still read as Beedrill first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 16,
+      "original": "Pidgey",
+      "mogmon": "Voli Bunny",
+      "formula": "Boppin Bunny + base Pidgey",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Bunny: A tiny Boppin Bunny chick with little ears, round glasses, a small bow, and a soft bird-light body. Keep Pidgey's dominant silhouette, body plan, and evolution-stage readability. It should still read as Pidgey first while clearly belonging to the Boppin Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 17,
+      "original": "Pidgeotto",
+      "mogmon": "Voli Bunny Prime",
+      "formula": "Boppin Bunny + mid Pidgeotto",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Bunny Prime: A leaner Boppin Bunny flier with longer ears, clearer glasses and bow, and a more confident runway-bird frame. Keep Pidgeotto's dominant silhouette, body plan, and evolution-stage readability. It should still read as Pidgeotto first while clearly belonging to the Boppin Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 18,
+      "original": "Pidgeot",
+      "mogmon": "Voli Bunny Ultra",
+      "formula": "Boppin Bunny + final Pidgeot",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Bunny Ultra: A full glam Boppin Bunny with the bow, glasses, long ears, and a broad high-energy winged silhouette. Keep Pidgeot's dominant silhouette, body plan, and evolution-stage readability. It should still read as Pidgeot first while clearly belonging to the Boppin Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 19,
+      "original": "Rattata",
+      "mogmon": "Pipi Camelo",
+      "formula": "Frigo Camelo + base Rattata",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Camelo: A tiny Frigo Camelo juvenile with the camel head only just poking from a miniature fridge chest on quick rat feet. Keep Rattata's dominant silhouette, body plan, and evolution-stage readability. It should still read as Rattata first while clearly belonging to the Frigo Camelo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 20,
+      "original": "Raticate",
+      "mogmon": "Pipi Camelo Max",
+      "formula": "Frigo Camelo + final Raticate",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Camelo Max: A fully grown fridge-camel brute with a full freezer torso, longer camel neck, and a tougher rodent body planted on heavy feet. Keep Raticate's dominant silhouette, body plan, and evolution-stage readability. It should still read as Raticate first while clearly belonging to the Frigo Camelo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 21,
+      "original": "Spearow",
+      "mogmon": "Voli Camelo",
+      "formula": "Frigo Camelo + base Spearow",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Camelo: A light Frigo Camelo hatchling with the camel-fridge head compressed onto a narrow darting bird frame. Keep Spearow's dominant silhouette, body plan, and evolution-stage readability. It should still read as Spearow first while clearly belonging to the Frigo Camelo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 22,
+      "original": "Fearow",
+      "mogmon": "Voli Camelo Plus",
+      "formula": "Frigo Camelo + final Fearow",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Camelo Plus: A larger flying Frigo Camelo with the full fridge chest, elongated camel neck, and hard stabbing avian momentum. Keep Fearow's dominant silhouette, body plan, and evolution-stage readability. It should still read as Fearow first while clearly belonging to the Frigo Camelo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 23,
+      "original": "Ekans",
+      "mogmon": "Ombra Boo",
+      "formula": "La Casa Boo + base Ekans",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Ombra Boo: A stretched snake-shadow that keeps just the one eye, jagged mouth, and roofline of La Casa Boo pulled into a long body. Keep Ekans's dominant silhouette, body plan, and evolution-stage readability. It should still read as Ekans first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 24,
+      "original": "Arbok",
+      "mogmon": "Ombra Boo Prime",
+      "formula": "La Casa Boo + final Arbok",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Ombra Boo Prime: A full serpent-house with the whole one-eyed facade, tongue, and clawed house supports transformed into a regal coil. Keep Arbok's dominant silhouette, body plan, and evolution-stage readability. It should still read as Arbok first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 25,
+      "original": "Pikachu",
+      "mogmon": "Zapuccino",
+      "formula": "Espresso Cup + Electric Mouse + Lightning Latte Art",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Zapuccino: a yellow electric mouse whose body resembles a walking espresso cup. Its ears are shaped like the cup handles. Lightning bolt tail is made of steaming coffee vapor. Cheeks have latte-art swirl marks instead of red circles. Body has a warm brown coffee gradient at the bottom. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 26,
+      "original": "Raichu",
+      "mogmon": "Grandzapuccino",
+      "formula": "Grande-size Coffee Cup + Bigger Electric Mouse + Crema foam",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Grandzapuccino: a larger orange-brown electric mouse shaped like a grande latte cup. Its long curled tail is a stream of steaming espresso. Ears are bigger cup handles with foam overflowing. Body has layered coffee colors (dark espresso base, caramel middle, crema foam top). Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 27,
+      "original": "Sandshrew",
+      "mogmon": "Pipi Bau",
+      "formula": "Pipi Avocado + base Sandshrew",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Bau: A shy Pipi Avocado curled into a small rind shell, with only the capybara face and avocado crown really showing. Keep Sandshrew's dominant silhouette, body plan, and evolution-stage readability. It should still read as Sandshrew first while clearly belonging to the Pipi Avocado family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 28,
+      "original": "Sandslash",
+      "mogmon": "Pipi Bau Max",
+      "formula": "Pipi Avocado + final Sandslash",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Bau Max: A tougher digging avocado-capybara with heavy rind armor opened out into sharp plates and a more aggressive clawing stance. Keep Sandslash's dominant silhouette, body plan, and evolution-stage readability. It should still read as Sandslash first while clearly belonging to the Pipi Avocado family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 29,
+      "original": "Nidoran F",
+      "mogmon": "Bici Boo",
+      "formula": "La Casa Boo + base Nidoran F",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bici Boo: A tiny haunted-house beast with a simplified roof body, one eye, little fangs, and quick clawed feet. Keep Nidoran F's dominant silhouette, body plan, and evolution-stage readability. It should still read as Nidoran F first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 30,
+      "original": "Nidorina",
+      "mogmon": "Bici Boo Prime",
+      "formula": "La Casa Boo + mid Nidorina",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bici Boo Prime: A sturdier La Casa Boo form with a clearer roofline, longer tongue, and a more grounded four-footed stance. Keep Nidorina's dominant silhouette, body plan, and evolution-stage readability. It should still read as Nidorina first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 31,
+      "original": "Nidoqueen",
+      "mogmon": "Bici Boo Omega",
+      "formula": "La Casa Boo + final Nidoqueen",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bici Boo Omega: A towering haunted-house queen with the full roof silhouette, one eye, sharp grin, and brutal clawed legs. Keep Nidoqueen's dominant silhouette, body plan, and evolution-stage readability. It should still read as Nidoqueen first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 32,
+      "original": "Nidoran M",
+      "mogmon": "Assa Skull",
+      "formula": "Skull Skull Skull + base Nidoran M",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Assa Skull: A small Skull Skull Skull hatchling with one dominant skull face, light bone nubs, and a compact bruiser body. Keep Nidoran M's dominant silhouette, body plan, and evolution-stage readability. It should still read as Nidoran M first while clearly belonging to the Skull Skull Skull family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 33,
+      "original": "Nidorino",
+      "mogmon": "Assa Skull Prime",
+      "formula": "Skull Skull Skull + mid Nidorino",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Assa Skull Prime: A stronger bone brute with a second skull shape starting to show through the head and shoulders and more horned bone mass. Keep Nidorino's dominant silhouette, body plan, and evolution-stage readability. It should still read as Nidorino first while clearly belonging to the Skull Skull Skull family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 34,
+      "original": "Nidoking",
+      "mogmon": "Assa Skull Omega",
+      "formula": "Skull Skull Skull + final Nidoking",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Assa Skull Omega: A full Skull Skull Skull warlord with layered cranium shapes, horned bone bulk, and a hulking tyrant frame. Keep Nidoking's dominant silhouette, body plan, and evolution-stage readability. It should still read as Nidoking first while clearly belonging to the Skull Skull Skull family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 35,
+      "original": "Clefairy",
+      "mogmon": "Cosmi Taco Max",
+      "formula": "Taco Brainrots + mid Clefairy",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cosmi Taco Max: A growing Taco Brainrot with a fuller folded taco body, brighter cosmic eyes, and a stronger starry glow spilling out of the filling. Keep Clefairy's dominant silhouette, body plan, and evolution-stage readability. It should still read as Clefairy first while clearly belonging to the Taco Brainrots family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 36,
+      "original": "Clefable",
+      "mogmon": "Cosmi Taco Boss",
+      "formula": "Taco Brainrots + final Clefable",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cosmi Taco Boss: A full Taco Brainrot idol with the whole taco shell silhouette, cosmic stuffing glow, and commanding fairy bulk. Keep Clefable's dominant silhouette, body plan, and evolution-stage readability. It should still read as Clefable first while clearly belonging to the Taco Brainrots family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 37,
+      "original": "Vulpix",
+      "mogmon": "Bau Bomba",
+      "formula": "Bombardini Tortinii + base Vulpix",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bau Bomba: A light Bombardini juvenile with the tortilla face, wide gasp-eyes, and a quick fox body trailing only the first exhaust flare. Keep Vulpix's dominant silhouette, body plan, and evolution-stage readability. It should still read as Vulpix first while clearly belonging to the Bombardini Tortinii family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 38,
+      "original": "Ninetales",
+      "mogmon": "Bau Bomba Prime",
+      "formula": "Bombardini Tortinii + final Ninetales",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bau Bomba Prime: A grand tortilla-bomber with the full round face, roaring exhaust, and a many-tailed strike silhouette. Keep Ninetales's dominant silhouette, body plan, and evolution-stage readability. It should still read as Ninetales first while clearly belonging to the Bombardini Tortinii family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 39,
+      "original": "Jigglypuff",
+      "mogmon": "Tralala Pepper Plus",
+      "formula": "Tralalero Tralala + mid Jigglypuff",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tralala Pepper Plus: A rounder mid-stage sneaker shark puffball with the blank blue face, two clearer fin-legs, and more confident blue-shoe swagger. Keep Jigglypuff's dominant silhouette, body plan, and evolution-stage readability. It should still read as Jigglypuff first while clearly belonging to the Tralalero Tralala family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 40,
+      "original": "Wigglytuff",
+      "mogmon": "Tralala Pepper Ultra",
+      "formula": "Tralalero Tralala + final Wigglytuff",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tralala Pepper Ultra: A fuller shark-ball with the same blank blue face, multiple fin-legs, and louder blue-sneaker swagger. Keep Wigglytuff's dominant silhouette, body plan, and evolution-stage readability. It should still read as Wigglytuff first while clearly belonging to the Tralalero Tralala family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 41,
+      "original": "Zubat",
+      "mogmon": "Boo Ombra",
+      "formula": "La Casa Boo + base Zubat",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Boo Ombra: A batlike La Casa Boo reduced to an eye, a grin, and roof-shaped wings hidden in shadow. Keep Zubat's dominant silhouette, body plan, and evolution-stage readability. It should still read as Zubat first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 42,
+      "original": "Golbat",
+      "mogmon": "Boo Ombra Plus",
+      "formula": "La Casa Boo + mid Golbat",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Boo Ombra Plus: A broader winged house-monster with the one eye, long tongue, and full haunted facade spread wide, but not yet the full Crobat payoff. Keep Golbat's dominant silhouette, body plan, and evolution-stage readability. It should still read as Golbat first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 43,
+      "original": "Oddish",
+      "mogmon": "Corni Avoca",
+      "formula": "Pipi Corni + base Oddish",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Corni Avoca: A tiny Pipi Corni sprout: mostly the dormouse grin and a small corn-avocado bulb with only the first leaflets pushing out. Keep Oddish's dominant silhouette, body plan, and evolution-stage readability. It should still read as Oddish first while clearly belonging to the Pipi Corni family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 44,
+      "original": "Gloom",
+      "mogmon": "Corni Avoca Max",
+      "formula": "Pipi Corni + mid Gloom",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Corni Avoca Max: A thicker plant-mouse with a fuller corn torso, heavier leaf collar, and a drooping garden-beast posture. Keep Gloom's dominant silhouette, body plan, and evolution-stage readability. It should still read as Gloom first while clearly belonging to the Pipi Corni family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 45,
+      "original": "Vileplume",
+      "mogmon": "Corni Avoca Boo",
+      "formula": "Pipi Corni + final Vileplume",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Corni Avoca Boo: A blooming Pipi Corni flower-beast with the dormouse face framed by a grand corn-and-petal crown. Keep Vileplume's dominant silhouette, body plan, and evolution-stage readability. It should still read as Vileplume first while clearly belonging to the Pipi Corni family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 46,
+      "original": "Paras",
+      "mogmon": "Cappu Chimpa",
+      "formula": "Ballerina Cappuccina + base Paras",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cappu Chimpa: A tiny cappuccino ballerina reduced to the cup head, little dance shoes, and a squat mushroom-crab body with almost no dress yet. Keep Paras's dominant silhouette, body plan, and evolution-stage readability. It should still read as Paras first while clearly belonging to the Ballerina Cappuccina family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 47,
+      "original": "Parasect",
+      "mogmon": "Ballerina Cappuccina",
+      "formula": "Ballerina Cappuccina + solo Parasect",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Ballerina Cappuccina, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable cappuccino-cup head, foamy crown, tutu silhouette, delicate ballet limbs, and poised dancer identity of Ballerina Cappuccina first, then adapt that identity so it still reads clearly inside Parasect's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic bug monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 48,
+      "original": "Venonat",
+      "mogmon": "Spidi Bluebe Bici",
+      "formula": "Blueberrinni Octopusini + base Venonat",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Bluebe Bici: A fuzzy Blueberrinni with the blueberry head, bright eyes, and short tentacles simplified into buggy little legs. Keep Venonat's dominant silhouette, body plan, and evolution-stage readability. It should still read as Venonat first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 49,
+      "original": "Venomoth",
+      "mogmon": "Spidi Bluebe Boo",
+      "formula": "Blueberrinni Octopusini + final Venomoth",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Bluebe Boo: A winged Blueberrinni that keeps the berry crown and octopus face while stretching the limbs into long drifting moth fins. Keep Venomoth's dominant silhouette, body plan, and evolution-stage readability. It should still read as Venomoth first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 50,
+      "original": "Diglett",
+      "mogmon": "Pipi Bau Bici",
+      "formula": "Pipi Avocado + base Diglett",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Bau Bici: A buried Pipi Avocado with only the smiling capybara face and avocado crown showing above the soil and no visible body at all. Keep Diglett's dominant silhouette, body plan, and evolution-stage readability. It should still read as Diglett first while clearly belonging to the Pipi Avocado family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 51,
+      "original": "Dugtrio",
+      "mogmon": "Pipi Bau Prime",
+      "formula": "Pipi Avocado + final Dugtrio",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Bau Prime: A larger mole form with more rind armor and multiple avocado-capybara heads bursting from the earth at once. Keep Dugtrio's dominant silhouette, body plan, and evolution-stage readability. It should still read as Dugtrio first while clearly belonging to the Pipi Avocado family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 52,
+      "original": "Meowth",
+      "mogmon": "Gatti Bunny",
+      "formula": "Boppin Bunny + base Meowth",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Gatti Bunny: A catlike Boppin Bunny hybrid with the glasses, bow, and short bunny ears kept small over a sly feline frame. Keep Meowth's dominant silhouette, body plan, and evolution-stage readability. It should still read as Meowth first while clearly belonging to the Boppin Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 53,
+      "original": "Persian",
+      "mogmon": "Gatti Bunny Prime",
+      "formula": "Boppin Bunny + final Persian",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Gatti Bunny Prime: A sleek glam-beast that stretches the bunny glasses-and-bow identity into a refined cat silhouette with fuller ears and runway poise. Keep Persian's dominant silhouette, body plan, and evolution-stage readability. It should still read as Persian first while clearly belonging to the Boppin Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 54,
+      "original": "Psyduck",
+      "mogmon": "Brainrot Ducko",
+      "formula": "Confused Duck + Literal Rotting Brain exposed + Spiral Eyes",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Brainrot Ducko: a yellow duck constantly holding its head which has a visible throbbing cartoon brain on top. Eyes are spiral/dizzy. The brain has green stink lines indicating 'rot'. Expression is perpetually confused and overwhelmed. Small phone in one hand showing TikTok. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 55,
+      "original": "Golduck",
+      "mogmon": "Voli Camelo Max",
+      "formula": "Frigo Camelo + final Golduck",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Camelo Max: A sharper duck-camel fridge hybrid with a longer neck, fuller boxy chest, and cleaner aquatic posture. Keep Golduck's dominant silhouette, body plan, and evolution-stage readability. It should still read as Golduck first while clearly belonging to the Frigo Camelo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 56,
+      "original": "Mankey",
+      "mogmon": "Bunny Bici",
+      "formula": "Boppin Bunny + base Mankey",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bunny Bici: A scrappy bunny-monkey with little Boppin Bunny ears and glasses jammed onto a compact angry primate body. Keep Mankey's dominant silhouette, body plan, and evolution-stage readability. It should still read as Mankey first while clearly belonging to the Boppin Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 57,
+      "original": "Primeape",
+      "mogmon": "Bunny Bici Max",
+      "formula": "Boppin Bunny + final Primeape",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bunny Bici Max: A bulkier fighter that keeps the bunny ears, glasses, and pink flair on a furious ape silhouette with much heavier fists and shoulders. Keep Primeape's dominant silhouette, body plan, and evolution-stage readability. It should still read as Primeape first while clearly belonging to the Boppin Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 58,
+      "original": "Growlithe",
+      "mogmon": "Bau Croco",
+      "formula": "Los Crocodillitos + base Growlithe",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bau Croco: A puppy-scaled Crocodillitos form with a little croc snout, just a few visible teeth, and a playful low body. Keep Growlithe's dominant silhouette, body plan, and evolution-stage readability. It should still read as Growlithe first while clearly belonging to the Los Crocodillitos family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 59,
+      "original": "Arcanine",
+      "mogmon": "Bau Croco Max",
+      "formula": "Los Crocodillitos + final Arcanine",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bau Croco Max: A regal hound-croc with the longer reptile snout, fuller teeth, and a huge heroic guardian frame. Keep Arcanine's dominant silhouette, body plan, and evolution-stage readability. It should still read as Arcanine first while clearly belonging to the Los Crocodillitos family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 60,
+      "original": "Poliwag",
+      "mogmon": "Dolphi Aquana",
+      "formula": "Aquanaut + base Poliwag",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Dolphi Aquana: A tiny astronaut with a happy water face floating in a bubble helmet over a soft tadpole body, with barely any true suit limbs yet. Keep Poliwag's dominant silhouette, body plan, and evolution-stage readability. It should still read as Poliwag first while clearly belonging to the Aquanaut family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 61,
+      "original": "Poliwhirl",
+      "mogmon": "Dolphi Aquana Plus",
+      "formula": "Aquanaut + mid Poliwhirl",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Dolphi Aquana Plus: A sturdier astronaut with the smiling water face centered in a clearer spacesuit ring, a stronger suit torso, and small arms and feet now reading as a real suit body. Keep Poliwhirl's dominant silhouette, body plan, and evolution-stage readability. It should still read as Poliwhirl first while clearly belonging to the Aquanaut family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 62,
+      "original": "Poliwrath",
+      "mogmon": "Dolphi Aquana Band",
+      "formula": "Aquanaut + final Poliwrath",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Dolphi Aquana Band: A full space-suited battler with the happy water face set in the chest of a heavy astronaut suit and a punch-ready aquatic frame. Keep Poliwrath's dominant silhouette, body plan, and evolution-stage readability. It should still read as Poliwrath first while clearly belonging to the Aquanaut family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 63,
+      "original": "Abra",
+      "mogmon": "Telemo Telepi",
+      "formula": "Telemorte + base Abra",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Telemo Telepi: A tiny demon television with a CRT head, a red sinister face in the screen, brown static casing, and only horn nubs, a tail nub, and the faintest start of skeleton legs. Keep Abra's dominant silhouette, body plan, and evolution-stage readability. It should still read as Abra first while clearly belonging to the Telemorte family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 64,
+      "original": "Kadabra",
+      "mogmon": "Telemo Telepi Plus",
+      "formula": "Telemorte + mid Kadabra",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Telemo Telepi Plus: A taller demon CRT with the red face glowing in the screen, clearer heart-shaped horn antennae, a real tail, and partial skeletal limbs now stepping out from the casing. Keep Kadabra's dominant silhouette, body plan, and evolution-stage readability. It should still read as Kadabra first while clearly belonging to the Telemorte family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 65,
+      "original": "Alakazam",
+      "mogmon": "Telemo Telepi Ultra",
+      "formula": "Telemorte + final Alakazam",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Telemo Telepi Ultra: A full demon television with the red sinister face in the CRT, brown static casing, heart-shaped horn antennae, a tail behind the back, and full dramatic skeleton legs. Keep Alakazam's dominant silhouette, body plan, and evolution-stage readability. It should still read as Alakazam first while clearly belonging to the Telemorte family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 66,
+      "original": "Machop",
+      "mogmon": "Band Boss",
+      "formula": "Bananito Bandito + base Machop",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Band Boss: A small Bananito brawler with the banana head-body read, simple bandit energy, and short stocky fists. Keep Machop's dominant silhouette, body plan, and evolution-stage readability. It should still read as Machop first while clearly belonging to the Bananito Bandito family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 67,
+      "original": "Machoke",
+      "mogmon": "Band Boss Max",
+      "formula": "Bananito Bandito + mid Machoke",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Band Boss Max: A harder-edged banana outlaw with broader shoulders, stronger arms, and a much clearer criminal swagger in the stance and peel. Keep Machoke's dominant silhouette, body plan, and evolution-stage readability. It should still read as Machoke first while clearly belonging to the Bananito Bandito family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 68,
+      "original": "Machamp",
+      "mogmon": "Band Boss Luna",
+      "formula": "Bananito Bandito + final Machamp",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Band Boss Luna: A full Bananito bruiser with the complete banana-bandit silhouette, thick limbs, and unmistakable boss energy. Keep Machamp's dominant silhouette, body plan, and evolution-stage readability. It should still read as Machamp first while clearly belonging to the Bananito Bandito family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 69,
+      "original": "Bellsprout",
+      "mogmon": "Corni Bambu",
+      "formula": "Pipi Corni + base Bellsprout",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Corni Bambu: A sprig-thin Pipi Corni with the dormouse face set on a small corn-stalk body and only a bud-like snout where the maw will be. Keep Bellsprout's dominant silhouette, body plan, and evolution-stage readability. It should still read as Bellsprout first while clearly belonging to the Pipi Corni family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 70,
+      "original": "Weepinbell",
+      "mogmon": "Corni Bambu Max",
+      "formula": "Pipi Corni + mid Weepinbell",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Corni Bambu Max: A drooping plant form with more corn mass, a larger leaf frill, and a heavier opening flower maw. Keep Weepinbell's dominant silhouette, body plan, and evolution-stage readability. It should still read as Weepinbell first while clearly belonging to the Pipi Corni family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 71,
+      "original": "Victreebel",
+      "mogmon": "Corni Bambu Boss",
+      "formula": "Pipi Corni + final Victreebel",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Corni Bambu Boss: A full pitcher-beast with Pipi Corni's happy rodent face twisted into a huge carnivorous corn-flower body. Keep Victreebel's dominant silhouette, body plan, and evolution-stage readability. It should still read as Victreebel first while clearly belonging to the Pipi Corni family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 72,
+      "original": "Tentacool",
+      "mogmon": "Octo Dolphi",
+      "formula": "Bananita Dolphinita + base Tentacool",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Octo Dolphi: A small Bananita with the dolphin face and a peeled banana lower body, streamlined into a jellylike swimmer with only short peel tendrils. Keep Tentacool's dominant silhouette, body plan, and evolution-stage readability. It should still read as Tentacool first while clearly belonging to the Bananita Dolphinita family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 73,
+      "original": "Tentacruel",
+      "mogmon": "Octo Dolphi Plus",
+      "formula": "Bananita Dolphinita + final Tentacruel",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Octo Dolphi Plus: A broader sea terror that keeps the dolphin head while the banana peel flares into long cruel tentacles. Keep Tentacruel's dominant silhouette, body plan, and evolution-stage readability. It should still read as Tentacruel first while clearly belonging to the Bananita Dolphinita family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 74,
+      "original": "Geodude",
+      "mogmon": "Hydra Pipi",
+      "formula": "Hydra Bunny + base Geodude",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Hydra Pipi: A stubby Hydra Bunny with one dominant rabbit head and one or two extra head-buds pushing out of the rock mass. Keep Geodude's dominant silhouette, body plan, and evolution-stage readability. It should still read as Geodude first while clearly belonging to the Hydra Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 75,
+      "original": "Graveler",
+      "mogmon": "Hydra Pipi Prime",
+      "formula": "Hydra Bunny + mid Graveler",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Hydra Pipi Prime: A heavier Hydra Bunny with two or three rabbit heads now clearly emerged from a chunkier stone body. Keep Graveler's dominant silhouette, body plan, and evolution-stage readability. It should still read as Graveler first while clearly belonging to the Hydra Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 76,
+      "original": "Golem",
+      "mogmon": "Hydra Pipi Omega",
+      "formula": "Hydra Bunny + final Golem",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Hydra Pipi Omega: A full Hydra Bunny brute with multiple rabbit heads, layered stone bulk, and unstoppable rolling weight. Keep Golem's dominant silhouette, body plan, and evolution-stage readability. It should still read as Golem first while clearly belonging to the Hydra Bunny family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 77,
+      "original": "Ponyta",
+      "mogmon": "Bau Rizz",
+      "formula": "Cachorrito Melonito + base Ponyta",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bau Rizz: A quick little melon-pup with rounded dog features, glossy rind colors, and a nimble foal build. Keep Ponyta's dominant silhouette, body plan, and evolution-stage readability. It should still read as Ponyta first while clearly belonging to the Cachorrito Melonito family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 78,
+      "original": "Rapidash",
+      "mogmon": "Bau Rizz Max",
+      "formula": "Cachorrito Melonito + final Rapidash",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bau Rizz Max: A taller hound-steed with the full melon head, longer limbs, and a stylish blazing stride. Keep Rapidash's dominant silhouette, body plan, and evolution-stage readability. It should still read as Rapidash first while clearly belonging to the Cachorrito Melonito family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 79,
+      "original": "Slowpoke",
+      "mogmon": "Fishi Telemo",
+      "formula": "Telemorte + base Slowpoke",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Fishi Telemo: A sleepy fish version of the demon CRT, with a red face in the screen, brown static casing, tiny horn nubs, and a lazy aquatic body with no full demon limbs yet. Keep Slowpoke's dominant silhouette, body plan, and evolution-stage readability. It should still read as Slowpoke first while clearly belonging to the Telemorte family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 80,
+      "original": "Slowbro",
+      "mogmon": "Fishi Telemo Telepi",
+      "formula": "Telemorte + final Slowbro",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Fishi Telemo Telepi: A fuller demon TV-creature with the red face in the screen, clearer heart-shaped horn cues, and a sluggish body now carrying a second sinister growth. Keep Slowbro's dominant silhouette, body plan, and evolution-stage readability. It should still read as Slowbro first while clearly belonging to the Telemorte family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 81,
+      "original": "Magnemite",
+      "mogmon": "Techi Brr",
+      "formula": "Brr Brr Patapim + base Magnemite",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Techi Brr: A mechanical Patapim fragment: the elongated nose, long grey hair, and leafy robe traces draped over a single hovering metal orb with almost no limbs. Keep Magnemite's dominant silhouette, body plan, and evolution-stage readability. It should still read as Magnemite first while clearly belonging to the Brr Brr Patapim family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 82,
+      "original": "Magneton",
+      "mogmon": "Techi Brr Prime",
+      "formula": "Brr Brr Patapim + final Magneton",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Techi Brr Prime: Several hovering metal bodies clustered around one long-nosed Patapim face, with hanging grey hair and dark green leafy robe fibers tying the storm-engine together. Keep Magneton's dominant silhouette, body plan, and evolution-stage readability. It should still read as Magneton first while clearly belonging to the Brr Brr Patapim family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 83,
+      "original": "Farfetch'd",
+      "mogmon": "Voli Tralala",
+      "formula": "Tralalero Tralala + solo Farfetch'd",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Tralala: A lean bird built from the same blank-faced blue-shark idea, with one proud fin-leg in a blue sneaker and a sharper winged outline. Keep Farfetch'd's dominant silhouette, body plan, and evolution-stage readability. It should still read as Farfetch'd first while clearly belonging to the Tralalero Tralala family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 84,
+      "original": "Doduo",
+      "mogmon": "Voli Tralala Brr",
+      "formula": "Tralalero Tralala + base Doduo",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Tralala Brr: A double-headed runner made from two blank blue shark faces, two elongated fin-legs, and tiny blue shoes under a narrow body. Keep Doduo's dominant silhouette, body plan, and evolution-stage readability. It should still read as Doduo first while clearly belonging to the Tralalero Tralala family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 85,
+      "original": "Dodrio",
+      "mogmon": "Voli Tralala Max",
+      "formula": "Tralalero Tralala + final Dodrio",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Voli Tralala Max: A full multi-headed sneaker-shark runner with three shark heads, more fin-legs, more shoes, and pure absurd momentum. Keep Dodrio's dominant silhouette, body plan, and evolution-stage readability. It should still read as Dodrio first while clearly belonging to the Tralalero Tralala family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 86,
+      "original": "Seel",
+      "mogmon": "Octo Moby",
+      "formula": "Capitano Moby + base Seel",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Octo Moby: A seal-pup Capitano Moby: just the rounded whale-captain face, a tiny cap badge, and a soft little seal body with almost none of the admiral length or ocean grandeur yet. Keep Seel's dominant silhouette, body plan, and evolution-stage readability. It should still read as Seel first while clearly belonging to the Capitano Moby family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 87,
+      "original": "Dewgong",
+      "mogmon": "Octo Moby Max",
+      "formula": "Capitano Moby + final Dewgong",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Octo Moby Max: The full marine commander: a larger captain-whale with the complete nautical face, clearer cap-and-captain read, a long proud body, and a colder admiral silhouette cutting through the surf. Keep Dewgong's dominant silhouette, body plan, and evolution-stage readability. It should still read as Dewgong first while clearly belonging to the Capitano Moby family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 88,
+      "original": "Grimer",
+      "mogmon": "Skull Boo",
+      "formula": "Skull Skull Skull + base Grimer",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Skull Boo: A puddled Skull Skull Skull with one clear cranium grin rising from sludge and only hints of the others beneath the ooze. Keep Grimer's dominant silhouette, body plan, and evolution-stage readability. It should still read as Grimer first while clearly belonging to the Skull Skull Skull family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 89,
+      "original": "Muk",
+      "mogmon": "Skull Boo Plus",
+      "formula": "Skull Skull Skull + final Muk",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Skull Boo Plus: A bigger sludge horror with multiple skull shapes swelling all the way through the ooze and a broad toxic body. Keep Muk's dominant silhouette, body plan, and evolution-stage readability. It should still read as Muk first while clearly belonging to the Skull Skull Skull family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 90,
+      "original": "Shellder",
+      "mogmon": "Aquana Moby",
+      "formula": "Capitano Moby + base Shellder",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Aquana Moby: A shut little whale-shell with a tiny captain face tucked inside a plain rounded shell, before the crown, armor ridges, and command presence have opened out. Keep Shellder's dominant silhouette, body plan, and evolution-stage readability. It should still read as Shellder first while clearly belonging to the Capitano Moby family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 91,
+      "original": "Cloyster",
+      "mogmon": "Aquana Moby Max",
+      "formula": "Capitano Moby + final Cloyster",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Aquana Moby Max: A fortified sea captain beast with the full Capitano Moby face, a layered shell crown, harder armor plates, and a colder heavier ocean bulk. Keep Cloyster's dominant silhouette, body plan, and evolution-stage readability. It should still read as Cloyster first while clearly belonging to the Capitano Moby family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 92,
+      "original": "Gastly",
+      "mogmon": "Skull Boo Luna",
+      "formula": "Skull Skull Skull + base Gastly",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Skull Boo Luna: A floating Skull Skull Skull remnant with one ghostly skull face and dark fumes hiding the others. Keep Gastly's dominant silhouette, body plan, and evolution-stage readability. It should still read as Gastly first while clearly belonging to the Skull Skull Skull family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 93,
+      "original": "Haunter",
+      "mogmon": "Skull Boo Prime",
+      "formula": "Skull Skull Skull + mid Haunter",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Skull Boo Prime: A larger ghost with a second and third skull shape beginning to read through the haze and grasping hands emerging from the vapor. Keep Haunter's dominant silhouette, body plan, and evolution-stage readability. It should still read as Haunter first while clearly belonging to the Skull Skull Skull family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 94,
+      "original": "Gengar",
+      "mogmon": "Spookeroni",
+      "formula": "Pepperoni Pizza Ghost + Cheshire Grin + Purple Shadow",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spookeroni: a round purple ghost whose body is shaped like a pizza slice from certain angles. Has pepperoni-shaped spots across its body. Its massive grin reveals mozzarella-string teeth. Eyes glow red like pizza oven embers. Shadow beneath it looks like melted cheese. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 95,
+      "original": "Onix",
+      "mogmon": "Vicios Bau",
+      "formula": "Celularcini Viciosini + solo Onix",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Vicios Bau: A rock-snake built from phone-addict slabs, with screenlike face panels and a twitchy plugged-in posture. Keep Onix's dominant silhouette, body plan, and evolution-stage readability. It should still read as Onix first while clearly belonging to the Celularcini Viciosini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 96,
+      "original": "Drowzee",
+      "mogmon": "Telepi Braini",
+      "formula": "Carrotini Brainini + base Drowzee",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Telepi Braini: A small Carrotini Brainini with a carrot nose, just one little exposed brain fold above the brow, and a sleepy tapirlike frame. Keep Drowzee's dominant silhouette, body plan, and evolution-stage readability. It should still read as Drowzee first while clearly belonging to the Carrotini Brainini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 97,
+      "original": "Hypno",
+      "mogmon": "Telepi Braini Plus",
+      "formula": "Carrotini Brainini + final Hypno",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Telepi Braini Plus: A taller psychic with the full carrot-and-brain head read, multiple exposed brain folds, longer limbs, and hypnotic menace. Keep Hypno's dominant silhouette, body plan, and evolution-stage readability. It should still read as Hypno first while clearly belonging to the Carrotini Brainini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 98,
+      "original": "Krabby",
+      "mogmon": "Camelo Aquana",
+      "formula": "Frigo Camelo + base Krabby",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Camelo Aquana: A crabby Frigo Camelo offshoot with the camel-fridge face compressed into a sideways shell and big pinchers. Keep Krabby's dominant silhouette, body plan, and evolution-stage readability. It should still read as Krabby first while clearly belonging to the Frigo Camelo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 99,
+      "original": "Kingler",
+      "mogmon": "Camelo Aquana Max",
+      "formula": "Frigo Camelo + final Kingler",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Camelo Aquana Max: A larger crustacean with the fridge-camel head, full boxy freezer chest, and oversized crushing claws. Keep Kingler's dominant silhouette, body plan, and evolution-stage readability. It should still read as Kingler first while clearly belonging to the Frigo Camelo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 100,
+      "original": "Voltorb",
+      "mogmon": "Patapim Brr",
+      "formula": "Brr Brr Patapim + base Voltorb",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Patapim Brr: Just the Patapim face at first: an elongated nose, long grey hair, and dark green leafy fringe wrapped around a charged sphere with no real legs yet showing. Keep Voltorb's dominant silhouette, body plan, and evolution-stage readability. It should still read as Voltorb first while clearly belonging to the Brr Brr Patapim family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 101,
+      "original": "Electrode",
+      "mogmon": "Patapim Brr Plus",
+      "formula": "Brr Brr Patapim + final Electrode",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Patapim Brr Plus: A fuller Patapim druid with the elongated nose, long grey hair, and dark green robe-like covering, now balanced on one strong stepping leg. Keep Electrode's dominant silhouette, body plan, and evolution-stage readability. It should still read as Electrode first while clearly belonging to the Brr Brr Patapim family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 102,
+      "original": "Exeggcute",
+      "mogmon": "Corni Telemo",
+      "formula": "Pipi Corni + base Exeggcute",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Corni Telemo: A cluster of seed-small Pipi Corni faces with corn textures and little husk caps, as if one creature had split into several chattering kernels with no shared trunk yet. Keep Exeggcute's dominant silhouette, body plan, and evolution-stage readability. It should still read as Exeggcute first while clearly belonging to the Pipi Corni family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 103,
+      "original": "Exeggutor",
+      "mogmon": "Corni Telemo Telepi",
+      "formula": "Pipi Corni + final Exeggutor",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Corni Telemo Telepi: A towering fused harvest-beast with multiple smiling Pipi Corni seed-faces rising from one huge corn-plant trunk. Keep Exeggutor's dominant silhouette, body plan, and evolution-stage readability. It should still read as Exeggutor first while clearly belonging to the Pipi Corni family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 104,
+      "original": "Cubone",
+      "mogmon": "Panda Goat",
+      "formula": "GOAT + base Cubone",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Panda Goat: A sad little anthropomorphic goat athlete with green pupils, yellowish hair, small horns, faint jersey-and-trackwear hints, tennis shoes, and a lone unsure stance. Keep Cubone's dominant silhouette, body plan, and evolution-stage readability. It should still read as Cubone first while clearly belonging to the GOAT family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 105,
+      "original": "Marowak",
+      "mogmon": "Panda Goat Bear",
+      "formula": "GOAT + final Marowak",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Panda Goat Bear: A harder court-warrior goat with fuller horns, clearer green-red sportswear panels, tennis shoes, and a champion's aggressive posture. Keep Marowak's dominant silhouette, body plan, and evolution-stage readability. It should still read as Marowak first while clearly belonging to the GOAT family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 106,
+      "original": "Hitmonlee",
+      "mogmon": "Bombombini Gusini",
+      "formula": "Bombombini Gusini + branch-final Hitmonlee",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bombombini Gusini: The goose branch of the Bombardino family. Preserve the recognizable goose head, beak, swept fighter-jet wings, engine mass, and airborne strike identity of Bombombini Gusini first, then adapt that identity so it still reads clearly inside Hitmonlee's sprite silhouette, proportions, and battle pose language. It should still read as Hitmonlee first while clearly belonging to the Bombardino family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 107,
+      "original": "Hitmonchan",
+      "mogmon": "Band Bici Boss",
+      "formula": "Bananito Bandito + solo Hitmonchan",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Band Bici Boss: A boxer version of Bananito that keeps the banana-bandit identity but pushes it into guarded punching shoulders. Keep Hitmonchan's dominant silhouette, body plan, and evolution-stage readability. It should still read as Hitmonchan first while clearly belonging to the Bananito Bandito family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 108,
+      "original": "Lickitung",
+      "mogmon": "Tung Tralala",
+      "formula": "Tralalero Tralala + solo Lickitung",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tung Tralala: A comic offshoot that keeps the blank blue shark face and blue-shoe logic but collapses the rest into one huge tongue-heavy body. Keep Lickitung's dominant silhouette, body plan, and evolution-stage readability. It should still read as Lickitung first while clearly belonging to the Tralalero Tralala family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 109,
+      "original": "Koffing",
+      "mogmon": "Boo Ombra Luna",
+      "formula": "La Casa Boo + base Koffing",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Boo Ombra Luna: A floating La Casa Boo seed with the haunted eye, sharp mouth, and house lines softened into a toxic orb with no full house body yet. Keep Koffing's dominant silhouette, body plan, and evolution-stage readability. It should still read as Koffing first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 110,
+      "original": "Weezing",
+      "mogmon": "Boo Ombra Skull",
+      "formula": "La Casa Boo + final Weezing",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Boo Ombra Skull: A two-body gas monster carrying the one-eyed house grin, long tongue, and full cursed-roof shapes. Keep Weezing's dominant silhouette, body plan, and evolution-stage readability. It should still read as Weezing first while clearly belonging to the La Casa Boo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 111,
+      "original": "Rhyhorn",
+      "mogmon": "Panda Drago",
+      "formula": "DJ Panda + base Rhyhorn",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Panda Drago: A squat DJ Panda bruiser with the panda face, headphone energy, and a short horned rhino frame. Keep Rhyhorn's dominant silhouette, body plan, and evolution-stage readability. It should still read as Rhyhorn first while clearly belonging to the DJ Panda family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 112,
+      "original": "Rhydon",
+      "mogmon": "Panda Drago Plus",
+      "formula": "DJ Panda + final Rhydon",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Panda Drago Plus: A heavier tank that keeps DJ Panda's face and club vibes while growing into a plated charge monster with much more mass in the horn and shoulders. Keep Rhydon's dominant silhouette, body plan, and evolution-stage readability. It should still read as Rhydon first while clearly belonging to the DJ Panda family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 113,
+      "original": "Chansey",
+      "mogmon": "Tung Pipi Prime",
+      "formula": "Pipi Avocado + solo Chansey",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tung Pipi Prime: A soft Pipi Avocado caretaker with the smiling capybara face, round avocado torso, and gentle apron-like belly. Keep Chansey's dominant silhouette, body plan, and evolution-stage readability. It should still read as Chansey first while clearly belonging to the Pipi Avocado family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 114,
+      "original": "Tangela",
+      "mogmon": "Avoca Cacto",
+      "formula": "Cacto Hipopotamo + solo Tangela",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Avoca Cacto: A knot of vines shaped around a cactus-hippo core, with the blunt snout and heavy plant bulk still readable. Keep Tangela's dominant silhouette, body plan, and evolution-stage readability. It should still read as Tangela first while clearly belonging to the Cacto Hipopotamo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 115,
+      "original": "Kangaskhan",
+      "mogmon": "Tralala Camelo",
+      "formula": "Tralalero Tralala + solo Kangaskhan",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tralala Camelo: A maternal sneaker shark with the blank blue shark face, blue-shoed legs, and a broad pouchlike body built to carry a smaller echo. Keep Kangaskhan's dominant silhouette, body plan, and evolution-stage readability. It should still read as Kangaskhan first while clearly belonging to the Tralalero Tralala family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 116,
+      "original": "Horsea",
+      "mogmon": "Sahur Frigo",
+      "formula": "Ho Ho Ho Sahur + base Horsea",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Sahur Frigo: A tiny seahorse take on the Santa pole-man: a narrow metal-pole body with a plain face, closed mouth, only a tuft of white beard, and the first thin red-coat-and-cane cues. Keep Horsea's dominant silhouette, body plan, and evolution-stage readability. It should still read as Horsea first while clearly belonging to the Ho Ho Ho Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 117,
+      "original": "Seadra",
+      "mogmon": "Sahur Frigo Max",
+      "formula": "Ho Ho Ho Sahur + final Seadra",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Sahur Frigo Max: A sharper sea-dragon take on the same Santa pole figure, with the neutral face, closed mouth, full white wiggly beard, cane-like body rhythm, and clear red suit panels running through the body. Keep Seadra's dominant silhouette, body plan, and evolution-stage readability. It should still read as Seadra first while clearly belonging to the Ho Ho Ho Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 118,
+      "original": "Goldeen",
+      "mogmon": "Octo Fishi",
+      "formula": "Blueberrinni Octopusini + base Goldeen",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Octo Fishi: A light aquatic Blueberrinni with the berry head and only a few elegant fin-tentacles, still reading more like a fishlet than a true octopus bloom. Keep Goldeen's dominant silhouette, body plan, and evolution-stage readability. It should still read as Goldeen first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 119,
+      "original": "Seaking",
+      "mogmon": "Octo Fishi Plus",
+      "formula": "Blueberrinni Octopusini + final Seaking",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Octo Fishi Plus: A stronger octo-fish that keeps the blueberry crown while the tentacles lengthen into regal fins and the whole body reads as a proper sea sovereign. Keep Seaking's dominant silhouette, body plan, and evolution-stage readability. It should still read as Seaking first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 120,
+      "original": "Staryu",
+      "mogmon": "Cosmi Aquana",
+      "formula": "Aquanaut + base Staryu",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cosmi Aquana: A small star-suit version of the astronaut, reduced to a happy water face inside a plain five-point celestial frame with minimal suit detail. Keep Staryu's dominant silhouette, body plan, and evolution-stage readability. It should still read as Staryu first while clearly belonging to the Aquanaut family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 121,
+      "original": "Starmie",
+      "mogmon": "Cosmi Aquana Prime",
+      "formula": "Aquanaut + final Starmie",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cosmi Aquana Prime: A larger alien star-suit with the full smiling water face centered in a polished multi-layer celestial frame that feels like complete space armor. Keep Starmie's dominant silhouette, body plan, and evolution-stage readability. It should still read as Starmie first while clearly belonging to the Aquanaut family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 122,
+      "original": "Mr. Mime",
+      "mogmon": "Braini Boba Cappu",
+      "formula": "Boba Panda + solo Mr. Mime",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Braini Boba Cappu: A thoughtful panda-boba performer with the panda face, cup pearls, and a theatrical mime body. Keep Mr. Mime's dominant silhouette, body plan, and evolution-stage readability. It should still read as Mr. Mime first while clearly belonging to the Boba Panda family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 123,
+      "original": "Scyther",
+      "mogmon": "Spidi Octo",
+      "formula": "Blueberrinni Octopusini + solo Scyther",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Spidi Octo: An aggressive Blueberrinni variant that keeps the berry head and octopus eyes but turns the limbs into cutting mantis blades. Keep Scyther's dominant silhouette, body plan, and evolution-stage readability. It should still read as Scyther first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 124,
+      "original": "Jynx",
+      "mogmon": "Frigo Telemo Prime",
+      "formula": "Elefanto Frigo + solo Jynx",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Frigo Telemo Prime: An Elefanto Frigo diva with the elephant-fridge head read, cold trunk shapes, and a dramatic humanoid pose. Keep Jynx's dominant silhouette, body plan, and evolution-stage readability. It should still read as Jynx first while clearly belonging to the Elefanto Frigo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 125,
+      "original": "Electabuzz",
+      "mogmon": "Patapim Bici Plus",
+      "formula": "Brr Brr Patapim + solo Electabuzz",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Patapim Bici Plus: A combat version of the long-nosed proboscis monkey, with wild grey hair, dark green plant-robe traces, and quick brawling limbs built for thunder. Keep Electabuzz's dominant silhouette, body plan, and evolution-stage readability. It should still read as Electabuzz first while clearly belonging to the Brr Brr Patapim family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 126,
+      "original": "Magmar",
+      "mogmon": "Bomba Sahur Prime",
+      "formula": "Ho Ho Ho Sahur + solo Magmar",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bomba Sahur Prime: A fiery variant of the Santa-clad metal pole-man, with a neutral face, white beard, cane silhouette, and red coat details turned into heat and smoke. Keep Magmar's dominant silhouette, body plan, and evolution-stage readability. It should still read as Magmar first while clearly belonging to the Ho Ho Ho Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 127,
+      "original": "Pinsir",
+      "mogmon": "Panda Octo",
+      "formula": "DJ Panda + solo Pinsir",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Panda Octo: A savage DJ Panda offshoot with the panda face and club energy shoved into huge beetle horns and a wrestler frame. Keep Pinsir's dominant silhouette, body plan, and evolution-stage readability. It should still read as Pinsir first while clearly belonging to the DJ Panda family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 128,
+      "original": "Tauros",
+      "mogmon": "Goat Camelo",
+      "formula": "GOAT + solo Tauros",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Goat Camelo: A charging goat athlete that keeps the green pupils, yellowish hair, green-and-red uniform, tennis shoes, and basketball-star swagger on a powerful bull body. Keep Tauros's dominant silhouette, body plan, and evolution-stage readability. It should still read as Tauros first while clearly belonging to the GOAT family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 129,
+      "original": "Magikarp",
+      "mogmon": "Floppaccino",
+      "formula": "Floppy Useless Fish + Cappuccino Cup + Foam",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Floppaccino: a pathetic flopping fish whose body is coffee-brown like a cappuccino. Its scales form a latte-art pattern. It flops around splashing coffee foam everywhere. Has a tiny paper coffee cup sleeve around its midsection. Crown/whiskers are made of foam. Utterly useless but caffeinated. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 130,
+      "original": "Gyarados",
+      "mogmon": "Gyaradoni",
+      "formula": "Giant Sea Serpent + Pepperoni + Pasta Rage",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Gyaradoni: a massive raging sea serpent with pepperoni-patterned scales (red circles on cream). Its whiskers are long strands of spaghetti. Mouth roars with marinara sauce dripping from fangs. Crown fins look like basil leaves. Terrifyingly Italian. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 131,
+      "original": "Lapras",
+      "mogmon": "Lapragnia",
+      "formula": "Gentle Plesiosaur + Lasagna layers + Warm comfort food vibes",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Lapragnia: a gentle plesiosaur whose shell/back is layered like a lasagna — visible pasta sheets, ricotta, meat sauce layers. Body is warm golden-brown like baked cheese. Horn is a breadstick. Eyes are warm and kind. Swims through tomato-red seas. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 132,
+      "original": "Ditto",
+      "mogmon": "Pipi Tung",
+      "formula": "Pipi Avocado + solo Ditto",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Tung: A melted Pipi Avocado blob that keeps the capybara smile and avocado body read even while shapeless. Keep Ditto's dominant silhouette, body plan, and evolution-stage readability. It should still read as Ditto first while clearly belonging to the Pipi Avocado family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 133,
+      "original": "Eevee",
+      "mogmon": "Footera",
+      "formula": "Gangster Footera + base Eevee",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Footera: The base stage of the Footera family, a compact fox-street creature built around one oversized sneaker-foot, a rounded body, a dark hood-like ruff, yellow trim, a blocky cap hint, and sly narrow eyes. Keep Eevee's dominant silhouette, body plan, and evolution-stage readability. It should still read as Eevee first while clearly belonging to the Footera family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 134,
+      "original": "Vaporeon",
+      "mogmon": "Water Footera",
+      "formula": "Gangster Footera + branch-final Vaporeon",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Water Footera: The water branch of the Footera family, a sleek aquatic sneaker-beast that keeps the huge foot, hooded street-creature identity, sly eyes, and cap silhouette while stretching into fins, wave-curved laces, and a cool dark-blue swimmer body. Keep Vaporeon's dominant silhouette, body plan, and evolution-stage readability. It should still read as Vaporeon first while clearly belonging to the Footera family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 135,
+      "original": "Jolteon",
+      "mogmon": "Electric Footera",
+      "formula": "Gangster Footera + branch-final Jolteon",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Electric Footera: The electric branch of the Footera family, a sharp charged sneaker-beast that keeps the hood, cap, slit eyes, and giant foot, but crackles with yellow sparks, wired laces, and a tense high-voltage street-runner posture. Keep Jolteon's dominant silhouette, body plan, and evolution-stage readability. It should still read as Jolteon first while clearly belonging to the Footera family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 136,
+      "original": "Flareon",
+      "mogmon": "Fire Footera",
+      "formula": "Gangster Footera + branch-final Flareon",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Fire Footera: The fire branch of the Footera family, a hot-blooded sneaker-beast that keeps the hood, cap, sly eyes, and giant foot while swelling into ember fur, heated trim, and a swaggering flame-lined body. Keep Flareon's dominant silhouette, body plan, and evolution-stage readability. It should still read as Flareon first while clearly belonging to the Footera family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 137,
+      "original": "Porygon",
+      "mogmon": "Techi Camelo",
+      "formula": "Frigo Camelo + solo Porygon",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Techi Camelo: A digital Frigo Camelo with a simplified camel-fridge head and clean geometric appliance body. Keep Porygon's dominant silhouette, body plan, and evolution-stage readability. It should still read as Porygon first while clearly belonging to the Frigo Camelo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 138,
+      "original": "Omanyte",
+      "mogmon": "Sahur Aquana",
+      "formula": "Ho Ho Ho Sahur + base Omanyte",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Sahur Aquana: A small shelled fossil built from the Santa pole-man idea, packing the neutral face, a little white beard, and cane posture into a curled aquatic shell with very little ornament yet. Keep Omanyte's dominant silhouette, body plan, and evolution-stage readability. It should still read as Omanyte first while clearly belonging to the Ho Ho Ho Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 139,
+      "original": "Omastar",
+      "mogmon": "Sahur Aquana Max",
+      "formula": "Ho Ho Ho Sahur + final Omastar",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Sahur Aquana Max: A larger fossil knight that keeps the neutral face, closed mouth, full white beard, and pole-with-cane posture while the shell opens into a spiked armored crown. Keep Omastar's dominant silhouette, body plan, and evolution-stage readability. It should still read as Omastar first while clearly belonging to the Ho Ho Ho Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 140,
+      "original": "Kabuto",
+      "mogmon": "Octo Drago",
+      "formula": "Blueberrinni Octopusini + base Kabuto",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Octo Drago: A shelled Blueberrinni with the berry crown and bright eyes compressed into a tiny prehistoric dome with no long cutting limbs yet. Keep Kabuto's dominant silhouette, body plan, and evolution-stage readability. It should still read as Kabuto first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 141,
+      "original": "Kabutops",
+      "mogmon": "Octo Drago Prime",
+      "formula": "Blueberrinni Octopusini + final Kabutops",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Octo Drago Prime: A blade-armed Blueberrinni that keeps the berry head while the tentacles harden into ancient scythes and the body opens into a full prehistoric hunter. Keep Kabutops's dominant silhouette, body plan, and evolution-stage readability. It should still read as Kabutops first while clearly belonging to the Blueberrinni Octopusini family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 142,
+      "original": "Aerodactyl",
+      "mogmon": "Croco Techi",
+      "formula": "Los Crocodillitos + solo Aerodactyl",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Croco Techi: A flying Crocodillitos terror with the croc snout, toothy grin, and a lean prehistoric jet frame. Keep Aerodactyl's dominant silhouette, body plan, and evolution-stage readability. It should still read as Aerodactyl first while clearly belonging to the Los Crocodillitos family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 143,
+      "original": "Snorlax",
+      "mogmon": "Snorrelaxo",
+      "formula": "Sleeping Giant + Italian Siesta + Pasta Food Coma + Belly full of Carbs",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Snorrelaxo: an enormous sleeping creature with a belly shaped like a giant meatball. Wears a tiny Italian chef hat askew. Spaghetti strands hang from its mouth as it snores. Belly has a tomato-sauce stain pattern. Surrounded by scattered pasta bowls. Maximum relaxation energy. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 144,
+      "original": "Articuno",
+      "mogmon": "Frigo Cosmi",
+      "formula": "Elefanto Frigo + solo Articuno",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Frigo Cosmi: A sacred Elefanto Frigo bird with the elephant-fridge face translated into elegant icy wings and a regal cold core. Keep Articuno's dominant silhouette, body plan, and evolution-stage readability. It should still read as Articuno first while clearly belonging to the Elefanto Frigo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 145,
+      "original": "Zapdos",
+      "mogmon": "Brr Pegasi",
+      "formula": "Brr Brr Patapim + solo Zapdos",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Brr Pegasi: A storm-god form of the long-nosed proboscis monkey, with streaming grey hair, leafy robe cues, and a winged lightning body. Keep Zapdos's dominant silhouette, body plan, and evolution-stage readability. It should still read as Zapdos first while clearly belonging to the Brr Brr Patapim family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 146,
+      "original": "Moltres",
+      "mogmon": "Rizz Bomba",
+      "formula": "Bombardini Tortinii + solo Moltres",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Rizz Bomba: A fiery Bombardini with the tortilla face mounted on a blazing warplane-bird silhouette, trailing smoke and heat. Keep Moltres's dominant silhouette, body plan, and evolution-stage readability. It should still read as Moltres first while clearly belonging to the Bombardini Tortinii family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 147,
+      "original": "Dratini",
+      "mogmon": "Sahur Drago",
+      "formula": "Ho Ho Ho Sahur + base Dratini",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Sahur Drago: A tiny dragon version of the Santa pole-man, with a simple pole-like body, plain face, closed mouth, and only the first trace of white beard and red suit trim. Keep Dratini's dominant silhouette, body plan, and evolution-stage readability. It should still read as Dratini first while clearly belonging to the Ho Ho Ho Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 148,
+      "original": "Dragonair",
+      "mogmon": "Sahur Drago Plus",
+      "formula": "Ho Ho Ho Sahur + mid Dragonair",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Sahur Drago Plus: A sleeker dragon that keeps the neutral face, closed mouth, white beard, and cane-like pole rhythm while growing more elegant and serpentine. Keep Dragonair's dominant silhouette, body plan, and evolution-stage readability. It should still read as Dragonair first while clearly belonging to the Ho Ho Ho Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 149,
+      "original": "Dragonite",
+      "mogmon": "Sahur Drago Boss",
+      "formula": "Ho Ho Ho Sahur + final Dragonite",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Sahur Drago Boss: A full dragon champion built from the Santa pole-man, with the plain face, closed mouth, white wiggly beard, cane-body cues, and heroic red-coated mass. Keep Dragonite's dominant silhouette, body plan, and evolution-stage readability. It should still read as Dragonite first while clearly belonging to the Ho Ho Ho Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 150,
+      "original": "Mewtwo",
+      "mogmon": "Mewtwissimo",
+      "formula": "Psychic Alien Cat + The Ultimate Italian Superlative + Gold Chains + Drip",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Mewtwissimo: a powerful psychic humanoid feline wearing gold Italian horn chains. Its tail tube is now a glowing espresso portafilter. Body is purple-white with a golden aura. Eyes glow with the intensity of a thousand espressos. The most powerful, most Italian, most extra being in existence. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 151,
+      "original": "Mew",
+      "mogmon": "Mozzarellmew",
+      "formula": "Tiny Floating Pink Cat + Fresh Mozzarella Ball + Stretchy Cheese",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Mozzarellmew: a tiny floating cat-like creature whose body is white and round like a fresh mozzarella ball. When it moves, its body stretches like mozzarella cheese. Tail is a thin cheese string. Has a pink blush and innocent eyes. Floats in a small pool of olive oil. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 152,
+      "original": "Chikorita",
+      "mogmon": "Chicoritooni",
+      "formula": "Leaf Dinosaur + Rigatoni Pasta tube body + Basil leaf",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Chicoritooni: a small green dinosaur whose body has the ridged texture of rigatoni pasta. The leaf on its head is a large fresh basil leaf. Body is pale pasta-yellow with green tinge. Cute necklace of tiny peppercorns. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 153,
+      "original": "Bayleef",
+      "mogmon": "Arachnid Family",
+      "formula": "Arachnid Family + Bayleef",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Arachnid Family, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Arachnid Family first, then adapt that identity so it still reads clearly inside Bayleef's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 154,
+      "original": "Meganium",
+      "mogmon": "Arcadopus",
+      "formula": "Arcadopus + Meganium",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Arcadopus, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Arcadopus first, then adapt that identity so it still reads clearly inside Meganium's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 155,
+      "original": "Cyndaquil",
+      "mogmon": "Cyndaqwilli",
+      "formula": "Fire Echidna + Chili Pepper flames + Spicy",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cyndaqwilli: a small echidna-like creature whose back flames are bright red chili peppers instead of fire. Body is warm red-orange. Its snout is shaped like a chili pepper tip. Eyes squint from the spiciness. Tiny sweat drops visible. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 156,
+      "original": "Quilava",
+      "mogmon": "Astrolero Cervalero",
+      "formula": "Astrolero Cervalero + Quilava",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Astrolero Cervalero, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Astrolero Cervalero first, then adapt that identity so it still reads clearly inside Quilava's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 157,
+      "original": "Typhlosion",
+      "mogmon": "Avocadini Antilopini",
+      "formula": "Avocadini Antilopini + Typhlosion",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Avocadini Antilopini, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Avocadini Antilopini first, then adapt that identity so it still reads clearly inside Typhlosion's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 158,
+      "original": "Totodile",
+      "mogmon": "Totodilli",
+      "formula": "Baby Crocodile + Dill Herb + Pickle Vibes",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Totodilli: a small energetic crocodile covered in dill frond patterns. Its back spikes are sprigs of fresh dill. Body is pickle-green. Jaw is wide open showing pickle-slice shaped teeth. Smells herbaceous. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 159,
+      "original": "Croconaw",
+      "mogmon": "Avocadorilla",
+      "formula": "Avocadorilla + Croconaw",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Avocadorilla, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Avocadorilla first, then adapt that identity so it still reads clearly inside Croconaw's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 160,
+      "original": "Feraligatr",
+      "mogmon": "Bambu Bambu Sahur",
+      "formula": "Bambu Bambu Sahur + Feraligatr",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bambu Bambu Sahur, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Bambu Bambu Sahur first, then adapt that identity so it still reads clearly inside Feraligatr's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 161,
+      "original": "Sentret",
+      "mogmon": "Bandito Axolito",
+      "formula": "Bandito Axolito + Sentret",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bandito Axolito, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Bandito Axolito first, then adapt that identity so it still reads clearly inside Sentret's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 162,
+      "original": "Furret",
+      "mogmon": "Bandito Bobritto",
+      "formula": "Bandito Bobritto + Furret",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bandito Bobritto, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Bandito Bobritto first, then adapt that identity so it still reads clearly inside Furret's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 163,
+      "original": "Hoothoot",
+      "mogmon": "Bombardino Piccolino",
+      "formula": "Tiny bomber plane + base Hoothoot",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bombardino Piccolino: The base stage of the Bombardino family, and it should read as an obvious baby Bombardiro. Give it a tiny rounded bomber fuselage, a short crocodile snout already fused into the nose, small tooth hints, little predatory eyes, stub wings, and a compact early silhouette that still has room to branch into goose, crocodile, or hippo bomber finals later. Keep Hoothoot's dominant silhouette, body plan, and evolution-stage readability. It should still read as Hoothoot first while clearly belonging to the Bombardino family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 164,
+      "original": "Noctowl",
+      "mogmon": "Bombardiro Crocodilo",
+      "formula": "Bombardiro Crocodilo + branch-final Noctowl",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bombardiro Crocodilo: The crocodile branch of the Bombardino family. Preserve the recognizable crocodile head, bomber-plane fuselage, destructive wings, and airborne predator identity of Bombardiro Crocodilo first, then adapt that identity so it still reads clearly inside Noctowl's sprite silhouette, proportions, and battle pose language. It should still read as Noctowl first while clearly belonging to the Bombardino family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 165,
+      "original": "Ledyba",
+      "mogmon": "Brr es Teh Patipum",
+      "formula": "Brr es Teh Patipum + Ledyba",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Brr es Teh Patipum, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Brr es Teh Patipum first, then adapt that identity so it still reads clearly inside Ledyba's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 166,
+      "original": "Ledian",
+      "mogmon": "Brri Brri Bicus Dicus Bombicus",
+      "formula": "Brri Brri Bicus Dicus Bombicus + Ledian",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Brri Brri Bicus Dicus Bombicus, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Brri Brri Bicus Dicus Bombicus first, then adapt that identity so it still reads clearly inside Ledian's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 167,
+      "original": "Spinarak",
+      "mogmon": "Buho de Fuego",
+      "formula": "Buho de Fuego + Spinarak",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Buho de Fuego, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Buho de Fuego first, then adapt that identity so it still reads clearly inside Spinarak's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 168,
+      "original": "Ariados",
+      "mogmon": "Buho de Noelo",
+      "formula": "Buho de Noelo + Ariados",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Buho de Noelo, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Buho de Noelo first, then adapt that identity so it still reads clearly inside Ariados's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 169,
+      "original": "Crobat",
+      "mogmon": "Bunny Tralala",
+      "formula": "Bunny Tralala + Crobat",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bunny Tralala, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Bunny Tralala first, then adapt that identity so it still reads clearly inside Crobat's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 170,
+      "original": "Chinchou",
+      "mogmon": "Capi Taco",
+      "formula": "Capi Taco + Chinchou",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Capi Taco, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Capi Taco first, then adapt that identity so it still reads clearly inside Chinchou's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 171,
+      "original": "Lanturn",
+      "mogmon": "Cappuccino Assassino",
+      "formula": "Cappuccino Assassino + mid Lanturn",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cappuccino Assassino: The middle stage of the Assassino coffee family. Preserve the iconic angry cappuccino-cup head, twin katana arms, shinobi forehead protector, running legs, and moonlit alley-killer silhouette first. Keep Lanturn's dominant silhouette, body plan, and evolution-stage readability. It should still read as Lanturn first while clearly bridging Cocoa Assassino to the later specialist finals Matchaino Assassino and Frappocino Assassino. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 172,
+      "original": "Pichu",
+      "mogmon": "Cappuccino Clownino",
+      "formula": "Cappuccino Clownino + Pichu",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cappuccino Clownino, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Cappuccino Clownino first, then adapt that identity so it still reads clearly inside Pichu's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 173,
+      "original": "Cleffa",
+      "mogmon": "Chicleteira Bicicleteira",
+      "formula": "Chicleteira Bicicleteira + Cleffa",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Chicleteira Bicicleteira, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Chicleteira Bicicleteira first, then adapt that identity so it still reads clearly inside Cleffa's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 174,
+      "original": "Igglybuff",
+      "mogmon": "Chicleteirina Bicicleteirina",
+      "formula": "Chicleteirina Bicicleteirina + Igglybuff",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Chicleteirina Bicicleteirina, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Chicleteirina Bicicleteirina first, then adapt that identity so it still reads clearly inside Igglybuff's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 175,
+      "original": "Togepi",
+      "mogmon": "Chimpanzini Spiderini",
+      "formula": "Chimpanzini Spiderini + Togepi",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Chimpanzini Spiderini, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Chimpanzini Spiderini first, then adapt that identity so it still reads clearly inside Togepi's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 176,
+      "original": "Togetic",
+      "mogmon": "Chocco Bunny",
+      "formula": "Chocco Bunny + Togetic",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Chocco Bunny, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Chocco Bunny first, then adapt that identity so it still reads clearly inside Togetic's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 177,
+      "original": "Natu",
+      "mogmon": "Cocoa Assassino",
+      "formula": "Cocoa Assassino + base Natu",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Cocoa Assassino: The base stage of the Assassino coffee family. Preserve the cute cocoa-bean body, small face, tiny legs, and marshmallow-stick weapons first, but keep it visibly simpler, softer, and less armed than Cappuccino Assassino and the later branch finales. Keep Natu's dominant silhouette, body plan, and evolution-stage readability. It should still read as Natu first while clearly opening the Assassino family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 178,
+      "original": "Xatu",
+      "mogmon": "Coffin Tung Tung Tung Sahur",
+      "formula": "Coffin Tung Tung Tung Sahur + Xatu",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Coffin Tung Tung Tung Sahur, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Coffin Tung Tung Tung Sahur first, then adapt that identity so it still reads clearly inside Xatu's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 179,
+      "original": "Mareep",
+      "mogmon": "Dolphini Jetskini",
+      "formula": "Dolphini Jetskini + Mareep",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Dolphini Jetskini, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Dolphini Jetskini first, then adapt that identity so it still reads clearly inside Mareep's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 180,
+      "original": "Flaaffy",
+      "mogmon": "Dragon Cannelloni",
+      "formula": "Dragon Cannelloni + Flaaffy",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Dragon Cannelloni, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Dragon Cannelloni first, then adapt that identity so it still reads clearly inside Flaaffy's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 181,
+      "original": "Ampharos",
+      "mogmon": "Dragon Gingerini",
+      "formula": "Dragon Gingerini + Ampharos",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Dragon Gingerini, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Dragon Gingerini first, then adapt that identity so it still reads clearly inside Ampharos's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 182,
+      "original": "Bellossom",
+      "mogmon": "Fishboard",
+      "formula": "Fishboard + Bellossom",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Fishboard, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Fishboard first, then adapt that identity so it still reads clearly inside Bellossom's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 183,
+      "original": "Marill",
+      "mogmon": "Fishino Clownino",
+      "formula": "Fishino Clownino + Marill",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Fishino Clownino, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Fishino Clownino first, then adapt that identity so it still reads clearly inside Marill's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 184,
+      "original": "Azumarill",
+      "mogmon": "Granchiello Spiritell",
+      "formula": "Granchiello Spiritell + Azumarill",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Granchiello Spiritell, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Granchiello Spiritell first, then adapt that identity so it still reads clearly inside Azumarill's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 185,
+      "original": "Sudowoodo",
+      "mogmon": "Ice Dragon",
+      "formula": "Ice Dragon + Sudowoodo",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Ice Dragon, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Ice Dragon first, then adapt that identity so it still reads clearly inside Sudowoodo's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 186,
+      "original": "Politoed",
+      "mogmon": "La Taco Combinasion",
+      "formula": "La Taco Combinasion + Politoed",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is La Taco Combinasion, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of La Taco Combinasion first, then adapt that identity so it still reads clearly inside Politoed's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 187,
+      "original": "Hoppip",
+      "mogmon": "Lavadorito Spinito",
+      "formula": "Lavadorito Spinito + Hoppip",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Lavadorito Spinito, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Lavadorito Spinito first, then adapt that identity so it still reads clearly inside Hoppip's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 188,
+      "original": "Skiploom",
+      "mogmon": "Mastodontico Telepiedone",
+      "formula": "Mastodontico Telepiedone + Skiploom",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Mastodontico Telepiedone, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Mastodontico Telepiedone first, then adapt that identity so it still reads clearly inside Skiploom's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 189,
+      "original": "Jumpluff",
+      "mogmon": "Meowl",
+      "formula": "Meowl + Jumpluff",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Meowl, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Meowl first, then adapt that identity so it still reads clearly inside Jumpluff's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 190,
+      "original": "Aipom",
+      "mogmon": "Pipi Kiwi",
+      "formula": "Pipi Kiwi + Aipom",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Kiwi, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Pipi Kiwi first, then adapt that identity so it still reads clearly inside Aipom's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 191,
+      "original": "Sunkern",
+      "mogmon": "Quesadilla Crocodila",
+      "formula": "Quesadilla Crocodila + Sunkern",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Quesadilla Crocodila, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Quesadilla Crocodila first, then adapt that identity so it still reads clearly inside Sunkern's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 192,
+      "original": "Sunflora",
+      "mogmon": "Svinina Bombardino",
+      "formula": "Svinina Bombardino + Sunflora",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Svinina Bombardino, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Svinina Bombardino first, then adapt that identity so it still reads clearly inside Sunflora's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 193,
+      "original": "Yanma",
+      "mogmon": "Te Te Te Sahur",
+      "formula": "Te Te Te Sahur + Yanma",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Te Te Te Sahur, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Te Te Te Sahur first, then adapt that identity so it still reads clearly inside Yanma's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 194,
+      "original": "Wooper",
+      "mogmon": "Ti Ti Ti Sahur",
+      "formula": "Ti Ti Ti Sahur + Wooper",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Ti Ti Ti Sahur, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Ti Ti Ti Sahur first, then adapt that identity so it still reads clearly inside Wooper's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 195,
+      "original": "Quagsire",
+      "mogmon": "Tralalita Tralala",
+      "formula": "Tralalita Tralala + Quagsire",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Tralalita Tralala, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Tralalita Tralala first, then adapt that identity so it still reads clearly inside Quagsire's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 196,
+      "original": "Espeon",
+      "mogmon": "Urubini Flamenguini",
+      "formula": "Urubini Flamenguini + Espeon",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Urubini Flamenguini, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable face, silhouette, props, costume, and creature logic of Urubini Flamenguini first, then adapt that identity so it still reads clearly inside Espeon's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic Pokemon monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 197,
+      "original": "Umbreon",
+      "mogmon": "Gangster Footera",
+      "formula": "Gangster Footera + branch-final Umbreon",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Gangster Footera: The dark mythic branch of the Footera family. Preserve the iconic Gangster Footera identity first: the hooded street-creature body, giant sneaker-foot, dark blue jacket, yellow trim, blocky grey cap, and narrow slit eyes. Keep Umbreon's dominant silhouette, body plan, and evolution-stage readability. It should still read as Umbreon first while clearly belonging to the Footera family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 237,
+      "original": "Hitmontop",
+      "mogmon": "Bombardino Hippopito",
+      "formula": "Bombardino Hippopito + branch-final Hitmontop",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Bombardino Hippopito: The hippo branch of the Bombardino family. Preserve the recognizable heavy hippo head, bomber-plane body, thick flying mass, and sky-tank menace of Bombardino Hippopito first, then adapt that identity so it still reads clearly inside Hitmontop's sprite silhouette, proportions, and battle pose language. It should still read as Hitmontop first while clearly belonging to the Bombardino family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 424,
+      "original": "Ambipom",
+      "mogmon": "Pipi Kiwi Maximo",
+      "formula": "Pipi Kiwi Maximo + final Ambipom",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Pipi Kiwi Maximo: The final stage of the Aipom line: Pipi Kiwi Maximo as a larger, more complete kiwi-primate payoff with the same core face and fruit logic as Pipi Kiwi, but upgraded with twin tail-hands, a broader silhouette, and a clearly evolved performer attitude. Keep Ambipom's dominant silhouette, body plan, and evolution-stage readability. It should still read as Ambipom first while clearly belonging to the Pipi Kiwi Maximo family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 438,
+      "original": "Bonsly",
+      "mogmon": "Gelato Pebblino",
+      "formula": "Gelato Pebblino + base Bonsly",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Gelato Pebblino: The base stage of the Sudowoodo line: Gelato Pebblino as a tiny frozen stone-creature with a rounded pebble body, little frost stubs, and only the first hint of the colder draconic shape that will later become Ice Dragon. Keep Bonsly's dominant silhouette, body plan, and evolution-stage readability. It should still read as Bonsly first while clearly belonging to the Gelato Pebblino family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 469,
+      "original": "Yanmega",
+      "mogmon": "Te Te Te Sahur",
+      "formula": "Te Te Te Sahur + final Yanmega",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Te Te Te Sahur: The final stage of the Yanma line. Keep the exact recognizable Te Te Te Sahur identity from the OG reference and let it read as the fully evolved triple-beat payoff rather than a standalone species. Keep Yanmega's dominant silhouette, body plan, and evolution-stage readability. It should still read as Yanmega first while clearly belonging to the Te Te Te Sahur family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 470,
+      "original": "Leafeon",
+      "mogmon": "Grass Footera",
+      "formula": "Gangster Footera + branch-final Leafeon",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Grass Footera: The grass branch of the Footera family, a leaf-rich sneaker-beast that keeps the giant foot, hooded street-creature body, sly eyes, and cap silhouette while growing vine laces, mossy trim, and fast hedge-runner frills. Keep Leafeon's dominant silhouette, body plan, and evolution-stage readability. It should still read as Leafeon first while clearly belonging to the Footera family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background."
+    },
+    {
+      "dex": 475,
+      "original": "Gallade",
+      "mogmon": "Ballerino Lololo",
+      "formula": "Ballerino Lololo + solo Gallade",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Ballerino Lololo, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable muscular frapp\u00e9 body, human arms and legs, ballet-dancer grace, shaker-in-hand silhouette, and theatrical airborne stage presence of Ballerino Lololo first, then adapt that identity so it still reads clearly inside Gallade's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic fighter. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 478,
+      "original": "Froslass",
+      "mogmon": "Frappocino Assassino",
+      "formula": "Frappocino Assassino + branch-final Froslass",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Frappocino Assassino: A frozen branch-final of the Assassino coffee family. Preserve the recognizable frappuccino-assassin identity first, with the cold drink body, stealthy night-killer vibe, and sharper frost-ninja finish than Cappuccino Assassino. Keep Froslass's dominant silhouette, body plan, and evolution-stage readability. It should still read as Froslass first while clearly belonging to the Assassino family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 512,
+      "original": "Simisage",
+      "mogmon": "Matchaino Assassino",
+      "formula": "Matchaino Assassino + branch-final Simisage",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Matchaino Assassino: A disciplined branch-final of the Assassino coffee family. Preserve the recognizable matcha-green assassin spirit, dual Japanese katanas, moonlit-alley menace, and calm samurai posture first, then adapt that identity so it still reads clearly inside Simisage's sprite silhouette, proportions, and battle pose language. It should still read as Simisage first while clearly belonging to the Assassino family. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    },
+    {
+      "dex": 571,
+      "original": "Zoroark",
+      "mogmon": "Espressona Signora",
+      "formula": "Espressona Signora + solo Zoroark",
+      "prompt": "Redesign this pixel-art sprite sheet. The creature is Espressona Signora, kept as the original OG brainrot rather than a derived family member. Preserve the recognizable coffee-mug head, all-black dress, cigarette, seductive posture, darker cartoony style, and rival-to-Ballerina identity of Espressona Signora first, then adapt that identity so it still reads clearly inside Zoroark's sprite silhouette, proportions, and battle pose language. The Pokemon body plan is only a supporting scaffold; do not replace the brainrot with a generic dark fox monster. Keep the exact same sprite sheet grid layout, frame count, animation poses, pixel art style, and transparent background. Do not render any written text, signage, labels, or watermark in the sprite sheet."
+    }
+  ]
+}

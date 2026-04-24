@@ -15,8 +15,9 @@ import {
   POKERUS_STARTER_COUNT,
   speciesStarterCosts,
 } from "#balance/starters";
+import { GENERATED_STARTER_SPECIES_SET } from "#constants/generated-starter-species";
 import { allAbilities, allMoves, allSpecies } from "#data/data-lists";
-import { Egg, getEggTierForSpecies } from "#data/egg";
+import { Egg } from "#data/egg";
 import { GrowthRate, getGrowthRateColor } from "#data/exp";
 import { Gender, getGenderColor, getGenderSymbol } from "#data/gender";
 import { getNatureName } from "#data/nature";
@@ -36,13 +37,12 @@ import type { MoveId } from "#enums/move-id";
 import type { Nature } from "#enums/nature";
 import { Passive as PassiveAttr } from "#enums/passive";
 import { PokemonType } from "#enums/pokemon-type";
-import { SpeciesId } from "#enums/species-id";
+import type { SpeciesId } from "#enums/species-id";
 import { TextStyle } from "#enums/text-style";
 import { UiMode } from "#enums/ui-mode";
 import { UiTheme } from "#enums/ui-theme";
 import type { CandyUpgradeNotificationChangedEvent } from "#events/battle-scene";
 import { BattleSceneEventType } from "#events/battle-scene";
-import { GENERATED_STARTER_SPECIES_SET } from "#constants/generated-starter-species";
 import type { Variant } from "#sprites/variant";
 import { getVariantIcon, getVariantTint } from "#sprites/variant";
 import { achvs } from "#system/achv";
@@ -647,7 +647,7 @@ export class StarterSelectUiHandler extends MessageUiHandler {
       8,
       106,
       i18next.t("starterSelectUiHandler:growthRate"),
-      TextStyle.SUMMARY_ALT,
+      TextStyle.SUMMARY,
       { fontSize: "36px" },
     )
       .setOrigin(0)
@@ -659,13 +659,9 @@ export class StarterSelectUiHandler extends MessageUiHandler {
 
     this.pokemonGenderText = addTextObject(96, 112, "", TextStyle.SUMMARY_ALT).setOrigin(0);
 
-    this.pokemonUncaughtText = addTextObject(
-      6,
-      127,
-      i18next.t("starterSelectUiHandler:uncaught"),
-      TextStyle.SUMMARY_ALT,
-      { fontSize: "56px" },
-    ).setOrigin(0);
+    this.pokemonUncaughtText = addTextObject(6, 127, i18next.t("starterSelectUiHandler:uncaught"), TextStyle.SUMMARY, {
+      fontSize: "56px",
+    }).setOrigin(0);
 
     // The position should be set per language
     const starterInfoXPos = textSettings?.starterInfoXPos || 31;
@@ -678,13 +674,13 @@ export class StarterSelectUiHandler extends MessageUiHandler {
       6,
       127 + starterInfoYOffset,
       i18next.t("starterSelectUiHandler:ability"),
-      TextStyle.SUMMARY_ALT,
+      TextStyle.SUMMARY,
       { fontSize: starterInfoTextSize },
     )
       .setOrigin(0)
       .setVisible(false);
 
-    this.pokemonAbilityText = addTextObject(starterInfoXPos, 127 + starterInfoYOffset, "", TextStyle.SUMMARY_ALT, {
+    this.pokemonAbilityText = addTextObject(starterInfoXPos, 127 + starterInfoYOffset, "", TextStyle.SUMMARY, {
       fontSize: starterInfoTextSize,
     })
       .setOrigin(0)
@@ -694,13 +690,13 @@ export class StarterSelectUiHandler extends MessageUiHandler {
       6,
       136 + starterInfoYOffset,
       i18next.t("starterSelectUiHandler:passive"),
-      TextStyle.SUMMARY_ALT,
+      TextStyle.SUMMARY,
       { fontSize: starterInfoTextSize },
     )
       .setOrigin(0)
       .setVisible(false);
 
-    this.pokemonPassiveText = addTextObject(starterInfoXPos, 136 + starterInfoYOffset, "", TextStyle.SUMMARY_ALT, {
+    this.pokemonPassiveText = addTextObject(starterInfoXPos, 136 + starterInfoYOffset, "", TextStyle.SUMMARY, {
       fontSize: starterInfoTextSize,
     })
       .setOrigin(0)
@@ -722,13 +718,13 @@ export class StarterSelectUiHandler extends MessageUiHandler {
       6,
       145 + starterInfoYOffset,
       i18next.t("starterSelectUiHandler:nature"),
-      TextStyle.SUMMARY_ALT,
+      TextStyle.SUMMARY,
       { fontSize: starterInfoTextSize },
     )
       .setOrigin(0)
       .setVisible(false);
 
-    this.pokemonNatureText = addBBCodeTextObject(starterInfoXPos, 145 + starterInfoYOffset, "", TextStyle.SUMMARY_ALT, {
+    this.pokemonNatureText = addBBCodeTextObject(starterInfoXPos, 145 + starterInfoYOffset, "", TextStyle.SUMMARY, {
       fontSize: starterInfoTextSize,
     }).setOrigin(0);
 
@@ -838,7 +834,7 @@ export class StarterSelectUiHandler extends MessageUiHandler {
 
     this.type2Icon = globalScene.add.sprite(26, 98, getLocalizedSpriteKey("types")).setScale(0.5).setOrigin(0);
 
-    this.pokemonLuckLabelText = addTextObject(8, 89, i18next.t("common:luckIndicator"), TextStyle.WINDOW_ALT, {
+    this.pokemonLuckLabelText = addTextObject(8, 89, i18next.t("common:luckIndicator"), TextStyle.SUMMARY, {
       fontSize: "56px",
     }).setOrigin(0);
 
@@ -863,7 +859,7 @@ export class StarterSelectUiHandler extends MessageUiHandler {
       .setTint(0x000000)
       .setAlpha(0.5);
 
-    this.pokemonCandyCountText = addTextObject(9.5, 0, "x0", TextStyle.WINDOW_ALT, { fontSize: "56px" }).setOrigin(0);
+    this.pokemonCandyCountText = addTextObject(9.5, 0, "x0", TextStyle.SUMMARY, { fontSize: "56px" }).setOrigin(0);
     this.pokemonCandyContainer.add([
       this.pokemonCandyIcon,
       this.pokemonCandyOverlayIcon,
@@ -871,18 +867,18 @@ export class StarterSelectUiHandler extends MessageUiHandler {
       this.pokemonCandyCountText,
     ]);
 
-    this.pokemonFormText = addTextObject(6, 42, "Form", TextStyle.WINDOW_ALT, {
+    this.pokemonFormText = addTextObject(6, 42, "Form", TextStyle.SUMMARY, {
       fontSize: "42px",
     }).setOrigin(0);
 
     this.pokemonCaughtHatchedContainer = globalScene.add.container(2, 25).setScale(0.5);
 
-    const pokemonCaughtIcon = globalScene.add.sprite(1, 0, "items", "pb").setOrigin(0).setScale(0.75);
+    const pokemonCaughtIcon = globalScene.add.sprite(1, 0, "pb", "pb").setOrigin(0).setScale(2);
 
-    this.pokemonCaughtCountText = addTextObject(24, 4, "0", TextStyle.SUMMARY_ALT).setOrigin(0);
-    this.pokemonHatchedIcon = globalScene.add.sprite(1, 14, "egg_icons").setOrigin(0.15, 0.2).setScale(0.8);
+    this.pokemonCaughtCountText = addTextObject(24, 4, "0", TextStyle.SUMMARY).setOrigin(0);
+    this.pokemonHatchedIcon = globalScene.add.sprite(1, 14, "pb", "pb_open").setOrigin(0).setScale(2);
     this.pokemonShinyIcon = globalScene.add.sprite(14, 76, "shiny_icons").setOrigin(0.15, 0.2).setScale(1);
-    this.pokemonHatchedCountText = addTextObject(24, 19, "0", TextStyle.SUMMARY_ALT).setOrigin(0);
+    this.pokemonHatchedCountText = addTextObject(24, 19, "0", TextStyle.SUMMARY).setOrigin(0);
     this.pokemonMovesContainer = globalScene.add.container(102, 16).setScale(0.375);
     this.pokemonCaughtHatchedContainer.add([
       pokemonCaughtIcon,
@@ -925,7 +921,7 @@ export class StarterSelectUiHandler extends MessageUiHandler {
       -46,
       0,
       i18next.t("starterSelectUiHandler:eggMoves"),
-      TextStyle.WINDOW_ALT,
+      TextStyle.SUMMARY,
     ).setOrigin(0.5, 0);
 
     this.pokemonEggMovesContainer.add(this.eggMovesLabel);
@@ -3631,11 +3627,7 @@ export class StarterSelectUiHandler extends MessageUiHandler {
         this.pokemonPassiveLabelText.setVisible(true);
         this.pokemonNatureLabelText.setVisible(true);
         this.pokemonCaughtCountText.setText(`${this.speciesStarterDexEntry.caughtCount}`);
-        if (species.speciesId === SpeciesId.MANAPHY || species.speciesId === SpeciesId.PHIONE) {
-          this.pokemonHatchedIcon.setFrame("manaphy");
-        } else {
-          this.pokemonHatchedIcon.setFrame(getEggTierForSpecies(species));
-        }
+        this.pokemonHatchedIcon.setFrame("pb_open");
         this.pokemonHatchedCountText.setText(`${this.speciesStarterDexEntry.hatchedCount}`);
 
         const defaultDexAttr = this.getCurrentDexProps(species.speciesId);
@@ -4075,8 +4067,8 @@ export class StarterSelectUiHandler extends MessageUiHandler {
         const isHidden = abilityIndex === (this.lastSpecies.ability2 ? 2 : 1);
         this.pokemonAbilityText
           .setText(ability.name)
-          .setColor(getTextColor(isHidden ? TextStyle.SUMMARY_GOLD : TextStyle.SUMMARY_ALT))
-          .setShadowColor(getTextColor(isHidden ? TextStyle.SUMMARY_GOLD : TextStyle.SUMMARY_ALT, true));
+          .setColor(getTextColor(isHidden ? TextStyle.SUMMARY_GOLD : TextStyle.SUMMARY))
+          .setShadowColor(getTextColor(isHidden ? TextStyle.SUMMARY_GOLD : TextStyle.SUMMARY, true));
 
         const passiveAttr = starterDataEntry.passiveAttr;
         const passiveAbility = allAbilities[this.lastSpecies.getPassiveAbility(formIndex)];
@@ -4100,13 +4092,13 @@ export class StarterSelectUiHandler extends MessageUiHandler {
           const isUnlocked = !!(passiveAttr & PassiveAttr.UNLOCKED);
           const isEnabled = !!(passiveAttr & PassiveAttr.ENABLED);
 
-          const textStyle = isUnlocked && isEnabled ? TextStyle.SUMMARY_ALT : TextStyle.SUMMARY_GRAY;
+          const textStyle = isUnlocked && isEnabled ? TextStyle.SUMMARY : TextStyle.SUMMARY_GRAY;
           const textAlpha = isUnlocked && isEnabled ? 1 : 0.5;
 
           this.pokemonPassiveLabelText
             .setVisible(!isFreshStartChallenge)
-            .setColor(getTextColor(TextStyle.SUMMARY_ALT))
-            .setShadowColor(getTextColor(TextStyle.SUMMARY_ALT, true));
+            .setColor(getTextColor(TextStyle.SUMMARY))
+            .setShadowColor(getTextColor(TextStyle.SUMMARY, true));
           this.pokemonPassiveText
             .setVisible(!isFreshStartChallenge)
             .setText(passiveAbility.name)

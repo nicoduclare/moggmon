@@ -1,6 +1,0 @@
-{
-  "moneyOwned": "{{formattedMoney}} ₽",
-  "score": "Puntuación: {{score}}",
-  "levelUp": "Nv. UP",
-  "levelUpWithLevel": "Nv. UP: {{level}}"
-}

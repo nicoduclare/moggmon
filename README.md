@@ -4,21 +4,16 @@ SPDX-FileCopyrightText: 2024-2025 Pagefault Games
 SPDX-License-Identifier: CC-BY-NC-SA-4.0
 -->
 
-<p align="center">
-  <img src="./docs/media/mogger-mon-preview.jpg" alt="Mogger Mon gameplay preview" width="100%">
-  <br>
-  <a href="https://moggmon.vercel.app">Play Mogger Mon on Vercel</a>
-</p>
-
 # Mogger Mon
 
-Mogger Mon is a fork of [PokeRogue](https://github.com/pagefaultgames/pokerogue) with new features, a local-first boot flow, and a custom generated roster layered on top of the inherited roguelite battle engine. The project also includes ongoing CC0 asset replacement work for art, audio, UI, and generated roster content.
+Mogger Mon is a browser-based creature battler with a roguelite run structure, local-first boot flow, and a custom generated roster layered on top of a large inherited battle engine.
 
 This repo currently contains:
 
 - the playable Mogger Mon client
 - Mogger Mon-specific UI, copy, branding, and launch flow changes
-- CC0-oriented replacement asset workflows for art, audio, UI, and generated roster content
+- tooling for generated roster installs, icons, TCG-style source cards, and redraw prep
+- a clean non-mon art redraw pack at [output/original-art-redo-pack](./output/original-art-redo-pack)
 
 ## Quick Start
 
@@ -34,19 +29,21 @@ Useful commands:
 - `pnpm typecheck`
 - `pnpm build`
 - `pnpm preview`
+- `pnpm pixelify:asset -- --input <in.png> --output <out.png>`
 
 ## Project Layout
 
 - `src`: game code and debug labs
-- `assets`: vendored game asset files
-- `locales`: vendored localization files
+- `scripts`: asset and content pipeline scripts
+- `assets`: game assets submodule
+- `locales`: localization submodule
 - `docs`: launch notes, manifests, and planning docs
 
-## Open Source Notes
+## Open Source Status
 
-The public tree is sanitized for local paths and high-confidence secret patterns. Asset provenance and inherited credits are still active review areas because this started as a fork.
+The codebase is much closer to Mogger Mon branding now, but it is not yet a clean public OSS drop.
 
-Useful review references:
+Before publishing, review:
 
 - [open-source-readiness.md](./docs/open-source-readiness.md)
 - [mogger-mon-item-taxonomy.md](./docs/mogger-mon-item-taxonomy.md)

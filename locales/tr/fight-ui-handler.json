@@ -1,8 +1,0 @@
-{
-  "pp": "GP",
-  "power": "Güç",
-  "accuracy": "İsabet",
-  "abilityFlyInText": " {{pokemonName}}\n{{passive}}{{abilityName}}",
-  "passive": "Pasifi ",
-  "teraHover": "{{type}} Terasallaştırıldı"
-}

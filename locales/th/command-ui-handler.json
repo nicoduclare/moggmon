@@ -1,8 +1,0 @@
-{
-  "fight": "ต่อสู้",
-  "ball": "บอล",
-  "pokemon": "โปเกมอน",
-  "run": "หนี",
-  "actionMessage": "จะให้ {{pokemonName}}\nทำอะไรดี?",
-  "ballCancel": "ยกเลิก"
-}

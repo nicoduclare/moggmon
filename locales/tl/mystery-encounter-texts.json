@@ -1,7 +1,0 @@
-{
-  "paidMoney": "Nagbayad ka ng ₽{{amount, number}}!",
-  "receiveMoney": "Nakakuha ka ng ₽{{amount, number}}!",
-  "affectsPokedex": "Maka-apekto sa Pokédex Info",
-  "cancelOption": "Balik sa encounter options select.",
-  "viewPartyButton": "Tingin sa Team"
-}
